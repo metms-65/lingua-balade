@@ -1,0 +1,134 @@
+# IMPORTANT : les identifiants (el_0001…) suivent l'ordre des fichiers et des lignes : ajouter seulement en fin.
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+είμαι||ήμουν|v|être|essentiel|Είμαι κουρασμένος.|Je suis fatigué.|íme|íme kurasménos.
+έχω||είχα|v|avoir|essentiel|Έχω χρόνο.|J'ai le temps.|ého|ého hróno.
+θέλω||ήθελα|v|vouloir|essentiel|Θέλω νερό.|Je veux de l'eau.|thélo|thélo neró.
+μπορώ||μπορούσα|v|pouvoir|essentiel|Μπορείς να με βοηθήσεις;|Peux-tu m'aider ?|boró|borís na me voithísis?
+πρέπει||έπρεπε|v|il faut;devoir|essentiel|Πρέπει να φύγω.|Je dois partir.|prépi|prépi na fígo.
+κάνω||έκανα|v|faire|essentiel|Τι κάνεις;|Comment vas-tu ? (Que fais-tu ?)|káno|ti kánis?
+πάω||πήγα|v|aller|essentiel|Πάμε σπίτι.|On rentre à la maison.|páo|páme spíti.
+έρχομαι||ήρθα|v|venir|essentiel|Από πού έρχεσαι;|D'où viens-tu ?|érhome|apó pu érhese?
+λέω||είπα|v|dire|essentiel|Τι λες;|Qu'est-ce que tu dis ?|léo|ti les?
+δίνω||έδωσα|v|donner|essentiel|Δώσε μου το βιβλίο.|Donne-moi le livre.|díno|dóse mu to vivlío.
+βλέπω||είδα|v|voir|essentiel|Βλέπω το λεωφορείο.|Je vois le bus.|vlépo|vlépo to leoforío.
+ξέρω||ήξερα|v|savoir;connaître|essentiel|Δεν ξέρω.|Je ne sais pas.|kséro|den kséro.
+παίρνω||πήρα|v|prendre|essentiel|Παίρνω το τρένο.|Je prends le train.|pérno|pérno to tréno.
+βρίσκω||βρήκα|v|trouver|essentiel|Δεν βρίσκω το κλειδί μου.|Je ne trouve pas ma clé.|vrísko|den vrísko to klidí mu.
+σκέφτομαι||σκέφτηκα|v|penser|essentiel|Σκέφτομαι εσένα.|Je pense à toi.|skéftome|skéftome eséna.
+μένω||έμεινα|v|habiter;rester|essentiel|Πού μένεις;|Où habites-tu ?|méno|pu ménis?
+ζω||έζησα|v|vivre|essentiel|Ζω στο Παρίσι.|Je vis à Paris.|zo|zo sto parísi.
+λέγομαι||-|v|s'appeler|essentiel|Πώς λέγεσαι;|Comment t'appelles-tu ?|légome|pos légese?
+αγαπώ||αγάπησα|v|aimer|essentiel|Σ' αγαπώ.|Je t'aime.|agapó|s'agapó.
+μου αρέσει||μου άρεσε|v|ça me plaît;j'aime|essentiel|Μου αρέσει ο καφές.|J'aime le café.|mu arési|mu arési o kafés.
+χρειάζομαι||χρειάστηκα|v|avoir besoin de|essentiel|Χρειάζομαι βοήθεια.|J'ai besoin d'aide.|hriázome|hriázome voíthia.
+καταλαβαίνω||κατάλαβα|v|comprendre|essentiel|Δεν καταλαβαίνω.|Je ne comprends pas.|katalavéno|den katalavéno.
+μιλάω||μίλησα|v|parler|essentiel|Μιλάτε γαλλικά;|Parlez-vous français ?|miláo|miláte galiká?
+ακούω||άκουσα|v|entendre;écouter|essentiel|Ακούω μουσική.|J'écoute de la musique.|akúo|akúo musikí.
+διαβάζω||διάβασα|v|lire;étudier|essentiel|Διαβάζω εφημερίδα.|Je lis le journal.|diavázo|diavázo efimerída.
+γράφω||έγραψα|v|écrire|essentiel|Γράψε μου ένα μήνυμα.|Écris-moi un message.|gráfo|grápse mu éna mínima.
+τρώω||έφαγα|v|manger|essentiel|Τι θα φάμε;|Qu'est-ce qu'on va manger ?|tróo|ti tha fáme?
+πίνω||ήπια|v|boire|essentiel|Πίνω καφέ.|Je bois du café.|píno|píno kafé.
+ψάχνω||έψαξα|v|chercher|essentiel|Ψάχνω τον σταθμό.|Je cherche la gare.|psáhno|psáhno ton stathmó.
+περιμένω||περίμενα|v|attendre|essentiel|Περίμενέ με!|Attends-moi !|periméno|periméne me!
+ανοίγω||άνοιξα|v|ouvrir|essentiel|Άνοιξε το παράθυρο.|Ouvre la fenêtre.|anígo|ánikse to paráthiro.
+κλείνω||έκλεισα|v|fermer|essentiel|Το μαγαζί κλείνει στις έξι.|Le magasin ferme à six heures.|klíno|to magazí klíni stis éksi.
+βοηθάω||βοήθησα|v|aider|essentiel|Μπορώ να σας βοηθήσω;|Puis-je vous aider ?|voitháo|boró na sas voithíso?
+ρωτάω||ρώτησα|v|demander (question)|essentiel|Μπορώ να ρωτήσω κάτι;|Puis-je demander quelque chose ?|rotáo|boró na rotíso káti?
+απαντάω||απάντησα|v|répondre|essentiel|Δεν απαντάει.|Il ne répond pas.|apantáo|den apantái.
+ξεκινάω||ξεκίνησα|v|commencer|essentiel|Η ταινία ξεκινάει στις οχτώ.|Le film commence à huit heures.|ksekináo|i tenía ksekinái stis ohtó.
+τελειώνω||τελείωσα|v|finir|essentiel|Τελείωσες;|Tu as fini ?|telióno|telíoses?
+ξεχνάω||ξέχασα|v|oublier|essentiel|Το ξέχασα.|Je l'ai oublié.|ksehnáo|to kséhasa.
+θυμάμαι||θυμήθηκα|v|se souvenir|essentiel|Με θυμάσαι;|Tu te souviens de moi ?|thimáme|me thimáse?
+νομίζω||νόμισα|v|croire;penser|essentiel|Νομίζω ότι έχεις δίκιο.|Je crois que tu as raison.|nomízo|nomízo óti éhis díkio.
+εγώ||-|pron|je;moi|essentiel|Εγώ είμαι ο Μισέλ.|Moi, je suis Michel.|egó|egó íme o misél.
+εσύ||-|pron|tu;toi|essentiel|Εσύ τι θέλεις;|Et toi, que veux-tu ?|esí|esí ti thélis?
+αυτός||-|pron|il;lui;celui-ci|essentiel|Αυτός είναι ο αδερφός μου.|C'est mon frère.|aftós|aftós íne o aderfós mu.
+αυτή||-|pron|elle;celle-ci|essentiel|Αυτή είναι η φίλη μου.|C'est mon amie.|aftí|aftí íne i fíli mu.
+αυτό||-|pron|cela;ça|essentiel|Τι είναι αυτό;|Qu'est-ce que c'est ?|aftó|ti íne aftó?
+εμείς||-|pron|nous|essentiel|Εμείς είμαστε φίλοι.|Nous sommes amis.|emís|emís ímaste fíli.
+εσείς||-|pron|vous|essentiel|Εσείς από πού είστε;|Et vous, d'où êtes-vous ?|esís|esís apó pu íste?
+αυτοί||-|pron|ils;eux|essentiel|Αυτοί έρχονται αύριο.|Ils viennent demain.|aftí|aftí érhonde ávrio.
+μου||-|pron|me;mon;ma (après le nom)|essentiel|Το σπίτι μου είναι μικρό.|Ma maison est petite.|mu|to spíti mu íne mikró.
+σου||-|pron|te;ton;ta (après le nom)|essentiel|Πώς είναι η μητέρα σου;|Comment va ta mère ?|su|pos íne i mitéra su?
+του||-|pron|lui;son;sa (à lui)|essentiel|Το αυτοκίνητό του είναι κόκκινο.|Sa voiture est rouge.|tu|to aftokínitó tu íne kókino.
+της||-|pron|lui;son;sa (à elle)|essentiel|Η κόρη της είναι γιατρός.|Sa fille est médecin.|tis|i kóri tis íne giatrós.
+μας||-|pron|nous;notre|essentiel|Το σπίτι μας είναι εδώ.|Notre maison est ici.|mas|to spíti mas íne edó.
+κάτι||-|pron|quelque chose|essentiel|Θέλεις κάτι να πιεις;|Tu veux boire quelque chose ?|káti|thélis káti na pis?
+τίποτα||-|pron|rien|essentiel|Δεν είδα τίποτα.|Je n'ai rien vu.|típota|den ída típota.
+κάποιος||-|pron|quelqu'un|essentiel|Είναι κάποιος εδώ;|Il y a quelqu'un ?|kápios|íne kápios edó?
+κανείς||-|pron|personne|essentiel|Κανείς δεν ξέρει.|Personne ne sait.|kanís|kanís den kséri.
+όλοι||-|pron|tous|essentiel|Όλοι είναι εδώ.|Tout le monde est là.|óli|óli íne edó.
+πολύ||-|adv|beaucoup;très|essentiel|Είναι πολύ ωραίο.|C'est très beau.|polí|íne polí oréo.
+λίγο||-|adv|un peu|essentiel|Μιλάω λίγο ελληνικά.|Je parle un peu grec.|lígo|miláo lígo eliniká.
+ναι||-|intj|oui|essentiel|Ναι, ευχαριστώ.|Oui, merci.|ne|ne, efharistó.
+όχι||-|intj|non|essentiel|Όχι, ευχαριστώ.|Non, merci.|óhi|óhi, efharistó.
+δεν||-|adv|ne… pas|essentiel|Δεν καπνίζω.|Je ne fume pas.|den|den kapnízo.
+παρακαλώ||-|intj|s'il vous plaît;je vous en prie|essentiel|Έναν καφέ, παρακαλώ.|Un café, s'il vous plaît.|parakaló|énan kafé, parakaló.
+ευχαριστώ||-|intj|merci|essentiel|Ευχαριστώ πολύ!|Merci beaucoup !|efharistó|efharistó polí!
+γεια σου||-|intj|salut (bonjour, au revoir)|essentiel|Γεια σου, Νίκο!|Salut, Nikos !|ya su|ya su, níko!
+γεια σας||-|intj|bonjour;au revoir (poli)|essentiel|Γεια σας, κυρία Παπαδοπούλου.|Bonjour, Madame Papadopoulou.|ya sas|ya sas, kiría papadopúlu.
+συγγνώμη||-|intj|pardon;excusez-moi|essentiel|Συγγνώμη, πού είναι η τουαλέτα;|Pardon, où sont les toilettes ?|signómi|signómi, pu íne i tualéta?
+και||-|conj|et|essentiel|ψωμί και τυρί|du pain et du fromage|ke|psomí ke tirí
+ή||-|conj|ou|essentiel|Τσάι ή καφέ;|Thé ou café ?|i|tsái i kafé?
+αλλά||-|conj|mais|essentiel|Είναι ωραίο, αλλά ακριβό.|C'est beau, mais cher.|alá|íne oréo, alá akrivó.
+γιατί||-|conj|parce que;pourquoi|essentiel|Μένω σπίτι γιατί είμαι άρρωστος.|Je reste à la maison parce que je suis malade.|giatí|méno spíti giatí íme árostos.
+ότι||-|conj|que|essentiel|Ξέρω ότι έχεις δίκιο.|Je sais que tu as raison.|óti|kséro óti éhis díkio.
+αν||-|conj|si|essentiel|Αν βρέξει, θα μείνω εδώ.|S'il pleut, je resterai ici.|an|an vréksi, tha míno edó.
+όταν||-|conj|quand (lorsque)|essentiel|Όταν ήμουν παιδί…|Quand j'étais enfant…|ótan|ótan ímun pedí…
+να||-|conj|que;de (devant un verbe)|essentiel|Θέλω να φύγω.|Je veux partir.|na|thélo na fígo.
+θα||-|adv|(marque du futur)|essentiel|Θα έρθω αύριο.|Je viendrai demain.|tha|tha értho ávrio.
+επίσης||-|adv|aussi;également|essentiel|Κι εγώ επίσης.|Moi aussi.|epísis|ki egó epísis.
+μόνο||-|adv|seulement|essentiel|Έχω μόνο πέντε ευρώ.|Je n'ai que cinq euros.|móno|ého móno pénde evró.
+ακόμα||-|adv|encore|essentiel|Ακόμα μία μπίρα, παρακαλώ.|Encore une bière, s'il vous plaît.|akóma|akóma mía bíra, parakaló.
+ήδη||-|adv|déjà|essentiel|Τελείωσες ήδη;|Tu as déjà fini ?|ídi|telíoses ídi?
+εδώ||-|adv|ici|essentiel|Περιμένω εδώ.|J'attends ici.|edó|periméno edó.
+εκεί||-|adv|là-bas|essentiel|Εκεί είναι ο σταθμός.|La gare est là-bas.|ekí|ekí íne o stathmós.
+τώρα||-|adv|maintenant|essentiel|Δεν έχω χρόνο τώρα.|Je n'ai pas le temps maintenant.|tóra|den ého hróno tóra.
+μετά||-|adv|après;ensuite|essentiel|Και μετά;|Et après ?|metá|ke metá?
+πάντα||-|adv|toujours|essentiel|Είναι πάντα στην ώρα του.|Il est toujours à l'heure.|pánda|íne pánda stin óra tu.
+ποτέ||-|adv|jamais|essentiel|Δεν πίνω ποτέ αλκοόλ.|Je ne bois jamais d'alcool.|poté|den píno poté alkoól.
+συχνά||-|adv|souvent|essentiel|Πηγαίνουμε συχνά για περίπατο.|Nous nous promenons souvent.|sihná|pigénume sihná gia perípato.
+μερικές φορές||-|adv|parfois|essentiel|Μερικές φορές μαγειρεύω.|Parfois, je cuisine.|merikés forés|merikés forés magirévo.
+ξανά||-|adv|de nouveau|essentiel|Έλα ξανά!|Reviens !|ksaná|éla ksaná!
+ίσως||-|adv|peut-être|essentiel|Ίσως έρθω αύριο.|Je viendrai peut-être demain.|ísos|ísos értho ávrio.
+βέβαια||-|adv|bien sûr|essentiel|Βέβαια, σε βοηθάω.|Bien sûr que je t'aide.|vévea|vévea, se voitháo.
+μαζί||-|adv|ensemble|essentiel|Τρώμε μαζί.|Nous mangeons ensemble.|mazí|tróme mazí.
+μόνος||-|adj|seul|essentiel|Μένω μόνος.|J'habite seul.|mónos|méno mónos.
+αριστερά||-|adv|à gauche|essentiel|Στρίψτε αριστερά.|Tournez à gauche.|aristerá|strípste aristerá.
+δεξιά||-|adv|à droite|essentiel|Το φαρμακείο είναι δεξιά.|La pharmacie est à droite.|deksiá|to farmakío íne deksiá.
+ευθεία||-|adv|tout droit|essentiel|Πηγαίνετε ευθεία.|Allez tout droit.|efthía|pigénete efthía.
+ποιος||-|pron|qui|essentiel|Ποιος είναι αυτός;|Qui est-ce ?|pios|pios íne aftós?
+τι||-|pron|quoi;que|essentiel|Τι είναι αυτό;|Qu'est-ce que c'est ?|ti|ti íne aftó?
+πού||-|adv|où|essentiel|Πού είσαι;|Où es-tu ?|pu|pu íse?
+πότε||-|adv|quand|essentiel|Πότε έρχεσαι;|Quand viens-tu ?|póte|póte érhese?
+πώς||-|adv|comment|essentiel|Πώς είστε;|Comment allez-vous ?|pos|pos íste?
+πόσο||-|adv|combien|essentiel|Πόσο κάνει;|Combien ça coûte ?|póso|póso káni?
+γιατί;||-|adv|pourquoi ?|essentiel|Γιατί γελάς;|Pourquoi ris-tu ?|giatí?|giatí gelás?
+σε||-|prep|à;dans;en|essentiel|Είμαι στην κουζίνα.|Je suis dans la cuisine.|se|íme stin kuzína.
+με||-|prep|avec|essentiel|Έρχομαι μαζί σου.|Je viens avec toi.|me|érhome mazí su.
+για||-|prep|pour;au sujet de|essentiel|Αυτό είναι για σένα.|C'est pour toi.|gia|aftó íne gia séna.
+από||-|prep|de;depuis|essentiel|Είμαι από τη Γαλλία.|Je viens de France.|apó|íme apó ti galía.
+χωρίς||-|prep|sans|essentiel|Καφές χωρίς ζάχαρη.|Un café sans sucre.|horís|kafés horís záhari.
+μέχρι||-|prep|jusqu'à|essentiel|Μέχρι αύριο!|À demain !|méhri|méhri ávrio!
+μετά από||-|prep|après|essentiel|Μετά από το φαγητό.|Après le repas.|metá apó|metá apó to fagitó.
+πριν||-|prep|avant;il y a|essentiel|Πριν από δύο χρόνια.|Il y a deux ans.|prin|prin apó dío hrónia.
+κοντά||-|adv|près|essentiel|Ο σταθμός είναι κοντά.|La gare est tout près.|kondá|o stathmós íne kondá.
+μακριά||-|adv|loin|essentiel|Είναι μακριά;|C'est loin ?|makriá|íne makriá?
+καλός||-|adj|bon;gentil|essentiel|Είναι καλός άνθρωπος.|C'est quelqu'un de bien.|kalós|íne kalós ánthropos.
+κακός||-|adj|mauvais;méchant|essentiel|Ο καιρός είναι κακός.|Il fait mauvais.|kakós|o kerós íne kakós.
+μεγάλος||-|adj|grand;âgé|essentiel|Το σπίτι είναι μεγάλο.|La maison est grande.|megálos|to spíti íne megálo.
+μικρός||-|adj|petit;jeune|essentiel|Το δωμάτιό μου είναι μικρό.|Ma chambre est petite.|mikrós|to domátió mu íne mikró.
+καινούργιος||-|adj|nouveau;neuf|essentiel|Έχω καινούργιο κινητό.|J'ai un nouveau téléphone.|kenúrgios|ého kenúrgio kinitó.
+παλιός||-|adj|vieux;ancien|essentiel|Η πόλη είναι πολύ παλιά.|La ville est très ancienne.|paliós|i póli íne polí paliá.
+ωραίος||-|adj|beau;bon|essentiel|Τι ωραία μέρα!|Quelle belle journée !|oréos|ti oréa méra!
+εύκολος||-|adj|facile|essentiel|Είναι πολύ εύκολο.|C'est très facile.|éfkolos|íne polí éfkolo.
+δύσκολος||-|adj|difficile|essentiel|Τα ελληνικά είναι δύσκολα.|Le grec est difficile.|dískolos|ta eliniká íne dískola.
+σημαντικός||-|adj|important|essentiel|Είναι πολύ σημαντικό.|C'est très important.|simandikós|íne polí simandikó.
+έτοιμος||-|adj|prêt|essentiel|Το φαγητό είναι έτοιμο.|Le repas est prêt.|étimos|to fagitó íne étimo.
+ελεύθερος||-|adj|libre|essentiel|Είναι ελεύθερη η θέση;|La place est libre ?|eléftheros|íne eléftheri i thési?
+σωστός||-|adj|juste;correct|essentiel|Αυτό είναι σωστό.|C'est juste.|sostós|aftó íne sostó.
+λάθος|το|λάθη|n|erreur;faux|essentiel|Είναι λάθος.|C'est une erreur.|láthos|íne láthos.
+άλλος||-|adj|autre|essentiel|Θέλω την άλλη τσάντα.|Je veux l'autre sac.|álos|thélo tin áli tsánda.
+πράγμα|το|πράγματα|n|chose|essentiel|Πάρε τα πράγματά σου.|Prends tes affaires.|prágma|páre ta prágmatá su.
+ζωή|η|ζωές|n|vie|essentiel|Έτσι είναι η ζωή.|C'est la vie.|zoí|étsi íne i zoí.
+κόσμος|ο|κόσμοι|n|monde;gens|essentiel|Έχει πολύ κόσμο εδώ.|Il y a beaucoup de monde ici.|kósmos|éhi polí kósmo edó.

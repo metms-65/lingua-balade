@@ -1,0 +1,112 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+bekommen||bekam, hat bekommen|v|recevoir;obtenir|essentiel|Ich habe ein Paket bekommen.|J'ai reçu un colis.
+erhalten||erhielt, hat erhalten|v|recevoir|communication|Haben Sie meine E-Mail erhalten?|Avez-vous reçu mon e-mail ?
+schenken||schenkte, hat geschenkt|v|offrir|loisirs|Was schenkst du ihr?|Qu'est-ce que tu lui offres ?
+leihen||lieh, hat geliehen|v|prêter;emprunter|essentiel|Kannst du mir dein Fahrrad leihen?|Tu peux me prêter ton vélo ?
+mieten||mietete, hat gemietet|v|louer|maison|Wir mieten ein Auto.|Nous louons une voiture.
+reparieren||reparierte, hat repariert|v|réparer|maison|Kannst du das reparieren?|Tu peux réparer ça ?
+füllen||füllte, hat gefüllt|v|remplir|essentiel|Füll bitte die Gläser.|Remplis les verres, s'il te plaît.
+ausfüllen||füllte aus, hat ausgefüllt|v|remplir (formulaire)|travail|Bitte füllen Sie das aus.|Veuillez remplir ceci.
+unterschreiben||unterschrieb, hat unterschrieben|v|signer|travail|Unterschreiben Sie hier.|Signez ici.
+zählen||zählte, hat gezählt|v|compter|nombres|Das Kind zählt bis zehn.|L'enfant compte jusqu'à dix.
+rechnen||rechnete, hat gerechnet|v|calculer|nombres|Ich rechne die Kosten aus.|Je calcule les coûts.
+wählen||wählte, hat gewählt|v|choisir;voter;composer (numéro)|essentiel|Wähl eine Farbe.|Choisis une couleur.
+aussuchen||suchte aus, hat ausgesucht|v|choisir|courses|Such dir etwas aus!|Choisis quelque chose !
+probieren||probierte, hat probiert|v|goûter;essayer|cafe|Probier mal den Kuchen!|Goûte le gâteau !
+riechen||roch, hat gerochen|v|sentir (odeur)|cafe|Das riecht gut!|Ça sent bon !
+schmecken lassen||-|v|se régaler|cafe|Lass es dir schmecken!|Régale-toi !
+trinken gehen||ging trinken, ist trinken gegangen|v|aller boire un verre|cafe|Gehen wir etwas trinken?|On va boire un verre ?
+reservieren||reservierte, hat reserviert|v|réserver|cafe|Ich habe einen Tisch reserviert.|J'ai réservé une table.
+empfehlen||empfahl, hat empfohlen|v|recommander|cafe|Was empfehlen Sie?|Que recommandez-vous ?
+übernachten||übernachtete, hat übernachtet|v|passer la nuit|transports|Wir übernachten im Hotel.|Nous passons la nuit à l'hôtel.
+packen||packte, hat gepackt|v|faire (sa valise)|transports|Ich packe meinen Koffer.|Je fais ma valise.
+landen||landete, ist gelandet|v|atterrir|transports|Das Flugzeug ist gelandet.|L'avion a atterri.
+überqueren||überquerte, hat überquert|v|traverser|transports|Überqueren Sie die Straße.|Traversez la rue.
+abbiegen||bog ab, ist abgebogen|v|tourner (direction)|transports|Biegen Sie links ab.|Tournez à gauche.
+sich verlaufen||verlief sich, hat sich verlaufen|v|se perdre (à pied)|transports|Ich habe mich verlaufen.|Je me suis perdu.
+Fahrer|der|Fahrer|n|conducteur|transports|Der Fahrer ist sehr nett.|Le chauffeur est très gentil.
+Platzkarte|die|Platzkarten|n|réservation de place|transports|Haben Sie eine Platzkarte?|Avez-vous une réservation ?
+Richtung|die|Richtungen|n|direction|transports|In welche Richtung muss ich gehen?|Dans quelle direction dois-je aller ?
+Norden|der|-|n|nord|transports|Hamburg liegt im Norden.|Hambourg est dans le nord.
+Süden|der|-|n|sud|transports|München liegt im Süden.|Munich est dans le sud.
+Osten|der|-|n|est|transports|Die Sonne geht im Osten auf.|Le soleil se lève à l'est.
+Westen|der|-|n|ouest|transports|Köln liegt im Westen.|Cologne est dans l'ouest.
+Grenze|die|Grenzen|n|frontière|transports|Wir sind an der Grenze.|Nous sommes à la frontière.
+Ausland|das|-|n|étranger (pays)|transports|Ich arbeite im Ausland.|Je travaille à l'étranger.
+Tourist|der|Touristen|n|touriste|ville|Im Sommer gibt es viele Touristen.|L'été, il y a beaucoup de touristes.
+Information|die|Informationen|n|information|ville|Wo gibt es Informationen?|Où trouve-t-on des informations ?
+Öffnungszeiten||-|n|horaires d'ouverture|ville|Was sind die Öffnungszeiten?|Quels sont les horaires d'ouverture ?
+Kiosk|der|Kioske|n|kiosque|ville|Am Kiosk gibt es Zeitungen.|Au kiosque, il y a des journaux.
+Friseur|der|Friseure|n|coiffeur|ville|Ich gehe zum Friseur.|Je vais chez le coiffeur.
+Stadtteil|der|Stadtteile|n|quartier|ville|In welchem Stadtteil wohnst du?|Dans quel quartier habites-tu ?
+Bürgersteig|der|Bürgersteige|n|trottoir|ville|Geh auf dem Bürgersteig!|Marche sur le trottoir !
+Einwohner|der|Einwohner|n|habitant|ville|Die Stadt hat viele Einwohner.|La ville a beaucoup d'habitants.
+Ruhetag|der|Ruhetage|n|jour de fermeture|ville|Montag ist Ruhetag.|Le lundi est jour de fermeture.
+Kissen|das|Kissen|n|coussin;oreiller|maison|Das Kissen ist weich.|L'oreiller est moelleux.
+Decke|die|Decken|n|couverture;plafond|maison|Mir ist kalt, gib mir eine Decke.|J'ai froid, donne-moi une couverture.
+Teppich|der|Teppiche|n|tapis|maison|Der Teppich ist neu.|Le tapis est neuf.
+Regal|das|Regale|n|étagère|maison|Die Bücher stehen im Regal.|Les livres sont sur l'étagère.
+Steckdose|die|Steckdosen|n|prise électrique|maison|Wo ist die Steckdose?|Où est la prise ?
+Strom|der|-|n|électricité;courant|maison|Wir haben keinen Strom.|Nous n'avons pas d'électricité.
+Keller|der|Keller|n|cave|maison|Der Wein ist im Keller.|Le vin est à la cave.
+Dach|das|Dächer|n|toit|maison|Das Dach ist rot.|Le toit est rouge.
+Garage|die|Garagen|n|garage|maison|Das Auto steht in der Garage.|La voiture est au garage.
+Nachbarschaft|die|-|n|voisinage|maison|Die Nachbarschaft ist ruhig.|Le voisinage est calme.
+Mitarbeiter|der|Mitarbeiter|n|employé;collaborateur|travail|Wir suchen neue Mitarbeiter.|Nous cherchons de nouveaux collaborateurs.
+Bewerbung|die|Bewerbungen|n|candidature|travail|Ich schreibe eine Bewerbung.|J'écris une candidature.
+Vertrag|der|Verträge|n|contrat|travail|Der Vertrag ist unterschrieben.|Le contrat est signé.
+Zeugnis|das|Zeugnisse|n|certificat;bulletin|travail|Das Zeugnis ist gut.|Le bulletin est bon.
+Werkstatt|die|Werkstätten|n|atelier;garage (réparation)|travail|Das Auto ist in der Werkstatt.|La voiture est au garage.
+Fabrik|die|Fabriken|n|usine|travail|Er arbeitet in einer Fabrik.|Il travaille dans une usine.
+Bauer|der|Bauern|n|agriculteur|travail|Der Bauer arbeitet auf dem Feld.|L'agriculteur travaille aux champs.
+Krankenschwester|die|Krankenschwestern|n|infirmière|travail|Die Krankenschwester hilft dem Patienten.|L'infirmière aide le patient.
+Polizist|der|Polizisten|n|policier|travail|Der Polizist zeigt mir den Weg.|Le policier m'indique le chemin.
+Handwerker|der|Handwerker|n|artisan|travail|Der Handwerker kommt morgen.|L'artisan vient demain.
+arbeitslos||-|adj|au chômage|travail|Er ist seit einem Monat arbeitslos.|Il est au chômage depuis un mois.
+Patient|der|Patienten|n|patient|sante|Der Patient wartet.|Le patient attend.
+Wartezimmer|das|Wartezimmer|n|salle d'attente|sante|Bitte nehmen Sie im Wartezimmer Platz.|Asseyez-vous dans la salle d'attente.
+Versicherung|die|Versicherungen|n|assurance|sante|Haben Sie eine Versicherung?|Avez-vous une assurance ?
+Zahnarzt|der|Zahnärzte|n|dentiste|sante|Ich habe Angst vor dem Zahnarzt.|J'ai peur du dentiste.
+Pflaster|das|Pflaster|n|pansement|sante|Hast du ein Pflaster?|Tu as un pansement ?
+Allergie|die|Allergien|n|allergie|sante|Ich habe eine Allergie gegen Nüsse.|Je suis allergique aux noix.
+Blut|das|-|n|sang|sante|Er hat Blut an der Hand.|Il a du sang sur la main.
+Haut|die|Häute|n|peau|sante|Die Sonne ist schlecht für die Haut.|Le soleil est mauvais pour la peau.
+Schulter|die|Schultern|n|épaule|sante|Meine Schulter tut weh.|J'ai mal à l'épaule.
+Magen|der|Mägen|n|estomac|sante|Mir ist schlecht im Magen.|J'ai mal à l'estomac.
+schlecht sein||-|v|avoir mal au cœur|sante|Mir ist schlecht.|J'ai la nausée.
+Mannschaftssport|der|Mannschaftssportarten|n|sport d'équipe|sport|Fußball ist ein Mannschaftssport.|Le football est un sport d'équipe.
+Stadion|das|Stadien|n|stade|sport|Das Stadion ist voll.|Le stade est plein.
+Sieg|der|Siege|n|victoire|sport|Das war ein toller Sieg!|C'était une belle victoire !
+Ergebnis|das|Ergebnisse|n|résultat|sport|Wie ist das Ergebnis?|Quel est le score ?
+Fan|der|Fans|n|supporter;fan|sport|Er ist ein großer Fan.|C'est un grand fan.
+Laufschuhe||-|n|chaussures de course|sport|Ich brauche neue Laufschuhe.|J'ai besoin de nouvelles chaussures de course.
+Spaziergang|der|Spaziergänge|n|promenade|loisirs|Machen wir einen Spaziergang!|Faisons une promenade !
+Wanderung|die|Wanderungen|n|randonnée|loisirs|Die Wanderung dauert drei Stunden.|La randonnée dure trois heures.
+Picknick|das|Picknicks|n|pique-nique|loisirs|Wir machen ein Picknick im Park.|Nous faisons un pique-nique au parc.
+Zelt|das|Zelte|n|tente|loisirs|Wir schlafen im Zelt.|Nous dormons sous la tente.
+Roman|der|Romane|n|roman|loisirs|Ich lese einen Roman.|Je lis un roman.
+Serie|die|Serien|n|série|loisirs|Ich schaue eine neue Serie.|Je regarde une nouvelle série.
+Nachrichten||-|n|informations (journal)|loisirs|Um acht kommen die Nachrichten.|À huit heures, il y a les infos.
+Radio|das|Radios|n|radio|loisirs|Ich höre Radio im Auto.|J'écoute la radio en voiture.
+Hitze|die|-|n|chaleur|nature|Die Hitze ist schrecklich.|La chaleur est terrible.
+Kälte|die|-|n|froid|nature|Ich mag die Kälte nicht.|Je n'aime pas le froid.
+Nebel|der|-|n|brouillard|nature|Heute Morgen gibt es Nebel.|Ce matin, il y a du brouillard.
+Eis (glace)|das|-|n|glace (gel)|nature|Vorsicht, Eis auf der Straße!|Attention, verglas sur la route !
+Landschaft|die|Landschaften|n|paysage|nature|Die Landschaft ist wunderschön.|Le paysage est magnifique.
+Tal|das|Täler|n|vallée|nature|Das Dorf liegt im Tal.|Le village est dans la vallée.
+Hügel|der|Hügel|n|colline|nature|Wir gehen auf den Hügel.|Nous montons sur la colline.
+Pflanze|die|Pflanzen|n|plante|nature|Die Pflanze braucht Wasser.|La plante a besoin d'eau.
+Gras|das|Gräser|n|herbe|nature|Wir sitzen im Gras.|Nous sommes assis dans l'herbe.
+Blatt|das|Blätter|n|feuille|nature|Die Blätter sind gelb.|Les feuilles sont jaunes.
+Fisch fangen||-|v|pêcher|nature|Wir fangen Fische im See.|Nous pêchons dans le lac.
+Schwein|das|Schweine|n|cochon|nature|Das Schwein ist im Stall.|Le cochon est dans la porcherie.
+Maus|die|Mäuse|n|souris|nature|Die Katze fängt eine Maus.|Le chat attrape une souris.
+Kleiderschrank|der|Kleiderschränke|n|penderie|vetements|Der Kleiderschrank ist voll.|La penderie est pleine.
+Handschuh|der|Handschuhe|n|gant|vetements|Zieh Handschuhe an, es ist kalt!|Mets des gants, il fait froid !
+Stiefel|der|Stiefel|n|botte|vetements|Im Winter trage ich Stiefel.|L'hiver, je porte des bottes.
+Gürtel|der|Gürtel|n|ceinture|vetements|Der Gürtel ist zu kurz.|La ceinture est trop courte.
+Ring|der|Ringe|n|bague|vetements|Sie trägt einen goldenen Ring.|Elle porte une bague en or.
+rosa||-|adj|rose|vetements|Das Baby trägt ein rosa Kleid.|Le bébé porte une robe rose.
+orange||-|adj|orange (couleur)|vetements|Die Jacke ist orange.|La veste est orange.
+bunt||-|adj|multicolore|vetements|Die Blumen sind bunt.|Les fleurs sont multicolores.
+modern||-|adj|moderne|vetements|Die Jacke ist sehr modern.|La veste est très moderne.

@@ -1,0 +1,138 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+σπίτι|το|σπίτια|n|maison|maison|Το σπίτι έχει κήπο.|La maison a un jardin.|spíti|to spíti éhi kípo.
+διαμέρισμα|το|διαμερίσματα|n|appartement|maison|Το διαμέρισμά μας είναι φωτεινό.|Notre appartement est lumineux.|diamérisma|to diamérismá mas íne fotinó.
+δωμάτιο|το|δωμάτια|n|pièce;chambre|maison|Το διαμέρισμα έχει τρία δωμάτια.|L'appartement a trois pièces.|domátio|to diamérisma éhi tría domátia.
+κουζίνα|η|κουζίνες|n|cuisine|maison|Η κουζίνα είναι μικρή.|La cuisine est petite.|kuzína|i kuzína íne mikrí.
+μπάνιο|το|μπάνια|n|salle de bains;baignade|maison|Το μπάνιο είναι πάνω.|La salle de bains est en haut.|bánio|to bánio íne páno.
+υπνοδωμάτιο|το|υπνοδωμάτια|n|chambre à coucher|maison|Το υπνοδωμάτιο είναι ήσυχο.|La chambre est calme.|ipnodomátio|to ipnodomátio íne ísiho.
+σαλόνι|το|σαλόνια|n|salon|maison|Καθόμαστε στο σαλόνι.|Nous sommes assis au salon.|salóni|kathómaste sto salóni.
+τουαλέτα|η|τουαλέτες|n|toilettes|maison|Πού είναι η τουαλέτα;|Où sont les toilettes ?|tualéta|pu íne i tualéta?
+κήπος|ο|κήποι|n|jardin|maison|Στον κήπο έχουμε ντομάτες.|Nous avons des tomates dans le jardin.|kípos|ston kípo éhume domátes.
+μπαλκόνι|το|μπαλκόνια|n|balcon|maison|Πίνουμε καφέ στο μπαλκόνι.|Nous buvons le café sur le balcon.|balkóni|pínume kafé sto balkóni.
+πόρτα|η|πόρτες|n|porte|maison|Κλείσε την πόρτα, παρακαλώ.|Ferme la porte, s'il te plaît.|pórta|klíse tin pórta, parakaló.
+παράθυρο|το|παράθυρα|n|fenêtre|maison|Το παράθυρο είναι ανοιχτό.|La fenêtre est ouverte.|paráthiro|to paráthiro íne anihtó.
+τοίχος|ο|τοίχοι|n|mur|maison|Στον τοίχο υπάρχει ένας πίνακας.|Il y a un tableau au mur.|tíhos|ston tího ipárhi énas pínakas.
+πάτωμα|το|πατώματα|n|sol;plancher|maison|Τα παπούτσια είναι στο πάτωμα.|Les chaussures sont par terre.|pátoma|ta papútsia íne sto pátoma.
+σκάλα|η|σκάλες|n|escalier;échelle|maison|Η σκάλα είναι απότομη.|L'escalier est raide.|skála|i skála íne apótomi.
+όροφος|ο|όροφοι|n|étage|maison|Μένω στον τρίτο όροφο.|J'habite au troisième étage.|órofos|méno ston tríto órofo.
+ασανσέρ|το|-|n|ascenseur|maison|Το ασανσέρ είναι χαλασμένο.|L'ascenseur est en panne.|asansér|to asansér íne halasméno.
+κλειδί|το|κλειδιά|n|clé|maison|Πού είναι το κλειδί μου;|Où est ma clé ?|klidí|pu íne to klidí mu?
+τραπέζι|το|τραπέζια|n|table|maison|Το τραπέζι είναι μεγάλο.|La table est grande.|trapézi|to trapézi íne megálo.
+καρέκλα|η|καρέκλες|n|chaise|maison|Πάρε μια καρέκλα.|Prends une chaise.|karékla|páre mia karékla.
+καναπές|ο|καναπέδες|n|canapé|maison|Ο καναπές είναι αναπαυτικός.|Le canapé est confortable.|kanapés|o kanapés íne anapaftikós.
+κρεβάτι|το|κρεβάτια|n|lit|maison|Πάω για ύπνο, στο κρεβάτι.|Je vais me coucher.|kreváti|páo gia ípno, sto kreváti.
+ντουλάπα|η|ντουλάπες|n|armoire|maison|Τα ρούχα είναι στην ντουλάπα.|Les vêtements sont dans l'armoire.|dulápa|ta rúha íne stin dulápa.
+λάμπα|η|λάμπες|n|lampe|maison|Άναψε τη λάμπα.|Allume la lampe.|lámba|ánapse ti lámba.
+φως|το|φώτα|n|lumière|maison|Σβήσε το φως, παρακαλώ.|Éteins la lumière, s'il te plaît.|fos|svíse to fos, parakaló.
+ψυγείο|το|ψυγεία|n|réfrigérateur|maison|Το γάλα είναι στο ψυγείο.|Le lait est au frigo.|psigío|to gála íne sto psigío.
+φούρνος|ο|φούρνοι|n|four;boulangerie|maison|Το γλυκό είναι στον φούρνο.|Le gâteau est au four.|fúrnos|to glikó íne ston fúrno.
+πλυντήριο|το|πλυντήρια|n|lave-linge|maison|Το πλυντήριο δουλεύει.|La machine à laver tourne.|plindírio|to plindírio dulévi.
+τηλεόραση|η|τηλεοράσεις|n|télévision|maison|Η τηλεόραση είναι πολύ δυνατά.|La télé est trop forte.|tileórasi|i tileórasi íne polí dinatá.
+υπολογιστής|ο|υπολογιστές|n|ordinateur|maison|Ο υπολογιστής μου είναι αργός.|Mon ordinateur est lent.|ipologistís|o ipologistís mu íne argós.
+ενοίκιο|το|ενοίκια|n|loyer|maison|Το ενοίκιο είναι ακριβό.|Le loyer est cher.|eníkio|to eníkio íne akrivó.
+σκουπίδια|τα|-|n|ordures;poubelle|maison|Βγάλε τα σκουπίδια, παρακαλώ.|Sors la poubelle, s'il te plaît.|skupídia|vgále ta skupídia, parakaló.
+καθαρίζω||καθάρισα|v|nettoyer|maison|Καθαρίζω την κουζίνα.|Je nettoie la cuisine.|katharízo|katharízo tin kuzína.
+πλένω||έπλυνα|v|laver|maison|Πλένω τα χέρια μου.|Je me lave les mains.|pléno|pléno ta héria mu.
+κοιμάμαι||κοιμήθηκα|v|dormir|maison|Κοιμήθηκες καλά;|Tu as bien dormi ?|kimáme|kimíthikes kalá?
+ξυπνάω||ξύπνησα|v|se réveiller;se lever|maison|Ξυπνάω στις επτά.|Je me réveille à sept heures.|ksipnáo|ksipnáo stis eptá.
+ντύνομαι||ντύθηκα|v|s'habiller|maison|Ντύνομαι γρήγορα.|Je m'habille vite.|dínome|dínome grígora.
+μετακομίζω||μετακόμισα|v|déménager|maison|Μετακομίζουμε τον άλλο μήνα.|Nous déménageons le mois prochain.|metakomízo|metakomízume ton álo mína.
+ανάβω||άναψα|v|allumer|maison|Άναψε το ραδιόφωνο.|Allume la radio.|anávo|ánapse to radiófono.
+σβήνω||έσβησα|v|éteindre|maison|Σβήσε την τηλεόραση.|Éteins la télé.|zvíno|svíse tin tileórasi.
+καθαρός||-|adj|propre|maison|Το σπίτι είναι καθαρό.|La maison est propre.|katharós|to spíti íne katharó.
+βρόμικος||-|adj|sale|maison|Τα παπούτσια είναι βρόμικα.|Les chaussures sont sales.|vrómikos|ta papútsia íne vrómika.
+ανοιχτός||-|adj|ouvert|maison|Η πόρτα είναι ανοιχτή.|La porte est ouverte.|anihtós|i pórta íne anihtí.
+κλειστός||-|adj|fermé|maison|Το μαγαζί είναι κλειστό.|Le magasin est fermé.|klistós|to magazí íne klistó.
+χαλασμένος||-|adj|en panne;cassé|maison|Η λάμπα είναι χαλασμένη.|La lampe est cassée.|halasménos|i lámba íne halasméni.
+φαγητό|το|φαγητά|n|nourriture;repas|cafe|Το φαγητό είναι έτοιμο.|Le repas est prêt.|fagitó|to fagitó íne étimo.
+μαγειρεύω||μαγείρεψα|v|cuisiner|cafe|Σήμερα μαγειρεύω σούπα.|Aujourd'hui, je fais de la soupe.|magirévo|símera magirévo súpa.
+παραγγέλνω||παρήγγειλα|v|commander|cafe|Θέλω να παραγγείλω.|Je voudrais commander.|parangélno|thélo na parangílo.
+πληρώνω||πλήρωσα|v|payer|cafe|Θέλουμε να πληρώσουμε.|Nous voudrions payer.|pliróno|thélume na plirósume.
+πεινάω||πείνασα|v|avoir faim|cafe|Πεινάω πολύ.|J'ai très faim.|pináo|pináo polí.
+διψάω||δίψασα|v|avoir soif|cafe|Διψάς;|Tu as soif ?|dipsáo|dipsás?
+πρωινό|το|πρωινά|n|petit-déjeuner|cafe|Το πρωινό είναι στις οκτώ.|Le petit-déjeuner est à huit heures.|proinó|to proinó íne stis októ.
+μεσημεριανό|το|-|n|déjeuner|cafe|Τι έχει για μεσημεριανό;|Qu'y a-t-il pour le déjeuner ?|mesimerianó|ti éhi gia mesimerianó?
+βραδινό|το|-|n|dîner|cafe|Το βραδινό είναι στις εννιά.|Le dîner est à neuf heures.|vradinó|to vradinó íne stis eniá.
+καφετέρια|η|καφετέριες|n|café (lieu)|cafe|Βρισκόμαστε στην καφετέρια;|On se retrouve au café ?|kafetéria|vriskómaste stin kafetéria?
+ταβέρνα|η|ταβέρνες|n|taverne|cafe|Πάμε σε μια ταβέρνα δίπλα στη θάλασσα.|Allons dans une taverne au bord de la mer.|tavérna|páme se mia tavérna dípla sti thálasa.
+εστιατόριο|το|εστιατόρια|n|restaurant|cafe|Το εστιατόριο είναι γεμάτο.|Le restaurant est plein.|estiatório|to estiatório íne gemáto.
+σερβιτόρος|ο|σερβιτόροι|n|serveur|cafe|Ο σερβιτόρος φέρνει τον κατάλογο.|Le serveur apporte la carte.|servitóros|o servitóros férni ton katálogo.
+κατάλογος|ο|κατάλογοι|n|menu;carte|cafe|Τον κατάλογο, παρακαλώ.|La carte, s'il vous plaît.|katálogos|ton katálogo, parakaló.
+λογαριασμός|ο|λογαριασμοί|n|addition;compte|cafe|Τον λογαριασμό, παρακαλώ.|L'addition, s'il vous plaît.|logariasmós|ton logariasmó, parakaló.
+φιλοδώρημα|το|φιλοδωρήματα|n|pourboire|cafe|Το φιλοδώρημα είναι για σας.|Le pourboire est pour vous.|filodórima|to filodórima íne gia sas.
+καφές|ο|καφέδες|n|café (boisson)|cafe|Έναν ελληνικό καφέ, μέτριο.|Un café grec, moyennement sucré.|kafés|énan elinikó kafé, métrio.
+τσάι|το|τσάγια|n|thé|cafe|Θέλεις ένα τσάι;|Tu veux un thé ?|tsái|thélis éna tsái?
+νερό|το|νερά|n|eau|cafe|Ένα ποτήρι νερό, παρακαλώ.|Un verre d'eau, s'il vous plaît.|neró|éna potíri neró, parakaló.
+χυμός|ο|χυμοί|n|jus|cafe|Πίνω χυμό πορτοκάλι.|Je bois un jus d'orange.|himós|píno himó portokáli.
+γάλα|το|-|n|lait|cafe|Καφές με γάλα.|Café au lait.|gála|kafés me gála.
+μπίρα|η|μπίρες|n|bière|cafe|Μια μπίρα, παρακαλώ!|Une bière, s'il vous plaît !|bíra|mia bíra, parakaló!
+κρασί|το|κρασιά|n|vin|cafe|Ένα ποτήρι κόκκινο κρασί.|Un verre de vin rouge.|krasí|éna potíri kókino krasí.
+ούζο|το|-|n|ouzo|cafe|Ούζο με μεζέδες.|De l'ouzo avec des mezzés.|úzo|úzo me mezédes.
+ψωμί|το|ψωμιά|n|pain|cafe|Το ψωμί είναι φρέσκο.|Le pain est frais.|psomí|to psomí íne frésko.
+τυρί|το|τυριά|n|fromage|cafe|Η φέτα είναι ελληνικό τυρί.|La feta est un fromage grec.|tirí|i féta íne elinikó tirí.
+κρέας|το|κρέατα|n|viande|cafe|Δεν τρώω κρέας.|Je ne mange pas de viande.|kréas|den tróo kréas.
+ψάρι|το|ψάρια|n|poisson|cafe|Σήμερα έχει φρέσκο ψάρι.|Aujourd'hui, il y a du poisson frais.|psári|símera éhi frésko psári.
+κοτόπουλο|το|κοτόπουλα|n|poulet|cafe|Παίρνω το κοτόπουλο.|Je prends le poulet.|kotópulo|pérno to kotópulo.
+αυγό|το|αυγά|n|œuf|cafe|Για πρωινό τρώω ένα αυγό.|Au petit-déjeuner, je mange un œuf.|avgó|gia proinó tróo éna avgó.
+σούπα|η|σούπες|n|soupe|cafe|Η σούπα είναι ζεστή.|La soupe est chaude.|súpa|i súpa íne zestí.
+σαλάτα|η|σαλάτες|n|salade|cafe|Μια χωριάτικη σαλάτα, παρακαλώ.|Une salade grecque, s'il vous plaît.|saláta|mia horiátiki saláta, parakaló.
+πατάτα|η|πατάτες|n|pomme de terre|cafe|Πατάτες τηγανητές.|Des frites.|patáta|patátes tiganités.
+ρύζι|το|-|n|riz|cafe|Ψάρι με ρύζι.|Du poisson avec du riz.|rízi|psári me rízi.
+μακαρόνια|τα|-|n|pâtes|cafe|Τα παιδιά αγαπούν τα μακαρόνια.|Les enfants adorent les pâtes.|makarónia|ta pediá agapún ta makarónia.
+λαχανικά|τα|-|n|légumes|cafe|Τρώω πολλά λαχανικά.|Je mange beaucoup de légumes.|lahaniká|tróo polá lahaniká.
+φρούτα|τα|-|n|fruits|cafe|Τα φρούτα είναι υγιεινά.|Les fruits sont bons pour la santé.|frúta|ta frúta íne igiiná.
+γλυκό|το|γλυκά|n|gâteau;dessert|cafe|Το γλυκό είναι νόστιμο.|Le dessert est délicieux.|glikó|to glikó íne nóstimo.
+παγωτό|το|παγωτά|n|glace|cafe|Ένα παγωτό σοκολάτα, παρακαλώ.|Une glace au chocolat, s'il vous plaît.|pagotó|éna pagotó sokoláta, parakaló.
+ζάχαρη|η|-|n|sucre|cafe|Βάζεις ζάχαρη;|Tu prends du sucre ?|záhari|vázis záhari?
+αλάτι|το|-|n|sel|cafe|Δώσε μου το αλάτι, παρακαλώ.|Passe-moi le sel, s'il te plaît.|aláti|dóse mu to aláti, parakaló.
+πιπέρι|το|-|n|poivre|cafe|Αλάτι και πιπέρι.|Du sel et du poivre.|pipéri|aláti ke pipéri.
+λάδι|το|λάδια|n|huile|cafe|Μαγειρεύω με ελαιόλαδο.|Je cuisine à l'huile d'olive.|ládi|magirévo me eleólado.
+ποτήρι|το|ποτήρια|n|verre|cafe|Ένα ποτήρι κρασί, παρακαλώ.|Un verre de vin, s'il vous plaît.|potíri|éna potíri krasí, parakaló.
+φλιτζάνι|το|φλιτζάνια|n|tasse|cafe|Ένα φλιτζάνι τσάι.|Une tasse de thé.|flidzáni|éna flidzáni tsái.
+πιάτο|το|πιάτα|n|assiette;plat|cafe|Το πιάτο είναι άδειο.|L'assiette est vide.|piáto|to piáto íne ádio.
+πιρούνι|το|πιρούνια|n|fourchette|cafe|Χρειάζομαι ένα πιρούνι.|J'ai besoin d'une fourchette.|pirúni|hriázome éna pirúni.
+μαχαίρι|το|μαχαίρια|n|couteau|cafe|Το μαχαίρι κόβει καλά.|Le couteau coupe bien.|mahéri|to mahéri kóvi kalá.
+κουτάλι|το|κουτάλια|n|cuillère|cafe|Ένα κουτάλι, παρακαλώ.|Une cuillère, s'il vous plaît.|kutáli|éna kutáli, parakaló.
+μπουκάλι|το|μπουκάλια|n|bouteille|cafe|Ένα μπουκάλι νερό.|Une bouteille d'eau.|bukáli|éna bukáli neró.
+νόστιμος||-|adj|délicieux|cafe|Είναι πολύ νόστιμο!|C'est délicieux !|nóstimos|íne polí nóstimo!
+ζεστός||-|adj|chaud|cafe|Το φαγητό είναι ακόμα ζεστό.|Le repas est encore chaud.|zestós|to fagitó íne akóma zestó.
+κρύος||-|adj|froid|cafe|Η μπίρα είναι κρύα.|La bière est fraîche.|kríos|i bíra íne kría.
+γλυκός||-|adj|sucré;doux|cafe|Ο καφές είναι πολύ γλυκός.|Le café est très sucré.|glikós|o kafés íne polí glikós.
+αλμυρός||-|adj|salé|cafe|Η σούπα είναι αλμυρή.|La soupe est salée.|almirós|i súpa íne almirí.
+φρέσκος||-|adj|frais|cafe|Το ψάρι είναι φρέσκο.|Le poisson est frais.|fréskos|to psári íne frésko.
+καλή όρεξη||-|intj|bon appétit|cafe|Καλή όρεξη!|Bon appétit !|kalí óreksi|kalí óreksi!
+στην υγειά μας||-|intj|santé ! (en trinquant)|cafe|Στην υγειά μας!|À notre santé !|stin igiá mas|stin igiá mas!
+ψωνίζω||ψώνισα|v|faire les courses|courses|Πάω να ψωνίσω.|Je vais faire les courses.|psonízo|páo na psoníso.
+αγοράζω||αγόρασα|v|acheter|courses|Αγοράζω ένα δώρο.|J'achète un cadeau.|agorázo|agorázo éna dóro.
+πουλάω||πούλησα|v|vendre|courses|Πουλάει το αυτοκίνητό του.|Il vend sa voiture.|puláo|pulái to aftokínitó tu.
+κοστίζει||κόστισε|v|coûter|courses|Πόσο κοστίζει αυτό;|Combien coûte ceci ?|kostízi|póso kostízi aftó?
+μαγαζί|το|μαγαζιά|n|magasin|courses|Το μαγαζί είναι κλειστό.|Le magasin est fermé.|magazí|to magazí íne klistó.
+σούπερ μάρκετ|το|-|n|supermarché|courses|Πάω στο σούπερ μάρκετ.|Je vais au supermarché.|súper márket|páo sto súper márket.
+λαϊκή|η|λαϊκές|n|marché (de quartier)|courses|Το Σάββατο έχει λαϊκή.|Le samedi, il y a le marché.|laikí|to sávato éhi laikí.
+αρτοποιείο|το|αρτοποιεία|n|boulangerie|courses|Το αρτοποιείο ανοίγει στις έξι.|La boulangerie ouvre à six heures.|artopiío|to artopiío anígi stis éksi.
+κρεοπωλείο|το|κρεοπωλεία|n|boucherie|courses|Το κρεοπωλείο έχει καλό κρέας.|La boucherie a de la bonne viande.|kreopolío|to kreopolío éhi kaló kréas.
+ταμείο|το|ταμεία|n|caisse|courses|Πληρώστε στο ταμείο.|Payez à la caisse.|tamío|pliróste sto tamío.
+λεφτά|τα|-|n|argent|courses|Δεν έχω λεφτά μαζί μου.|Je n'ai pas d'argent sur moi.|leftá|den ého leftá mazí mu.
+ευρώ|το|-|n|euro|courses|Κάνει δέκα ευρώ.|Ça fait dix euros.|evró|káni déka evró.
+τιμή|η|τιμές|n|prix|courses|Η τιμή είναι καλή.|Le prix est bon.|timí|i timí íne kalí.
+κάρτα|η|κάρτες|n|carte|courses|Δέχεστε κάρτα;|Vous acceptez la carte ?|kárta|déheste kárta?
+μετρητά|τα|-|n|espèces|courses|Πληρώνω μετρητά.|Je paie en espèces.|metritá|pliróno metritá.
+σακούλα|η|σακούλες|n|sac (plastique)|courses|Θέλετε σακούλα;|Voulez-vous un sac ?|sakúla|thélete sakúla?
+τσάντα|η|τσάντες|n|sac|courses|Η τσάντα μου είναι γεμάτη.|Mon sac est plein.|tsánda|i tsánda mu íne gemáti.
+προσφορά|η|προσφορές|n|promotion;offre|courses|Τα μήλα είναι σε προσφορά.|Les pommes sont en promotion.|prosforá|ta míla íne se prosforá.
+μήλο|το|μήλα|n|pomme|courses|Ένα κιλό μήλα, παρακαλώ.|Un kilo de pommes, s'il vous plaît.|mílo|éna kiló míla, parakaló.
+μπανάνα|η|μπανάνες|n|banane|courses|Οι μπανάνες είναι ώριμες.|Les bananes sont mûres.|banána|i banánes íne órimes.
+πορτοκάλι|το|πορτοκάλια|n|orange|courses|Στύβω πορτοκάλια.|Je presse des oranges.|portokáli|stívo portokália.
+λεμόνι|το|λεμόνια|n|citron|courses|Τσάι με λεμόνι.|Thé au citron.|lemóni|tsái me lemóni.
+ντομάτα|η|ντομάτες|n|tomate|courses|Οι ντομάτες είναι από την Κρήτη.|Les tomates viennent de Crète.|domáta|i domátes íne apó tin kríti.
+κρεμμύδι|το|κρεμμύδια|n|oignon|courses|Κόβω ένα κρεμμύδι.|Je coupe un oignon.|kremídi|kóvo éna kremídi.
+αγγούρι|το|αγγούρια|n|concombre|courses|Σαλάτα με αγγούρι.|Une salade au concombre.|angúri|saláta me angúri.
+ελιά|η|ελιές|n|olive;olivier|courses|Οι ελιές της Καλαμάτας είναι διάσημες.|Les olives de Kalamata sont célèbres.|eliá|i eliés tis kalamátas íne diásimes.
+αλεύρι|το|-|n|farine|courses|Για το γλυκό χρειάζομαι αλεύρι.|Pour le gâteau, j'ai besoin de farine.|alévri|gia to glikó hriázome alévri.
+μέλι|το|-|n|miel|courses|Γιαούρτι με μέλι.|Du yaourt au miel.|méli|giaúrti me méli.
+γιαούρτι|το|γιαούρτια|n|yaourt|courses|Το ελληνικό γιαούρτι είναι παχύ.|Le yaourt grec est épais.|giaúrti|to elinikó giaúrti íne pahí.
+σοκολάτα|η|σοκολάτες|n|chocolat|courses|Λατρεύω τη σοκολάτα.|J'adore le chocolat.|sokoláta|latrévo ti sokoláta.
+ακριβός||-|adj|cher|courses|Είναι πολύ ακριβό.|C'est trop cher.|akrivós|íne polí akrivó.
+φτηνός||-|adj|bon marché|courses|Η λαϊκή είναι φτηνή.|Le marché est bon marché.|ftinós|i laikí íne ftiní.
+γεμάτος||-|adj|plein|courses|Το ψυγείο είναι γεμάτο.|Le frigo est plein.|gemátos|to psigío íne gemáto.
+άδειος||-|adj|vide|courses|Το μπουκάλι είναι άδειο.|La bouteille est vide.|ádios|to bukáli íne ádio.

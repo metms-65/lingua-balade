@@ -1,0 +1,239 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+spielen||spielte, hat gespielt|v|jouer|loisirs|Die Kinder spielen draußen.|Les enfants jouent dehors.
+singen||sang, hat gesungen|v|chanter|loisirs|Sie singt im Chor.|Elle chante dans une chorale.
+tanzen||tanzte, hat getanzt|v|danser|loisirs|Wir tanzen die ganze Nacht.|Nous dansons toute la nuit.
+malen||malte, hat gemalt|v|peindre|loisirs|Mein Sohn malt gern.|Mon fils aime peindre.
+fotografieren||fotografierte, hat fotografiert|v|photographier|loisirs|Darf ich hier fotografieren?|Puis-je prendre des photos ici ?
+fernsehen||sah fern, hat ferngesehen|v|regarder la télé|loisirs|Abends sehe ich fern.|Le soir, je regarde la télé.
+ausgehen||ging aus, ist ausgegangen|v|sortir (le soir)|loisirs|Gehen wir heute Abend aus?|On sort ce soir ?
+einladen||lud ein, hat eingeladen|v|inviter|loisirs|Ich lade dich zum Essen ein.|Je t'invite à dîner.
+feiern||feierte, hat gefeiert|v|fêter|loisirs|Wir feiern meinen Geburtstag.|Nous fêtons mon anniversaire.
+sich ausruhen||ruhte sich aus, hat sich ausgeruht|v|se reposer|loisirs|Am Sonntag ruhe ich mich aus.|Le dimanche, je me repose.
+sich treffen||traf sich, hat sich getroffen|v|se retrouver|loisirs|Wir treffen uns um acht.|On se retrouve à huit heures.
+wandern||wanderte, ist gewandert|v|faire de la randonnée|loisirs|Wir wandern in den Bergen.|Nous faisons de la randonnée en montagne.
+Freizeit|die|-|n|temps libre;loisirs|loisirs|Was machst du in deiner Freizeit?|Que fais-tu pendant ton temps libre ?
+Hobby|das|Hobbys|n|passe-temps|loisirs|Mein Hobby ist Kochen.|Mon passe-temps, c'est la cuisine.
+Musik|die|-|n|musique|loisirs|Ich höre gern Musik.|J'aime écouter de la musique.
+Lied|das|Lieder|n|chanson|loisirs|Das Lied ist schön.|La chanson est belle.
+Konzert|das|Konzerte|n|concert|loisirs|Das Konzert beginnt um acht.|Le concert commence à huit heures.
+Film|der|Filme|n|film|loisirs|Der Film war spannend.|Le film était passionnant.
+Buch|das|Bücher|n|livre|loisirs|Ich lese ein gutes Buch.|Je lis un bon livre.
+Zeitung|die|Zeitungen|n|journal|loisirs|Er liest jeden Morgen die Zeitung.|Il lit le journal tous les matins.
+Spiel|das|Spiele|n|jeu;match|loisirs|Das Spiel ist zu Ende.|Le match est terminé.
+Party|die|Partys|n|fête;soirée|loisirs|Kommst du zur Party?|Tu viens à la fête ?
+Fest|das|Feste|n|fête|loisirs|Das Fest ist im Sommer.|La fête a lieu en été.
+Geschenk|das|Geschenke|n|cadeau|loisirs|Das Geschenk ist für dich.|Le cadeau est pour toi.
+Foto|das|Fotos|n|photo|loisirs|Zeig mir die Fotos!|Montre-moi les photos !
+Ausflug|der|Ausflüge|n|excursion|loisirs|Wir machen einen Ausflug.|Nous faisons une excursion.
+Gitarre|die|Gitarren|n|guitare|loisirs|Er spielt Gitarre.|Il joue de la guitare.
+Klavier|das|Klaviere|n|piano|loisirs|Sie spielt Klavier.|Elle joue du piano.
+Kunst|die|Künste|n|art|loisirs|Ich interessiere mich für Kunst.|Je m'intéresse à l'art.
+Ausstellung|die|Ausstellungen|n|exposition|loisirs|Die Ausstellung ist toll.|L'exposition est géniale.
+Eintritt|der|Eintritte|n|entrée (prix)|loisirs|Der Eintritt ist frei.|L'entrée est gratuite.
+spannend||-|adj|passionnant|loisirs|Das Buch ist spannend.|Le livre est passionnant.
+Sport|der|-|n|sport|sport|Ich mache jeden Tag Sport.|Je fais du sport tous les jours.
+Fußball|der|Fußbälle|n|football|sport|Wir spielen Fußball.|Nous jouons au foot.
+Ball|der|Bälle|n|ballon;balle|sport|Wirf mir den Ball!|Lance-moi le ballon !
+Mannschaft|die|Mannschaften|n|équipe|sport|Unsere Mannschaft hat gewonnen.|Notre équipe a gagné.
+Spieler|der|Spieler|n|joueur|sport|Er ist ein guter Spieler.|C'est un bon joueur.
+Tor|das|Tore|n|but;portail|sport|Tor! Wir führen!|But ! On mène !
+Schwimmbad|das|Schwimmbäder|n|piscine|sport|Das Schwimmbad ist im Sommer offen.|La piscine est ouverte l'été.
+schwimmen||schwamm, ist geschwommen|v|nager|sport|Ich schwimme jeden Morgen.|Je nage tous les matins.
+joggen||joggte, ist gejoggt|v|faire du jogging|sport|Ich jogge im Park.|Je fais du jogging dans le parc.
+Ski fahren||fuhr Ski, ist Ski gefahren|v|faire du ski|sport|Im Winter fahren wir Ski.|L'hiver, nous faisons du ski.
+gewinnen||gewann, hat gewonnen|v|gagner|sport|Wer hat gewonnen?|Qui a gagné ?
+verlieren||verlor, hat verloren|v|perdre|sport|Wir haben das Spiel verloren.|Nous avons perdu le match.
+trainieren||trainierte, hat trainiert|v|s'entraîner|sport|Ich trainiere dreimal pro Woche.|Je m'entraîne trois fois par semaine.
+werfen||warf, hat geworfen|v|lancer;jeter|sport|Er wirft den Ball weit.|Il lance le ballon loin.
+springen||sprang, ist gesprungen|v|sauter|sport|Der Hund springt über den Zaun.|Le chien saute par-dessus la clôture.
+Fitnessstudio|das|Fitnessstudios|n|salle de sport|sport|Ich gehe ins Fitnessstudio.|Je vais à la salle de sport.
+Rad fahren||fuhr Rad, ist Rad gefahren|v|faire du vélo|sport|Am Wochenende fahre ich Rad.|Le week-end, je fais du vélo.
+Tennis|das|-|n|tennis|sport|Spielst du Tennis?|Tu joues au tennis ?
+Rennen|das|Rennen|n|course (compétition)|sport|Das Rennen beginnt um zehn.|La course commence à dix heures.
+fit||-|adj|en forme|sport|Ich fühle mich fit.|Je me sens en forme.
+stark||stärker, am stärksten|adj|fort|sport|Er ist sehr stark.|Il est très fort.
+schwach||schwächer, am schwächsten|adj|faible|sport|Ich fühle mich schwach.|Je me sens faible.
+Körper|der|Körper|n|corps|sante|Sport ist gut für den Körper.|Le sport est bon pour le corps.
+Kopf|der|Köpfe|n|tête|sante|Mein Kopf tut weh.|J'ai mal à la tête.
+Gesicht|das|Gesichter|n|visage|sante|Sie hat ein schönes Gesicht.|Elle a un beau visage.
+Auge|das|Augen|n|œil|sante|Er hat blaue Augen.|Il a les yeux bleus.
+Ohr|das|Ohren|n|oreille|sante|Mein Ohr tut weh.|J'ai mal à l'oreille.
+Nase|die|Nasen|n|nez|sante|Meine Nase läuft.|J'ai le nez qui coule.
+Mund|der|Münder|n|bouche|sante|Mach den Mund auf.|Ouvre la bouche.
+Zahn|der|Zähne|n|dent|sante|Ich putze mir die Zähne.|Je me brosse les dents.
+Haar|das|Haare|n|cheveu|sante|Sie hat lange Haare.|Elle a les cheveux longs.
+Hals|der|Hälse|n|cou;gorge|sante|Ich habe Halsschmerzen.|J'ai mal à la gorge.
+Hand|die|Hände|n|main|sante|Gib mir die Hand.|Donne-moi la main.
+Arm|der|Arme|n|bras|sante|Mein Arm ist gebrochen.|Mon bras est cassé.
+Finger|der|Finger|n|doigt|sante|Ich habe mir in den Finger geschnitten.|Je me suis coupé le doigt.
+Bein|das|Beine|n|jambe|sante|Mein Bein tut weh.|J'ai mal à la jambe.
+Fuß|der|Füße|n|pied|sante|Wir gehen zu Fuß.|Nous y allons à pied.
+Knie|das|Knie|n|genou|sante|Mein Knie schmerzt.|J'ai mal au genou.
+Rücken|der|Rücken|n|dos|sante|Ich habe Rückenschmerzen.|J'ai mal au dos.
+Bauch|der|Bäuche|n|ventre|sante|Mir tut der Bauch weh.|J'ai mal au ventre.
+Herz|das|Herzen|n|cœur|sante|Mein Herz schlägt schnell.|Mon cœur bat vite.
+Gesundheit|die|-|n|santé;à vos souhaits|sante|Gesundheit!|À vos souhaits !
+krank||kränker, am kränksten|adj|malade|sante|Ich bin krank.|Je suis malade.
+gesund||-|adj|en bonne santé;sain|sante|Gemüse ist gesund.|Les légumes sont bons pour la santé.
+Schmerz|der|Schmerzen|n|douleur|sante|Haben Sie Schmerzen?|Vous avez mal ?
+wehtun||tat weh, hat wehgetan|v|faire mal|sante|Wo tut es weh?|Où avez-vous mal ?
+Fieber|das|-|n|fièvre|sante|Das Kind hat Fieber.|L'enfant a de la fièvre.
+Erkältung|die|Erkältungen|n|rhume|sante|Ich habe eine Erkältung.|J'ai un rhume.
+Husten|der|-|n|toux|sante|Ich habe Husten.|Je tousse.
+Medikament|das|Medikamente|n|médicament|sante|Nehmen Sie dieses Medikament.|Prenez ce médicament.
+Tablette|die|Tabletten|n|comprimé|sante|Eine Tablette am Morgen.|Un comprimé le matin.
+Rezept|das|Rezepte|n|ordonnance;recette|sante|Sie brauchen ein Rezept.|Il vous faut une ordonnance.
+Unfall|der|Unfälle|n|accident|sante|Es gab einen Unfall.|Il y a eu un accident.
+Notfall|der|Notfälle|n|urgence|sante|Das ist ein Notfall!|C'est une urgence !
+Hilfe|die|-|n|aide;au secours|sante|Hilfe!|Au secours !
+sich verletzen||verletzte sich, hat sich verletzt|v|se blesser|sante|Ich habe mich verletzt.|Je me suis blessé.
+atmen||atmete, hat geatmet|v|respirer|sante|Atmen Sie tief ein.|Respirez profondément.
+Natur|die|-|n|nature|nature|Ich bin gern in der Natur.|J'aime être dans la nature.
+Wetter|das|-|n|temps (météo)|nature|Wie ist das Wetter heute?|Quel temps fait-il aujourd'hui ?
+Sonne|die|Sonnen|n|soleil|nature|Die Sonne scheint.|Le soleil brille.
+Regen|der|-|n|pluie|nature|Der Regen hört nicht auf.|La pluie ne s'arrête pas.
+regnen||regnete, hat geregnet|v|pleuvoir|nature|Es regnet schon wieder.|Il pleut encore.
+Schnee|der|-|n|neige|nature|Die Kinder spielen im Schnee.|Les enfants jouent dans la neige.
+schneien||schneite, hat geschneit|v|neiger|nature|Es schneit seit gestern.|Il neige depuis hier.
+Wind|der|Winde|n|vent|nature|Der Wind ist stark.|Le vent est fort.
+Wolke|die|Wolken|n|nuage|nature|Am Himmel sind viele Wolken.|Il y a beaucoup de nuages dans le ciel.
+Himmel|der|Himmel|n|ciel|nature|Der Himmel ist blau.|Le ciel est bleu.
+Gewitter|das|Gewitter|n|orage|nature|Heute Abend gibt es ein Gewitter.|Ce soir, il y aura de l'orage.
+Grad|der|Grade|n|degré|nature|Es sind zwanzig Grad.|Il fait vingt degrés.
+sonnig||-|adj|ensoleillé|nature|Morgen wird es sonnig.|Demain, il fera beau.
+bewölkt||-|adj|nuageux|nature|Heute ist es bewölkt.|Aujourd'hui, c'est nuageux.
+nass||-|adj|mouillé|nature|Meine Schuhe sind nass.|Mes chaussures sont mouillées.
+trocken||-|adj|sec|nature|Die Wäsche ist trocken.|Le linge est sec.
+Baum|der|Bäume|n|arbre|nature|Der Baum ist sehr alt.|L'arbre est très vieux.
+Blume|die|Blumen|n|fleur|nature|Ich schenke dir Blumen.|Je t'offre des fleurs.
+Wald|der|Wälder|n|forêt|nature|Wir gehen im Wald spazieren.|Nous nous promenons en forêt.
+Berg|der|Berge|n|montagne|nature|Der Berg ist hoch.|La montagne est haute.
+See|der|Seen|n|lac|nature|Wir schwimmen im See.|Nous nageons dans le lac.
+Meer|das|Meere|n|mer|nature|Das Meer ist ruhig.|La mer est calme.
+Strand|der|Strände|n|plage|nature|Wir liegen am Strand.|Nous sommes allongés sur la plage.
+Fluss|der|Flüsse|n|rivière;fleuve|nature|Der Rhein ist ein langer Fluss.|Le Rhin est un long fleuve.
+Insel|die|Inseln|n|île|nature|Die Insel ist klein.|L'île est petite.
+Feld|das|Felder|n|champ|nature|Auf dem Feld wächst Weizen.|Du blé pousse dans le champ.
+Wiese|die|Wiesen|n|prairie|nature|Die Kühe stehen auf der Wiese.|Les vaches sont dans le pré.
+Stein|der|Steine|n|pierre|nature|Der Weg ist voller Steine.|Le chemin est plein de pierres.
+Erde|die|-|n|terre|nature|Die Erde ist rund.|La Terre est ronde.
+Luft|die|-|n|air|nature|Die Luft ist frisch.|L'air est frais.
+Mond|der|Monde|n|lune|nature|Der Mond ist heute voll.|La lune est pleine ce soir.
+Stern|der|Sterne|n|étoile|nature|Man sieht viele Sterne.|On voit beaucoup d'étoiles.
+Tier|das|Tiere|n|animal|nature|Hast du ein Haustier?|Tu as un animal de compagnie ?
+Hund|der|Hunde|n|chien|nature|Der Hund bellt.|Le chien aboie.
+Katze|die|Katzen|n|chat|nature|Die Katze schläft auf dem Sofa.|Le chat dort sur le canapé.
+Vogel|der|Vögel|n|oiseau|nature|Die Vögel singen.|Les oiseaux chantent.
+Pferd|das|Pferde|n|cheval|nature|Sie reitet ein Pferd.|Elle monte à cheval.
+Kuh|die|Kühe|n|vache|nature|Die Kuh gibt Milch.|La vache donne du lait.
+wachsen||wuchs, ist gewachsen|v|pousser;grandir|nature|Die Blumen wachsen schnell.|Les fleurs poussent vite.
+scheinen||schien, hat geschienen|v|briller;sembler|nature|Die Sonne scheint.|Le soleil brille.
+Kleidung|die|-|n|vêtements|vetements|Ich brauche warme Kleidung.|J'ai besoin de vêtements chauds.
+Hose|die|Hosen|n|pantalon|vetements|Die Hose ist zu lang.|Le pantalon est trop long.
+Hemd|das|Hemden|n|chemise|vetements|Er trägt ein weißes Hemd.|Il porte une chemise blanche.
+T-Shirt|das|T-Shirts|n|t-shirt|vetements|Ich kaufe ein T-Shirt.|J'achète un t-shirt.
+Pullover|der|Pullover|n|pull|vetements|Zieh einen Pullover an!|Mets un pull !
+Jacke|die|Jacken|n|veste|vetements|Wo ist meine Jacke?|Où est ma veste ?
+Mantel|der|Mäntel|n|manteau|vetements|Im Winter trage ich einen Mantel.|L'hiver, je porte un manteau.
+Kleid|das|Kleider|n|robe|vetements|Das Kleid steht dir gut.|La robe te va bien.
+Rock|der|Röcke|n|jupe|vetements|Sie trägt einen roten Rock.|Elle porte une jupe rouge.
+Schuh|der|Schuhe|n|chaussure|vetements|Die Schuhe sind bequem.|Les chaussures sont confortables.
+Socke|die|Socken|n|chaussette|vetements|Ich brauche neue Socken.|J'ai besoin de nouvelles chaussettes.
+Mütze|die|Mützen|n|bonnet|vetements|Setz deine Mütze auf!|Mets ton bonnet !
+Hut|der|Hüte|n|chapeau|vetements|Der Hut ist schick.|Le chapeau est chic.
+Schal|der|Schals|n|écharpe|vetements|Nimm einen Schal mit.|Prends une écharpe.
+Brille|die|Brillen|n|lunettes|vetements|Ich brauche eine Brille.|J'ai besoin de lunettes.
+Regenschirm|der|Regenschirme|n|parapluie|vetements|Vergiss den Regenschirm nicht!|N'oublie pas le parapluie !
+Größe|die|Größen|n|taille|vetements|Welche Größe haben Sie?|Quelle taille faites-vous ?
+tragen||trug, hat getragen|v|porter|vetements|Sie trägt eine Brille.|Elle porte des lunettes.
+anprobieren||probierte an, hat anprobiert|v|essayer (vêtement)|vetements|Kann ich das anprobieren?|Je peux l'essayer ?
+passen||passte, hat gepasst|v|aller (taille);convenir|vetements|Die Hose passt mir nicht.|Le pantalon ne me va pas.
+weiß||-|adj|blanc|vetements|Der Schnee ist weiß.|La neige est blanche.
+schwarz||-|adj|noir|vetements|Ich trinke den Kaffee schwarz.|Je bois le café noir.
+rot||-|adj|rouge|vetements|Die Ampel ist rot.|Le feu est rouge.
+blau||-|adj|bleu|vetements|Der Himmel ist blau.|Le ciel est bleu.
+grün||-|adj|vert|vetements|Das Gras ist grün.|L'herbe est verte.
+gelb||-|adj|jaune|vetements|Die Banane ist gelb.|La banane est jaune.
+grau||-|adj|gris|vetements|Der Himmel ist grau.|Le ciel est gris.
+braun||-|adj|marron|vetements|Er hat braune Augen.|Il a les yeux marron.
+Farbe|die|Farben|n|couleur|vetements|Welche Farbe magst du?|Quelle couleur aimes-tu ?
+eng||-|adj|étroit;serré|vetements|Die Jacke ist zu eng.|La veste est trop serrée.
+hübsch||-|adj|joli|vetements|Das Kleid ist hübsch.|La robe est jolie.
+Ding|das|Dinge|n|chose|essentiel|Das ist ein komisches Ding.|C'est une chose bizarre.
+Sache|die|Sachen|n|chose;affaire|essentiel|Pack deine Sachen!|Prends tes affaires !
+Teil|der|Teile|n|partie|essentiel|Ein Teil ist für dich.|Une partie est pour toi.
+Art|die|Arten|n|sorte;manière|essentiel|Was für eine Art Film ist das?|C'est quel genre de film ?
+Seite|die|Seiten|n|côté;page|essentiel|Lies die erste Seite.|Lis la première page.
+Grund|der|Gründe|n|raison|essentiel|Aus welchem Grund?|Pour quelle raison ?
+Beispiel|das|Beispiele|n|exemple|essentiel|Zum Beispiel ...|Par exemple...
+Welt|die|Welten|n|monde|essentiel|Die Welt ist klein.|Le monde est petit.
+Leben|das|Leben|n|vie|essentiel|So ist das Leben.|C'est la vie.
+Ort|der|Orte|n|lieu;endroit|essentiel|Das ist ein schöner Ort.|C'est un bel endroit.
+Mal|das|Male|n|fois|essentiel|Das erste Mal in Berlin.|La première fois à Berlin.
+Ruhe|die|-|n|calme;tranquillité|essentiel|Ich brauche Ruhe.|J'ai besoin de calme.
+holen||holte, hat geholt|v|aller chercher|essentiel|Ich hole die Kinder ab.|Je vais chercher les enfants.
+schauen||schaute, hat geschaut|v|regarder|essentiel|Schau mal!|Regarde !
+ansehen||sah an, hat angesehen|v|regarder (attentivement)|essentiel|Sieh dir das an!|Regarde ça !
+aussehen||sah aus, hat ausgesehen|v|avoir l'air|essentiel|Du siehst gut aus.|Tu as bonne mine.
+mitbringen||brachte mit, hat mitgebracht|v|apporter (avec soi)|essentiel|Bring einen Freund mit!|Amène un ami !
+mitkommen||kam mit, ist mitgekommen|v|venir avec|essentiel|Kommst du mit?|Tu viens avec nous ?
+zurückkommen||kam zurück, ist zurückgekommen|v|revenir|essentiel|Ich komme gleich zurück.|Je reviens tout de suite.
+schneiden||schnitt, hat geschnitten|v|couper|essentiel|Schneid das Brot, bitte.|Coupe le pain, s'il te plaît.
+fallen||fiel, ist gefallen|v|tomber|essentiel|Pass auf, du fällst!|Attention, tu vas tomber !
+sitzen||saß, hat gesessen|v|être assis|essentiel|Ich sitze im Garten.|Je suis assis dans le jardin.
+ändern||änderte, hat geändert|v|changer;modifier|essentiel|Wir ändern den Plan.|Nous changeons le plan.
+erlauben||erlaubte, hat erlaubt|v|permettre|essentiel|Das ist nicht erlaubt.|Ce n'est pas permis.
+verboten||-|adj|interdit|essentiel|Rauchen ist hier verboten.|Il est interdit de fumer ici.
+benötigen||benötigte, hat benötigt|v|avoir besoin de|essentiel|Benötigen Sie Hilfe?|Avez-vous besoin d'aide ?
+zumachen||machte zu, hat zugemacht|v|fermer|essentiel|Mach die Tür zu!|Ferme la porte !
+aufmachen||machte auf, hat aufgemacht|v|ouvrir|essentiel|Mach das Fenster auf!|Ouvre la fenêtre !
+stimmen||stimmte, hat gestimmt|v|être exact|essentiel|Das stimmt!|C'est vrai !
+klingen||klang, hat geklungen|v|sonner;paraître|essentiel|Das klingt gut!|Ça a l'air bien !
+froh sein||-|v|être content|essentiel|Ich bin froh darüber.|J'en suis content.
+recht haben||-|v|avoir raison|essentiel|Du hast recht.|Tu as raison.
+Lust haben||-|v|avoir envie|essentiel|Hast du Lust auf Kino?|Tu as envie d'aller au cinéma ?
+Bescheid sagen||-|v|prévenir|essentiel|Sag mir Bescheid!|Préviens-moi !
+leider||-|adv|malheureusement|essentiel|Leider habe ich keine Zeit.|Malheureusement, je n'ai pas le temps.
+zuerst||-|adv|d'abord|essentiel|Zuerst essen wir.|D'abord, on mange.
+endlich||-|adv|enfin|essentiel|Endlich bist du da!|Enfin tu es là !
+plötzlich||-|adv|soudain|essentiel|Plötzlich regnet es.|Soudain, il pleut.
+sofort||-|adv|immédiatement|essentiel|Komm sofort her!|Viens ici tout de suite !
+überall||-|adv|partout|essentiel|Ich habe überall gesucht.|J'ai cherché partout.
+irgendwo||-|adv|quelque part|essentiel|Mein Handy ist irgendwo hier.|Mon téléphone est quelque part ici.
+wahrscheinlich||-|adv|probablement|essentiel|Er kommt wahrscheinlich später.|Il viendra probablement plus tard.
+ziemlich||-|adv|assez (plutôt)|essentiel|Es ist ziemlich kalt.|Il fait assez froid.
+besonders||-|adv|particulièrement|essentiel|Das Essen ist besonders gut.|Le repas est particulièrement bon.
+zu (trop)||-|adv|trop|essentiel|Das ist zu teuer.|C'est trop cher.
+also||-|adv|donc;alors|essentiel|Also, gehen wir!|Bon, allons-y !
+trotzdem||-|adv|quand même|essentiel|Es regnet, aber ich gehe trotzdem.|Il pleut, mais j'y vais quand même.
+deshalb||-|adv|c'est pourquoi|essentiel|Ich bin krank, deshalb bleibe ich zu Hause.|Je suis malade, c'est pourquoi je reste à la maison.
+sondern||-|conj|mais (au contraire)|essentiel|Nicht heute, sondern morgen.|Pas aujourd'hui, mais demain.
+obwohl||-|conj|bien que|essentiel|Obwohl es regnet, gehen wir spazieren.|Bien qu'il pleuve, nous allons nous promener.
+damit||-|conj|pour que|essentiel|Ich spreche langsam, damit du mich verstehst.|Je parle lentement pour que tu me comprennes.
+bevor||-|conj|avant que|essentiel|Ruf mich an, bevor du kommst.|Appelle-moi avant de venir.
+nachdem||-|conj|après que|essentiel|Nachdem wir gegessen hatten, gingen wir.|Après avoir mangé, nous sommes partis.
+während||-|conj|pendant que|essentiel|Während ich koche, liest er.|Pendant que je cuisine, il lit.
+wichtigste||-|adj|le plus important|essentiel|Das Wichtigste ist die Gesundheit.|Le plus important, c'est la santé.
+letzte||-|adj|dernier|essentiel|Das ist der letzte Bus.|C'est le dernier bus.
+nächste||-|adj|prochain|essentiel|Nächste Woche fahre ich weg.|La semaine prochaine, je pars.
+ganze||-|adj|tout le;entier|essentiel|Den ganzen Tag regnet es.|Il pleut toute la journée.
+verschieden||-|adj|différent|essentiel|Wir sind sehr verschieden.|Nous sommes très différents.
+gleiche||-|adj|même|essentiel|Wir haben die gleiche Jacke.|Nous avons la même veste.
+bekannt||-|adj|connu|essentiel|Die Stadt ist sehr bekannt.|La ville est très connue.
+fremd||-|adj|étranger;inconnu|essentiel|Ich bin fremd hier.|Je ne suis pas d'ici.
+hoch||höher, am höchsten|adj|haut|essentiel|Der Turm ist hoch.|La tour est haute.
+tief||-|adj|profond|essentiel|Der See ist tief.|Le lac est profond.
+breit||-|adj|large|essentiel|Die Straße ist breit.|La rue est large.
+dick||-|adj|gros;épais|essentiel|Das Buch ist dick.|Le livre est épais.
+dünn||-|adj|mince;fin|essentiel|Die Wand ist dünn.|Le mur est fin.
+laut||-|adj|bruyant;fort|essentiel|Die Musik ist zu laut.|La musique est trop forte.
+leise||-|adj|doux;bas (son)|essentiel|Sprich bitte leise.|Parle doucement, s'il te plaît.
+weich||-|adj|mou;doux|essentiel|Das Kissen ist weich.|Le coussin est moelleux.
+hart||härter, am härtesten|adj|dur|essentiel|Das Brot ist hart.|Le pain est dur.
+reich||-|adj|riche|essentiel|Er ist sehr reich.|Il est très riche.
+arm||ärmer, am ärmsten|adj|pauvre|essentiel|Die Familie ist arm.|La famille est pauvre.
+schlau||-|adj|malin|essentiel|Das ist eine schlaue Idee.|C'est une idée maligne.
+dumm||dümmer, am dümmsten|adj|bête|essentiel|Das war dumm von mir.|C'était bête de ma part.
+komisch||-|adj|bizarre;drôle|essentiel|Das ist komisch.|C'est bizarre.
+ähnlich||-|adj|semblable|essentiel|Die Brüder sind sich ähnlich.|Les frères se ressemblent.
+gefährlich||-|adj|dangereux|essentiel|Die Straße ist gefährlich.|La route est dangereuse.

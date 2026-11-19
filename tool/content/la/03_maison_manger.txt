@@ -1,0 +1,140 @@
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+domus|f|domus|n|maison|maison|Domus hortum habet.|La maison a un jardin.
+aedes|f|aedis|n|demeure;appartement (pl.)|maison|Aedes nostrae lucidae sunt.|Notre appartement est lumineux.
+cubiculum|n|cubiculi|n|chambre|maison|Cubiculum quietum est.|La chambre est calme.
+culina|f|culinae|n|cuisine|maison|Culina parva est.|La cuisine est petite.
+balneum|n|balnei|n|bain;salle de bains|maison|Balneum sursum est.|La salle de bains est en haut.
+triclinium|n|triclinii|n|salle à manger|maison|In triclinio cenamus.|Nous dînons dans la salle à manger.
+atrium|n|atrii|n|atrium;entrée|maison|In atrio exspecto.|J'attends dans l'entrée.
+latrina|f|latrinae|n|toilettes|maison|Ubi est latrina?|Où sont les toilettes ?
+hortus|m|horti|n|jardin|maison|In horto rosae crescunt.|Dans le jardin poussent des roses.
+ianua|f|ianuae|n|porte|maison|Claude ianuam, quaeso.|Ferme la porte, s'il te plaît.
+fenestra|f|fenestrae|n|fenêtre|maison|Fenestra aperta est.|La fenêtre est ouverte.
+murus|m|muri|n|mur|maison|In muro pictura pendet.|Un tableau est accroché au mur.
+paries|m|parietis|n|mur (intérieur)|maison|Paries albus est.|Le mur est blanc.
+solum|n|soli|n|sol|maison|Calcei in solo sunt.|Les chaussures sont par terre.
+scalae|f|scalarum|n|escalier;échelle|maison|Scalae arduae sunt.|L'escalier est raide.
+tectum|n|tecti|n|toit|maison|Tectum rubrum est.|Le toit est rouge.
+clavis|f|clavis|n|clé|maison|Ubi est clavis mea?|Où est ma clé ?
+mensa|f|mensae|n|table|maison|Mensa magna est.|La table est grande.
+sella|f|sellae|n|chaise|maison|Sume sellam.|Prends une chaise.
+lectus|m|lecti|n|lit|maison|Eo cubitum in lectum.|Je vais me coucher.
+armarium|n|armarii|n|armoire|maison|Vestes in armario sunt.|Les vêtements sont dans l'armoire.
+lucerna|f|lucernae|n|lampe|maison|Accende lucernam.|Allume la lampe.
+lux|f|lucis|n|lumière|maison|Exstingue lucem, quaeso.|Éteins la lumière, s'il te plaît.
+pictura|f|picturae|n|tableau;peinture|maison|Pictura pulchra est.|Le tableau est beau.
+speculum|n|speculi|n|miroir|maison|Speculum in balneo est.|Le miroir est dans la salle de bains.
+sapo|m|saponis|n|savon|maison|Lava manus sapone.|Lave-toi les mains avec du savon.
+mantele|n|mantelis|n|serviette|maison|Ecce mantele mundum.|Voici une serviette propre.
+furnus|m|furni|n|four|maison|Placenta in furno est.|Le gâteau est au four.
+focus|m|foci|n|foyer;feu de cuisine|maison|Olla in foco est.|La marmite est sur le feu.
+frigidarium|n|frigidarii|n|réfrigérateur|maison|Lac in frigidario est.|Le lait est au frigo.
+televisio|f|televisionis|n|télévision|maison|Televisio nimis clamat.|La télévision est trop forte.
+computatrum|n|computatri|n|ordinateur|maison|Computatrum meum lentum est.|Mon ordinateur est lent.
+merces|f|mercedis|n|loyer;salaire|maison|Merces magna est.|Le loyer est élevé.
+purgamenta|n|purgamentorum|n|ordures|maison|Effer purgamenta, quaeso.|Sors les ordures, s'il te plaît.
+purgo||purgare, purgavi, purgatum|v|nettoyer|maison|Culinam purgo.|Je nettoie la cuisine.
+lavo||lavare, lavi, lautum|v|laver|maison|Manus lavo.|Je me lave les mains.
+dormio||dormire, dormivi, dormitum|v|dormir|maison|Bene dormivisti?|Tu as bien dormi ?
+surgo||surgere, surrexi, surrectum|v|se lever|maison|Hora septima surgo.|Je me lève à la septième heure.
+expergiscor||expergisci, experrectus sum|v|se réveiller|maison|Mane expergiscor.|Je me réveille le matin.
+induo||induere, indui, indutum|v|revêtir;mettre (un vêtement)|maison|Tunicam induo.|Je mets ma tunique.
+migro||migrare, migravi, migratum|v|déménager;émigrer|maison|Proximo mense migramus.|Nous déménageons le mois prochain.
+accendo||accendere, accendi, accensum|v|allumer|maison|Ignem accendo.|J'allume le feu.
+exstinguo||exstinguere, exstinxi, exstinctum|v|éteindre|maison|Lucernam exstingue.|Éteins la lampe.
+mundus (propre)||munda, mundum|adj|propre|maison|Domus munda est.|La maison est propre.
+sordidus||sordida, sordidum|adj|sale|maison|Calcei sordidi sunt.|Les chaussures sont sales.
+commodus||commoda, commodum|adj|commode;confortable|maison|Lectus commodus est.|Le lit est confortable.
+lucidus||lucida, lucidum|adj|lumineux;clair|maison|Cubiculum lucidum est.|La chambre est lumineuse.
+obscurus||obscura, obscurum|adj|sombre|maison|Hieme mature obscurum est.|En hiver, il fait nuit tôt.
+apertus||aperta, apertum|adj|ouvert|maison|Ianua aperta est.|La porte est ouverte.
+clausus||clausa, clausum|adj|fermé|maison|Taberna clausa est.|La boutique est fermée.
+fractus||fracta, fractum|adj|cassé|maison|Lucerna fracta est.|La lampe est cassée.
+cibus|m|cibi|n|nourriture;repas|cafe|Cibus paratus est.|Le repas est prêt.
+coquo||coquere, coxi, coctum|v|cuisiner;cuire|cafe|Hodie pultem coquo.|Aujourd'hui, je fais une bouillie.
+ceno||cenare, cenavi, cenatum|v|dîner|cafe|Hora octava cenamus.|Nous dînons à la huitième heure.
+prandeo||prandere, prandi, pransum|v|déjeuner|cafe|Meridie prandemus.|Nous déjeunons à midi.
+iento||ientare, ientavi, ientatum|v|prendre le petit-déjeuner|cafe|Una ientamus.|Nous prenons le petit-déjeuner ensemble.
+solvo||solvere, solvi, solutum|v|payer;délier|cafe|Solvere volumus.|Nous voudrions payer.
+esurio||esurire, esurivi|v|avoir faim|cafe|Esurio!|J'ai faim !
+sitio||sitire, sitivi|v|avoir soif|cafe|Sitisne?|As-tu soif ?
+ientaculum|n|ientaculi|n|petit-déjeuner|cafe|Ientaculum hora octava est.|Le petit-déjeuner est à huit heures.
+prandium|n|prandii|n|déjeuner|cafe|Quid ad prandium est?|Qu'y a-t-il pour le déjeuner ?
+cena|f|cenae|n|dîner|cafe|Cena parata est.|Le dîner est prêt.
+caupona|f|cauponae|n|auberge;restaurant|cafe|Caupona plena est.|L'auberge est pleine.
+taberna (deversoria)|f|tabernae|n|taverne;café|cafe|In taberna convenimus?|On se retrouve à la taverne ?
+minister|m|ministri|n|serveur;assistant|cafe|Minister vinum affert.|Le serveur apporte le vin.
+ratio|f|rationis|n|compte;addition;raison|cafe|Rationem, quaeso.|L'addition, s'il te plaît.
+coffea|f|coffeae|n|café (boisson)|cafe|Coffeam cum lacte, quaeso.|Un café au lait, s'il te plaît.
+theanum|n|theani|n|thé|cafe|Visne theanum?|Veux-tu un thé ?
+aqua|f|aquae|n|eau|cafe|Poculum aquae, quaeso.|Un verre d'eau, s'il te plaît.
+sucus|m|suci|n|jus|cafe|Sucum mali bibo.|Je bois du jus de pomme.
+lac|n|lactis|n|lait|cafe|Lac frigidum est.|Le lait est froid.
+cervisia|f|cervisiae|n|bière|cafe|Cervisiam, quaeso!|Une bière, s'il te plaît !
+vinum|n|vini|n|vin|cafe|Vinum rubrum bibo.|Je bois du vin rouge.
+panis|m|panis|n|pain|cafe|Panis recens est.|Le pain est frais.
+caseus|m|casei|n|fromage|cafe|Caseus bonus est.|Le fromage est bon.
+caro|f|carnis|n|viande;chair|cafe|Carnem non edo.|Je ne mange pas de viande.
+piscis|m|piscis|n|poisson|cafe|Hodie piscem edimus.|Aujourd'hui, nous mangeons du poisson.
+gallina|f|gallinae|n|poule;poulet|cafe|Gallinam assam sumo.|Je prends le poulet rôti.
+ovum|n|ovi|n|œuf|cafe|Ab ovo usque ad mala.|Du début à la fin (de l'œuf aux pommes).
+ius|n|iuris|n|soupe;sauce;bouillon|cafe|Ius calidum est.|La soupe est chaude.
+acetaria|n|acetariorum|n|salade|cafe|Acetaria viridia, quaeso.|Une salade verte, s'il te plaît.
+oryza|f|oryzae|n|riz|cafe|Piscis cum oryza.|Du poisson avec du riz.
+holera|n|holerum|n|légumes|cafe|Multa holera edo.|Je mange beaucoup de légumes.
+fructus|m|fructus|n|fruit;fruits|cafe|Fructus sani sunt.|Les fruits sont sains.
+placenta|f|placentae|n|gâteau|cafe|Placenta dulcis est.|Le gâteau est sucré.
+gelida|f|gelidae|n|glace (dessert)|cafe|Gelidam cum socolata, quaeso.|Une glace au chocolat, s'il te plaît.
+saccharum|n|sacchari|n|sucre|cafe|Saccharumne vis?|Veux-tu du sucre ?
+sal|m|salis|n|sel|cafe|Da mihi salem, quaeso.|Passe-moi le sel, s'il te plaît.
+piper|n|piperis|n|poivre|cafe|Sal et piper.|Du sel et du poivre.
+oleum|n|olei|n|huile|cafe|Oleo olivarum coquo.|Je cuisine à l'huile d'olive.
+mel|n|mellis|n|miel|cafe|Panis cum melle.|Du pain avec du miel.
+poculum|n|poculi|n|verre;coupe|cafe|Poculum vini, quaeso.|Un verre de vin, s'il te plaît.
+patera|f|paterae|n|tasse;coupe|cafe|Pateram thei, quaeso.|Une tasse de thé, s'il te plaît.
+patina|f|patinae|n|assiette;plat|cafe|Patina vacua est.|L'assiette est vide.
+furca|f|furcae|n|fourchette|cafe|Furcam requiro.|J'ai besoin d'une fourchette.
+culter|m|cultri|n|couteau|cafe|Culter acutus est.|Le couteau est aiguisé.
+cochlear|n|cochlearis|n|cuillère|cafe|Cochlear, quaeso.|Une cuillère, s'il te plaît.
+lagoena|f|lagoenae|n|bouteille|cafe|Lagoenam aquae, quaeso.|Une bouteille d'eau, s'il te plaît.
+suavis||suave|adj|délicieux;doux|cafe|Suavissimum est!|C'est délicieux !
+calidus||calida, calidum|adj|chaud|cafe|Cibus adhuc calidus est.|Le repas est encore chaud.
+frigidus||frigida, frigidum|adj|froid|cafe|Cervisia frigida est.|La bière est fraîche.
+dulcis||dulce|adj|doux;sucré|cafe|Placenta nimis dulcis est.|Le gâteau est trop sucré.
+salsus||salsa, salsum|adj|salé|cafe|Ius nimis salsum est.|La soupe est trop salée.
+recens||recentis|adj|frais;récent|cafe|Piscis recens est.|Le poisson est frais.
+satur||satura, saturum|adj|rassasié|cafe|Gratias, satur sum.|Merci, je n'ai plus faim.
+bene sapiat||-|intj|bon appétit|cafe|Bene sapiat!|Bon appétit !
+bene tibi||-|intj|à ta santé !|cafe|Bene tibi!|À ta santé !
+emo||emere, emi, emptum|v|acheter|courses|Donum emo.|J'achète un cadeau.
+vendo||vendere, vendidi, venditum|v|vendre|courses|Autocinetum suum vendit.|Il vend sa voiture.
+consto||constare, constiti|v|coûter|courses|Quanti constat?|Combien ça coûte ?
+taberna|f|tabernae|n|boutique;magasin|courses|Taberna clausa est.|La boutique est fermée.
+macellum|n|macelli|n|marché (alimentaire)|courses|Die Saturni ad macellum eo.|Le samedi, je vais au marché.
+forum|n|fori|n|forum;place du marché|courses|In foro convenimus.|On se retrouve sur la place.
+pistrina|f|pistrinae|n|boulangerie|courses|Pistrina mane aperitur.|La boulangerie ouvre le matin.
+pecunia|f|pecuniae|n|argent|courses|Pecuniam non habeo.|Je n'ai pas d'argent.
+nummus|m|nummi|n|pièce de monnaie|courses|Decem nummis constat.|Ça coûte dix pièces.
+pretium|n|pretii|n|prix|courses|Pretium bonum est.|Le prix est bon.
+charta (nummaria)|f|chartae|n|carte (bancaire)|courses|Chartane solvere possum?|Puis-je payer par carte ?
+sacculus|m|sacculi|n|sac;bourse|courses|Sacculum requiris?|As-tu besoin d'un sac ?
+malum|n|mali|n|pomme|courses|Unum chiliogrammum malorum, quaeso.|Un kilo de pommes, s'il te plaît.
+pirum|n|piri|n|poire|courses|Pira matura sunt.|Les poires sont mûres.
+uva|f|uvae|n|raisin|courses|Uvae dulces sunt.|Le raisin est sucré.
+ficus|f|fici|n|figue;figuier|courses|Ficus maturae sunt.|Les figues sont mûres.
+citrum|n|citri|n|citron|courses|Theanum cum citro.|Du thé au citron.
+malum aurantium|n|mali aurantii|n|orange|courses|Mala aurantia premo.|Je presse des oranges.
+lycopersicum|n|lycopersici|n|tomate|courses|Lycopersica e Sicilia sunt.|Les tomates viennent de Sicile.
+caepa|f|caepae|n|oignon|courses|Caepam seco.|Je coupe un oignon.
+alium|n|alii|n|ail|courses|Hoc ius alium habet.|Cette sauce contient de l'ail.
+carota|f|carotae|n|carotte|courses|Cuniculi carotas edunt.|Les lapins mangent des carottes.
+cucumis|m|cucumeris|n|concombre|courses|Acetaria cum cucumere.|Une salade au concombre.
+oliva|f|olivae|n|olive;olivier|courses|Olivae Graecae optimae sunt.|Les olives grecques sont excellentes.
+farina|f|farinae|n|farine|courses|Ad placentam farinam requiro.|Pour le gâteau, j'ai besoin de farine.
+aromata|n|aromatum|n|épices;aromates|courses|Aromata mihi placent.|J'aime les épices.
+butyrum|n|butyri|n|beurre|courses|Panis cum butyro.|Du pain avec du beurre.
+socolata|f|socolatae|n|chocolat|courses|Socolatam amo.|J'adore le chocolat.
+carus||cara, carum|adj|cher;coûteux;cher (aimé)|courses|Nimis carum est.|C'est trop cher.
+vilis||vile|adj|bon marché|courses|Macellum vile est.|Le marché est bon marché.
+plenus||plena, plenum|adj|plein|courses|Frigidarium plenum est.|Le frigo est plein.
+vacuus||vacua, vacuum|adj|vide|courses|Lagoena vacua est.|La bouteille est vide.

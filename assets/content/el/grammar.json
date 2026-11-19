@@ -1,0 +1,286 @@
+[
+ {
+  "id": "el_gram_alphabet",
+  "title": "L'alphabet et la prononciation",
+  "level": "A1",
+  "summary_fr": "Le grec moderne a 24 lettres. Beaucoup ressemblent aux nôtres, mais attention aux faux amis : Η se lit « i », Ρ se lit « r », Β se lit « v », Χ se lit « h » (comme la jota espagnole). Plusieurs combinaisons se lisent aussi « i » : η, ι, υ, ει, οι. L'accent écrit (ά, έ…) montre la syllabe à appuyer : il change parfois le sens.",
+  "chant": "άλφα, βήτα, γάμα, δέλτα — έψιλον, ζήτα, ήτα, θήτα",
+  "table": {
+   "headers": ["Lettre", "Nom", "Se prononce", "Exemple", "Transcription"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["target", "target", "fr", "target", "translit"],
+   "rows": [
+    ["Β β", "βήτα", "v", "βιβλίο", "vivlío"],
+    ["Γ γ", "γάμα", "gh doux, ou y devant i/e", "γάλα", "gála"],
+    ["Δ δ", "δέλτα", "th anglais doux (this)", "δέκα", "déka"],
+    ["Η η", "ήτα", "i", "ήλιος", "ílios"],
+    ["Θ θ", "θήτα", "th anglais dur (think)", "θάλασσα", "thálasa"],
+    ["Ρ ρ", "ρο", "r roulé", "ρούχα", "rúha"],
+    ["Υ υ", "ύψιλον", "i", "ύπνος", "ípnos"],
+    ["Χ χ", "χι", "h guttural (jota)", "χέρι", "héri"],
+    ["Ψ ψ", "ψι", "ps", "ψωμί", "psomí"],
+    ["Ω ω", "ωμέγα", "o", "ώρα", "óra"]
+   ]
+  },
+  "examples": [
+   {"target": "Καλημέρα!", "fr": "Bonjour ! (kaliméra)"},
+   {"target": "Ευχαριστώ.", "fr": "Merci. (efharistó)"}
+  ]
+ },
+ {
+  "id": "el_gram_combinaisons",
+  "title": "Les combinaisons de lettres",
+  "level": "A1",
+  "summary_fr": "Certaines paires de lettres forment un seul son. Il suffit de les connaître pour lire presque tous les mots. Retenez surtout : ου = « ou », αι = « è », ει et οι = « i », μπ = « b », ντ = « d », γκ = « g ».",
+  "chant": "ου, αι, ει, οι — μπ, ντ, γκ, τσ",
+  "table": {
+   "headers": ["Lettres", "Son", "Exemple", "Transcription", "Sens"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["target", "fr", "target", "translit", "fr"],
+   "rows": [
+    ["ου", "ou", "πού", "pu", "où"],
+    ["αι", "è", "και", "ke", "et"],
+    ["ει", "i", "είναι", "íne", "il est"],
+    ["οι", "i", "οικογένεια", "ikogénia", "famille"],
+    ["αυ", "av / af", "αύριο", "ávrio", "demain"],
+    ["ευ", "év / ef", "ευχαριστώ", "efharistó", "merci"],
+    ["μπ", "b", "μπίρα", "bíra", "bière"],
+    ["ντ", "d", "ντομάτα", "domáta", "tomate"],
+    ["γκ", "g", "γκολ", "gol", "but"],
+    ["τσ", "ts", "τσάι", "tsái", "thé"]
+   ]
+  },
+  "examples": [
+   {"target": "Ένας καφές και μια μπίρα.", "fr": "Un café et une bière. (énas kafés ke mia bíra)"}
+  ]
+ },
+ {
+  "id": "el_gram_articles",
+  "title": "Les articles définis",
+  "level": "A1",
+  "summary_fr": "Trois genres : masculin (ο), féminin (η), neutre (το). Comme en allemand, l'article change avec le cas : sujet (nominatif), complément direct (accusatif), possession (génitif). Le nominatif et l'accusatif suffisent pour commencer. Apprenez chaque nom avec son article.",
+  "chant": "ο, η, το — τον, τη, το — οι, οι, τα — τους, τις, τα",
+  "table": {
+   "headers": ["Cas", "Masculin", "Féminin", "Neutre", "Transcription (m · f · n)"],
+   "column_genders": [null, "m", "f", "n", null],
+   "column_langs": ["fr", "target", "target", "target", "translit"],
+   "rows": [
+    ["Nominatif singulier", "ο", "η", "το", "o · i · to"],
+    ["Accusatif singulier", "τον", "τη(ν)", "το", "ton · ti(n) · to"],
+    ["Génitif singulier", "του", "της", "του", "tu · tis · tu"],
+    ["Nominatif pluriel", "οι", "οι", "τα", "i · i · ta"],
+    ["Accusatif pluriel", "τους", "τις", "τα", "tus · tis · ta"]
+   ]
+  },
+  "examples": [
+   {"target": "Ο άντρας πίνει τον καφέ.", "fr": "L'homme boit le café. (o ándras píni ton kafé)"},
+   {"target": "Βλέπω τη θάλασσα.", "fr": "Je vois la mer. (vlépo ti thálasa)"}
+  ]
+ },
+ {
+  "id": "el_gram_indefini",
+  "title": "L'article indéfini",
+  "level": "A1",
+  "summary_fr": "« Un, une » : ένας (masculin), μία ou μια (féminin), ένα (neutre). Il n'a pas de pluriel : on dit simplement « des cafés » sans article, ou on utilise μερικοί (quelques).",
+  "chant": "ένας, μια, ένα — έναν, μια, ένα",
+  "table": {
+   "headers": ["Cas", "Masculin", "Féminin", "Neutre", "Transcription (m · f · n)"],
+   "column_genders": [null, "m", "f", "n", null],
+   "column_langs": ["fr", "target", "target", "target", "translit"],
+   "rows": [
+    ["Nominatif", "ένας", "μια", "ένα", "énas · mia · éna"],
+    ["Accusatif", "έναν", "μια", "ένα", "énan · mia · éna"]
+   ]
+  },
+  "examples": [
+   {"target": "Θέλω έναν καφέ και μια μπίρα.", "fr": "Je veux un café et une bière. (thélo énan kafé ke mia bíra)"}
+  ]
+ },
+ {
+  "id": "el_gram_pronoms",
+  "title": "Les pronoms personnels",
+  "level": "A1",
+  "summary_fr": "Le pronom sujet est souvent omis, car la terminaison du verbe suffit : « μιλάω » = je parle. Les pronoms compléments courts (με, σε, τον…) se placent avant le verbe : « σε αγαπώ » = je t'aime.",
+  "chant": "εγώ, εσύ, αυτός — με, σε, τον — μου, σου, του",
+  "table": {
+   "headers": ["Sujet", "Complément (avant le verbe)", "Possessif (après le nom)", "Transcription", "Sens"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["target", "target", "target", "translit", "fr"],
+   "rows": [
+    ["εγώ", "με", "μου", "egó · me · mu", "je · me · mon"],
+    ["εσύ", "σε", "σου", "esí · se · su", "tu · te · ton"],
+    ["αυτός", "τον", "του", "aftós · ton · tu", "il · le · son"],
+    ["αυτή", "τη(ν)", "της", "aftí · ti(n) · tis", "elle · la · son"],
+    ["εμείς", "μας", "μας", "emís · mas · mas", "nous · nous · notre"],
+    ["εσείς", "σας", "σας", "esís · sas · sas", "vous · vous · votre"],
+    ["αυτοί", "τους", "τους", "aftí · tus · tus", "ils · les · leur"]
+   ]
+  },
+  "examples": [
+   {"target": "Το σπίτι μου είναι μικρό.", "fr": "Ma maison est petite. (to spíti mu íne mikró)"},
+   {"target": "Σε ευχαριστώ!", "fr": "Je te remercie ! (se efharistó)"}
+  ]
+ },
+ {
+  "id": "el_gram_eimai",
+  "title": "« είμαι » (être) et « έχω » (avoir)",
+  "level": "A1",
+  "summary_fr": "Les deux verbes de base. « είμαι » est irrégulier ; « έχω » suit le modèle régulier des verbes en -ω. « έχει » signifie aussi « il y a ».",
+  "chant": "είμαι, είσαι, είναι — έχω, έχεις, έχει",
+  "table": {
+   "headers": ["Personne", "είμαι (être)", "έχω (avoir)", "Transcription"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "target", "target", "translit"],
+   "rows": [
+    ["εγώ", "είμαι", "έχω", "íme · ého"],
+    ["εσύ", "είσαι", "έχεις", "íse · éhis"],
+    ["αυτός / αυτή", "είναι", "έχει", "íne · éhi"],
+    ["εμείς", "είμαστε", "έχουμε", "ímaste · éhume"],
+    ["εσείς", "είστε", "έχετε", "íste · éhete"],
+    ["αυτοί", "είναι", "έχουν", "íne · éhun"]
+   ]
+  },
+  "examples": [
+   {"target": "Είμαστε κουρασμένοι, αλλά έχουμε χρόνο.", "fr": "Nous sommes fatigués, mais nous avons le temps. (ímaste kurasméni, alá éhume hróno)"}
+  ]
+ },
+ {
+  "id": "el_gram_present",
+  "title": "Le présent des verbes",
+  "level": "A1",
+  "summary_fr": "Deux grandes familles. Groupe 1, accent sur le radical : γράφω (j'écris) → -ω, -εις, -ει, -ουμε, -ετε, -ουν. Groupe 2, accent sur la fin : μιλάω (je parle) → -άω, -άς, -άει, -άμε, -άτε, -άνε.",
+  "chant": "-ω, -εις, -ει — -ουμε, -ετε, -ουν",
+  "table": {
+   "headers": ["Personne", "γράφω (écrire)", "μιλάω (parler)", "Transcription"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "target", "target", "translit"],
+   "rows": [
+    ["εγώ", "γράφω", "μιλάω", "gráfo · miláo"],
+    ["εσύ", "γράφεις", "μιλάς", "gráfis · milás"],
+    ["αυτός", "γράφει", "μιλάει", "gráfi · milái"],
+    ["εμείς", "γράφουμε", "μιλάμε", "gráfume · miláme"],
+    ["εσείς", "γράφετε", "μιλάτε", "gráfete · miláte"],
+    ["αυτοί", "γράφουν", "μιλάνε", "gráfun · miláne"]
+   ]
+  },
+  "examples": [
+   {"target": "Μιλάτε γαλλικά;", "fr": "Parlez-vous français ? (miláte galiká?)"},
+   {"target": "Γράφω ένα μήνυμα.", "fr": "J'écris un message. (gráfo éna mínima)"}
+  ]
+ },
+ {
+  "id": "el_gram_futur",
+  "title": "Le futur avec « θα »",
+  "level": "A2",
+  "summary_fr": "Le futur se forme avec la petite particule θα devant le verbe. Pour une action en cours ou répétée : θα + présent (θα γράφω). Pour une action unique : θα + forme courte du verbe (θα γράψω).",
+  "chant": "θα πάω, θα φάω, θα έρθω, θα δω",
+  "table": {
+   "headers": ["Verbe", "Futur (action unique)", "Transcription", "Sens"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "target", "translit", "fr"],
+   "rows": [
+    ["πάω", "θα πάω", "tha páo", "j'irai"],
+    ["τρώω", "θα φάω", "tha fáo", "je mangerai"],
+    ["έρχομαι", "θα έρθω", "tha értho", "je viendrai"],
+    ["βλέπω", "θα δω", "tha do", "je verrai"],
+    ["γράφω", "θα γράψω", "tha grápso", "j'écrirai"],
+    ["μιλάω", "θα μιλήσω", "tha milíso", "je parlerai"]
+   ]
+  },
+  "examples": [
+   {"target": "Αύριο θα πάμε στη θάλασσα.", "fr": "Demain, nous irons à la mer. (ávrio tha páme sti thálasa)"}
+  ]
+ },
+ {
+  "id": "el_gram_passe",
+  "title": "Le passé (aoriste)",
+  "level": "A2",
+  "summary_fr": "Pour raconter ce qui s'est passé, on utilise l'aoriste. L'accent recule sur l'avant-avant-dernière syllabe ; s'il manque une syllabe, on ajoute ε- au début (γράφω → έγραψα). Beaucoup de verbes courants sont irréguliers : apprenez-les par cœur.",
+  "chant": "πήγα, ήρθα, είδα, έφαγα, ήπια, είπα",
+  "table": {
+   "headers": ["Présent", "Passé (je…)", "Transcription", "Sens"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "target", "translit", "fr"],
+   "rows": [
+    ["πάω", "πήγα", "píga", "je suis allé"],
+    ["έρχομαι", "ήρθα", "írtha", "je suis venu"],
+    ["βλέπω", "είδα", "ída", "j'ai vu"],
+    ["τρώω", "έφαγα", "éfaga", "j'ai mangé"],
+    ["πίνω", "ήπια", "ípia", "j'ai bu"],
+    ["λέω", "είπα", "ípa", "j'ai dit"],
+    ["γράφω", "έγραψα", "égrapsa", "j'ai écrit"],
+    ["μιλάω", "μίλησα", "mílisa", "j'ai parlé"]
+   ]
+  },
+  "examples": [
+   {"target": "Χθες πήγαμε στην Ακρόπολη.", "fr": "Hier, nous sommes allés à l'Acropole. (hthes pígame stin akrópoli)"}
+  ]
+ },
+ {
+  "id": "el_gram_se",
+  "title": "« σε » + article : στο, στη, στον",
+  "level": "A1",
+  "summary_fr": "La préposition σε (à, dans, en) se soude à l'article qui suit. C'est la forme la plus fréquente pour dire où l'on est ou où l'on va.",
+  "chant": "στον, στη, στο — στους, στις, στα",
+  "table": {
+   "headers": ["σε + article", "Forme soudée", "Exemple", "Transcription", "Sens"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["target", "target", "target", "translit", "fr"],
+   "rows": [
+    ["σε + τον", "στον", "στον σταθμό", "ston stathmó", "à la gare"],
+    ["σε + τη(ν)", "στη(ν)", "στη θάλασσα", "sti thálasa", "à la mer"],
+    ["σε + το", "στο", "στο σπίτι", "sto spíti", "à la maison"],
+    ["σε + τους", "στους", "στους φίλους", "stus fílus", "aux amis"],
+    ["σε + τις", "στις", "στις οκτώ", "stis októ", "à huit heures"],
+    ["σε + τα", "στα", "στα νησιά", "sta nisiá", "dans les îles"]
+   ]
+  },
+  "examples": [
+   {"target": "Πάω στο σούπερ μάρκετ και μετά στη θάλασσα.", "fr": "Je vais au supermarché, puis à la mer. (páo sto súper márket ke metá sti thálasa)"}
+  ]
+ },
+ {
+  "id": "el_gram_adjectifs",
+  "title": "L'accord de l'adjectif",
+  "level": "A1",
+  "summary_fr": "L'adjectif s'accorde avec le nom : -ος (masculin), -η ou -α (féminin), -ο (neutre). Au pluriel : -οι, -ες, -α.",
+  "chant": "καλός, καλή, καλό — καλοί, καλές, καλά",
+  "table": {
+   "headers": ["Nombre", "Masculin", "Féminin", "Neutre", "Transcription (m · f · n)"],
+   "column_genders": [null, "m", "f", "n", null],
+   "column_langs": ["fr", "target", "target", "target", "translit"],
+   "rows": [
+    ["Singulier", "καλός", "καλή", "καλό", "kalós · kalí · kaló"],
+    ["Pluriel", "καλοί", "καλές", "καλά", "kalí · kalés · kalá"],
+    ["Singulier", "ωραίος", "ωραία", "ωραίο", "oréos · oréa · oréo"]
+   ]
+  },
+  "examples": [
+   {"target": "Ένας καλός φίλος, μια ωραία μέρα, ένα μικρό σπίτι.", "fr": "Un bon ami, une belle journée, une petite maison."}
+  ]
+ },
+ {
+  "id": "el_gram_questions",
+  "title": "Poser des questions",
+  "level": "A1",
+  "summary_fr": "Attention : le point-virgule grec « ; » est notre point d'interrogation ! L'ordre des mots ne change pas toujours : c'est l'intonation qui fait la question (« Μιλάς ελληνικά; » = Tu parles grec ?).",
+  "chant": "ποιος, τι, πού, πότε, πώς, γιατί, πόσο",
+  "table": {
+   "headers": ["Mot", "Transcription", "Sens", "Exemple"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "translit", "fr", "target"],
+   "rows": [
+    ["ποιος", "pios", "qui", "Ποιος είναι;"],
+    ["τι", "ti", "quoi", "Τι κάνεις;"],
+    ["πού", "pu", "où", "Πού μένεις;"],
+    ["πότε", "póte", "quand", "Πότε φεύγεις;"],
+    ["πώς", "pos", "comment", "Πώς σε λένε;"],
+    ["γιατί", "giatí", "pourquoi", "Γιατί γελάς;"],
+    ["πόσο", "póso", "combien", "Πόσο κάνει;"]
+   ]
+  },
+  "examples": [
+   {"target": "Πώς σε λένε;", "fr": "Comment t'appelles-tu ? (pos se léne?)"}
+  ]
+ }
+]

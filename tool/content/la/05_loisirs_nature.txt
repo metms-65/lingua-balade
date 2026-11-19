@@ -1,0 +1,131 @@
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+ludo||ludere, lusi, lusum|v|jouer|loisirs|Liberi foris ludunt.|Les enfants jouent dehors.
+canto||cantare, cantavi, cantatum|v|chanter|loisirs|In choro cantat.|Elle chante dans un chœur.
+salto||saltare, saltavi, saltatum|v|danser|loisirs|Tota nocte saltamus.|Nous dansons toute la nuit.
+pingo||pingere, pinxi, pictum|v|peindre|loisirs|Filius meus libenter pingit.|Mon fils aime peindre.
+exeo||exire, exii, exitum|v|sortir|loisirs|Hodie vesperi exibimus?|Sortons-nous ce soir ?
+invito||invitare, invitavi, invitatum|v|inviter|loisirs|Te ad cenam invito.|Je t'invite à dîner.
+celebro||celebrare, celebravi, celebratum|v|fêter;célébrer|loisirs|Diem natalem celebramus.|Nous fêtons mon anniversaire.
+quiesco||quiescere, quievi, quietum|v|se reposer|loisirs|Die Solis quiesco.|Le dimanche, je me repose.
+otium|n|otii|n|loisir;temps libre|loisirs|Quid in otio facis?|Que fais-tu pendant tes loisirs ?
+musica|f|musicae|n|musique|loisirs|Musicam libenter audio.|J'aime écouter de la musique.
+carmen|n|carminis|n|chant;poème|loisirs|Carmen pulchrum est.|Le chant est beau.
+concentus|m|concentus|n|concert|loisirs|Concentus hora nona incipit.|Le concert commence à la neuvième heure.
+pellicula|f|pelliculae|n|film|loisirs|Pellicula iucunda erat.|Le film était agréable.
+acta diurna|n|actorum diurnorum|n|journal|loisirs|Acta diurna cotidie lego.|Je lis le journal tous les jours.
+ludus|m|ludi|n|jeu;école|loisirs|Ludus finitus est.|Le jeu est terminé.
+festum|n|festi|n|fête|loisirs|Venisne ad festum?|Viens-tu à la fête ?
+donum|n|doni|n|cadeau|loisirs|Hoc donum tibi est.|Ce cadeau est pour toi.
+imago|f|imaginis|n|image;photo|loisirs|Ostende mihi imagines!|Montre-moi les photos !
+excursio|f|excursionis|n|excursion|loisirs|Excursionem facimus.|Nous faisons une excursion.
+cithara|f|citharae|n|cithare;guitare|loisirs|Cithara canit.|Il joue de la cithare.
+ars (pulchra)|f|artis|n|art|loisirs|Ars longa, vita brevis.|L'art est long, la vie est brève.
+spectaculum|n|spectaculi|n|spectacle|loisirs|Spectaculum mirum est.|Le spectacle est merveilleux.
+iucundus||iucunda, iucundum|adj|agréable|loisirs|Dies iucundus erat.|La journée était agréable.
+lusus|m|lusus|n|jeu;sport|sport|Cotidie lusum exerceo.|Je fais du sport tous les jours.
+pediludium|n|pediludii|n|football|sport|Pediludio ludimus.|Nous jouons au football.
+pila|f|pilae|n|balle;ballon|sport|Iace mihi pilam!|Lance-moi le ballon !
+turma|f|turmae|n|équipe;escadron|sport|Turma nostra vicit.|Notre équipe a gagné.
+lusor|m|lusoris|n|joueur|sport|Bonus lusor est.|C'est un bon joueur.
+piscina|f|piscinae|n|piscine|sport|Piscina aestate aperta est.|La piscine est ouverte l'été.
+nato||natare, natavi, natatum|v|nager|sport|Cotidie mane nato.|Je nage tous les matins.
+vinco||vincere, vici, victum|v|vaincre;gagner|sport|Veni, vidi, vici.|Je suis venu, j'ai vu, j'ai vaincu.
+vincor||vinci, victus sum|v|être vaincu;perdre|sport|Victi sumus.|Nous avons perdu.
+exerceo||exercere, exercui, exercitum|v|exercer;s'entraîner|sport|Ter in hebdomade me exerceo.|Je m'entraîne trois fois par semaine.
+iacio||iacere, ieci, iactum|v|lancer;jeter|sport|Pilam longe iacit.|Il lance le ballon loin.
+salio||salire, salui, saltum|v|sauter|sport|Canis salit.|Le chien saute.
+certamen|n|certaminis|n|compétition;combat;course|sport|Certamen hora decima incipit.|La compétition commence à la dixième heure.
+stadium|n|stadii|n|stade|sport|Stadium plenum est.|Le stade est plein.
+victoria|f|victoriae|n|victoire|sport|Magna victoria!|Belle victoire !
+fortis||forte|adj|fort;courageux|sport|Valde fortis est.|Il est très fort.
+infirmus||infirma, infirmum|adj|faible;malade|sport|Infirmum me sentio.|Je me sens faible.
+corpus|n|corporis|n|corps|sante|Mens sana in corpore sano.|Un esprit sain dans un corps sain.
+caput|n|capitis|n|tête|sante|Caput mihi dolet.|J'ai mal à la tête.
+facies|f|faciei|n|visage|sante|Faciem pulchram habet.|Elle a un beau visage.
+oculus|m|oculi|n|œil|sante|Oculos caeruleos habet.|Il a les yeux bleus.
+auris|f|auris|n|oreille|sante|Auris mihi dolet.|J'ai mal à l'oreille.
+nasus|m|nasi|n|nez|sante|Nasus mihi fluit.|J'ai le nez qui coule.
+os|n|oris|n|bouche|sante|Aperi os.|Ouvre la bouche.
+dens|m|dentis|n|dent|sante|Dentes purgo.|Je me brosse les dents.
+capillus|m|capilli|n|cheveu|sante|Capillos longos habet.|Elle a les cheveux longs.
+collum|n|colli|n|cou|sante|Collum mihi dolet.|J'ai mal au cou.
+fauces|f|faucium|n|gorge|sante|Fauces mihi dolent.|J'ai mal à la gorge.
+manus|f|manus|n|main|sante|Da mihi manum.|Donne-moi la main.
+bracchium|n|bracchii|n|bras|sante|Bracchium fractum est.|Le bras est cassé.
+digitus|m|digiti|n|doigt|sante|Digitum secui.|Je me suis coupé le doigt.
+crus|n|cruris|n|jambe|sante|Crus mihi dolet.|J'ai mal à la jambe.
+pes|m|pedis|n|pied|sante|Pedibus imus.|Nous y allons à pied.
+genu|n|genus|n|genou|sante|Genu mihi dolet.|J'ai mal au genou.
+tergum|n|tergi|n|dos|sante|Tergum mihi dolet.|J'ai mal au dos.
+venter|m|ventris|n|ventre|sante|Venter mihi dolet.|J'ai mal au ventre.
+cor|n|cordis|n|cœur|sante|Cor meum celeriter pulsat.|Mon cœur bat vite.
+valetudo|f|valetudinis|n|santé|sante|Valetudo optima res est.|La santé est la meilleure des choses.
+aegrotus||aegrota, aegrotum|adj|malade|sante|Aegrotus sum.|Je suis malade.
+sanus||sana, sanum|adj|sain;en bonne santé|sante|Holera sana sunt.|Les légumes sont sains.
+dolor|m|doloris|n|douleur|sante|Doloremne habes?|As-tu mal ?
+doleo||dolere, dolui|v|avoir mal;souffrir|sante|Ubi tibi dolet?|Où as-tu mal ?
+febris|f|febris|n|fièvre|sante|Puer febrim habet.|L'enfant a de la fièvre.
+gravedo|f|gravedinis|n|rhume|sante|Gravedinem habeo.|J'ai un rhume.
+tussis|f|tussis|n|toux|sante|Tussim habeo.|Je tousse.
+medicamentum|n|medicamenti|n|médicament|sante|Sume hoc medicamentum.|Prends ce médicament.
+pilula|f|pilulae|n|pilule;comprimé|sante|Unam pilulam mane.|Une pilule le matin.
+casus|m|casus|n|accident;chute;hasard|sante|Casus accidit.|Il est arrivé un accident.
+auxilium|n|auxilii|n|aide;secours|sante|Auxilium!|Au secours !
+vulnero||vulnerare, vulneravi, vulneratum|v|blesser|sante|Vulneratus est.|Il a été blessé.
+spiro||spirare, spiravi, spiratum|v|respirer|sante|Alte spira.|Respire profondément.
+natura|f|naturae|n|nature|nature|Naturam amo.|J'aime la nature.
+tempestas|f|tempestatis|n|temps (météo);tempête|nature|Qualis est tempestas hodie?|Quel temps fait-il aujourd'hui ?
+sol|m|solis|n|soleil|nature|Sol lucet.|Le soleil brille.
+pluvia|f|pluviae|n|pluie|nature|Pluvia non cessat.|La pluie ne cesse pas.
+pluit||pluere, pluit|v|il pleut|nature|Iterum pluit.|Il pleut encore.
+nix|f|nivis|n|neige|nature|Liberi in nive ludunt.|Les enfants jouent dans la neige.
+ningit||ningere, ninxit|v|il neige|nature|In montibus ningit.|Il neige dans les montagnes.
+ventus|m|venti|n|vent|nature|Ventus validus est.|Le vent est fort.
+nubes|f|nubis|n|nuage|nature|In caelo multae nubes sunt.|Il y a beaucoup de nuages dans le ciel.
+caelum|n|caeli|n|ciel|nature|Caelum caeruleum est.|Le ciel est bleu.
+calor|m|caloris|n|chaleur|nature|Calor magnus est.|La chaleur est forte.
+frigus|n|frigoris|n|froid|nature|Frigus me vexat.|Le froid me gêne.
+mare|n|maris|n|mer|nature|Mare tranquillum est.|La mer est calme.
+litus|n|litoris|n|rivage;plage|nature|In litore iacemus.|Nous sommes allongés sur la plage.
+insula|f|insulae|n|île|nature|Insula parva est.|L'île est petite.
+mons|m|montis|n|montagne|nature|Mons altus est.|La montagne est haute.
+arbor|f|arboris|n|arbre|nature|Arbor vetustissima est.|L'arbre est très vieux.
+flos|m|floris|n|fleur|nature|Flores tibi do.|Je t'offre des fleurs.
+silva|f|silvae|n|forêt|nature|In silva ambulamus.|Nous nous promenons en forêt.
+flumen|n|fluminis|n|fleuve;rivière|nature|Tiberis flumen longum est.|Le Tibre est un long fleuve.
+lacus|m|lacus|n|lac|nature|In lacu natamus.|Nous nageons dans le lac.
+ager|m|agri|n|champ|nature|In agro frumentum crescit.|Le blé pousse dans le champ.
+pratum|n|prati|n|pré|nature|Vaccae in prato sunt.|Les vaches sont dans le pré.
+saxum|n|saxi|n|rocher;pierre|nature|Via saxis plena est.|Le chemin est plein de pierres.
+terra|f|terrae|n|terre|nature|Terra rotunda est.|La Terre est ronde.
+aer|m|aeris|n|air|nature|Aer frigidus est.|L'air est frais.
+luna|f|lunae|n|lune|nature|Luna hodie plena est.|La lune est pleine ce soir.
+stella|f|stellae|n|étoile|nature|Multas stellas videmus.|Nous voyons beaucoup d'étoiles.
+animal|n|animalis|n|animal|nature|Habesne animal domesticum?|As-tu un animal domestique ?
+canis|m|canis|n|chien|nature|Cave canem!|Attention au chien !
+feles|f|felis|n|chat|nature|Feles in lecto dormit.|Le chat dort sur le lit.
+avis|f|avis|n|oiseau|nature|Aves cantant.|Les oiseaux chantent.
+vacca|f|vaccae|n|vache|nature|Vacca lac dat.|La vache donne du lait.
+ovis|f|ovis|n|brebis;mouton|nature|Pastor multas oves habet.|Le berger a beaucoup de moutons.
+lupus|m|lupi|n|loup|nature|Homo homini lupus.|L'homme est un loup pour l'homme.
+cresco||crescere, crevi, cretum|v|croître;pousser|nature|Flores celeriter crescunt.|Les fleurs poussent vite.
+luceo||lucere, luxi|v|briller|nature|Sol lucet.|Le soleil brille.
+vestis|f|vestis|n|vêtement;habit|vetements|Vestes calidas requiro.|J'ai besoin de vêtements chauds.
+tunica|f|tunicae|n|tunique;chemise|vetements|Tunicam albam gerit.|Il porte une tunique blanche.
+toga|f|togae|n|toge|vetements|Senator togam gerit.|Le sénateur porte une toge.
+bracae|f|bracarum|n|pantalon|vetements|Bracae nimis longae sunt.|Le pantalon est trop long.
+pallium|n|pallii|n|manteau|vetements|Hieme pallium gero.|L'hiver, je porte un manteau.
+calceus|m|calcei|n|chaussure|vetements|Calcei commodi sunt.|Les chaussures sont confortables.
+solea|f|soleae|n|sandale|vetements|Aestate soleas gero.|L'été, je porte des sandales.
+pileus|m|pilei|n|bonnet;chapeau|vetements|Pileum impone!|Mets ton bonnet !
+umbella|f|umbellae|n|parapluie;ombrelle|vetements|Umbellam ne obliviscaris!|N'oublie pas le parapluie !
+anulus|m|anuli|n|anneau;bague|vetements|Anulum aureum gerit.|Elle porte une bague en or.
+gero||gerere, gessi, gestum|v|porter;mener|vetements|Ocularia gerit.|Elle porte des lunettes.
+ocularia|n|ocularium|n|lunettes|vetements|Ocularia requiro.|J'ai besoin de lunettes.
+albus||alba, album|adj|blanc|vetements|Nix alba est.|La neige est blanche.
+niger||nigra, nigrum|adj|noir|vetements|Coffeam nigram bibo.|Je bois du café noir.
+ruber||rubra, rubrum|adj|rouge|vetements|Rosa rubra est.|La rose est rouge.
+caeruleus||caerulea, caeruleum|adj|bleu|vetements|Mare caeruleum est.|La mer est bleue.
+viridis||viride|adj|vert|vetements|Herba viridis est.|L'herbe est verte.
+flavus||flava, flavum|adj|jaune;blond|vetements|Capillos flavos habet.|Elle a les cheveux blonds.
+color|m|coloris|n|couleur|vetements|Quis color tibi placet?|Quelle couleur te plaît ?

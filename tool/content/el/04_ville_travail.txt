@@ -1,0 +1,88 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+οδηγώ||οδήγησα|v|conduire|transports|Οδηγείς εσύ;|C'est toi qui conduis ?|odigó|odigís esí?
+ταξιδεύω||ταξίδεψα|v|voyager|transports|Μου αρέσει να ταξιδεύω.|J'aime voyager.|taksidévo|mu arési na taksidévo.
+φτάνω||έφτασα|v|arriver|transports|Το τρένο φτάνει στις εννιά.|Le train arrive à neuf heures.|ftáno|to tréno ftáni stis eniá.
+φεύγω||έφυγα|v|partir|transports|Το λεωφορείο φεύγει τώρα.|Le bus part maintenant.|févgo|to leoforío févgi tóra.
+ανεβαίνω||ανέβηκα|v|monter|transports|Ανεβείτε, παρακαλώ!|Montez, s'il vous plaît !|anevéno|anevíte, parakaló!
+κατεβαίνω||κατέβηκα|v|descendre|transports|Κατεβαίνω στην επόμενη στάση.|Je descends au prochain arrêt.|katevéno|katevéno stin epómeni stási.
+χάνω||έχασα|v|perdre;rater|transports|Έχασα το λεωφορείο.|J'ai raté le bus.|háno|éhasa to leoforío.
+παρκάρω||πάρκαρα|v|se garer|transports|Πού μπορώ να παρκάρω;|Où puis-je me garer ?|parkáro|pu boró na parkáro?
+περπατάω||περπάτησα|v|marcher|transports|Περπατάμε μέχρι το λιμάνι.|Nous marchons jusqu'au port.|perpatáo|perpatáme méhri to limáni.
+αυτοκίνητο|το|αυτοκίνητα|n|voiture|transports|Το αυτοκίνητό μου είναι κόκκινο.|Ma voiture est rouge.|aftokínito|to aftokínitó mu íne kókino.
+λεωφορείο|το|λεωφορεία|n|bus|transports|Το λεωφορείο αργεί.|Le bus est en retard.|leoforío|to leoforío argí.
+τρένο|το|τρένα|n|train|transports|Το τρένο για τη Θεσσαλονίκη έχει καθυστέρηση.|Le train pour Thessalonique a du retard.|tréno|to tréno gia ti thesaloníki éhi kathistérisi.
+μετρό|το|-|n|métro|transports|Το μετρό είναι πιο γρήγορο.|Le métro est plus rapide.|metró|to metró íne pio grígoro.
+ταξί|το|-|n|taxi|transports|Παίρνω ταξί.|Je prends un taxi.|taksí|pérno taksí.
+ποδήλατο|το|ποδήλατα|n|vélo|transports|Μου αρέσει το ποδήλατο.|J'aime le vélo.|podílato|mu arési to podílato.
+αεροπλάνο|το|αεροπλάνα|n|avion|transports|Το αεροπλάνο προσγειώνεται.|L'avion atterrit.|aeropláno|to aeropláno prosgiónete.
+πλοίο|το|πλοία|n|bateau;ferry|transports|Πάμε με το πλοίο στη Νάξο.|Nous allons à Naxos en ferry.|plío|páme me to plío sti nákso.
+σταθμός|ο|σταθμοί|n|gare;station|transports|Πώς πάω στον σταθμό;|Comment aller à la gare ?|stathmós|pos páo ston stathmó?
+αεροδρόμιο|το|αεροδρόμια|n|aéroport|transports|Το αεροδρόμιο είναι μακριά.|L'aéroport est loin.|aerodrómio|to aerodrómio íne makriá.
+λιμάνι|το|λιμάνια|n|port|transports|Το πλοίο φεύγει από τον Πειραιά, από το λιμάνι.|Le ferry part du Pirée, du port.|limáni|to plío févgi apó ton pireá, apó to limáni.
+στάση|η|στάσεις|n|arrêt|transports|Η στάση είναι εκεί.|L'arrêt est là-bas.|stási|i stási íne ekí.
+εισιτήριο|το|εισιτήρια|n|billet;ticket|transports|Ένα εισιτήριο για την Αθήνα, παρακαλώ.|Un billet pour Athènes, s'il vous plaît.|isitírio|éna isitírio gia tin athína, parakaló.
+δρομολόγιο|το|δρομολόγια|n|horaire;trajet|transports|Κοίτα το δρομολόγιο.|Regarde l'horaire.|dromológio|kíta to dromológio.
+καθυστέρηση|η|καθυστερήσεις|n|retard|transports|Το πλοίο έχει καθυστέρηση.|Le ferry a du retard.|kathistérisi|to plío éhi kathistérisi.
+ταξίδι|το|ταξίδια|n|voyage|transports|Καλό ταξίδι!|Bon voyage !|taksídi|kaló taksídi!
+βαλίτσα|η|βαλίτσες|n|valise|transports|Η βαλίτσα μου είναι βαριά.|Ma valise est lourde.|valítsa|i valítsa mu íne variá.
+διαβατήριο|το|διαβατήρια|n|passeport|transports|Το διαβατήριό σας, παρακαλώ.|Votre passeport, s'il vous plaît.|diavatírio|to diavatírió sas, parakaló.
+δρόμος|ο|δρόμοι|n|rue;route;chemin|transports|Ξέρεις τον δρόμο;|Tu connais le chemin ?|drómos|kséris ton drómo?
+φανάρι|το|φανάρια|n|feu (de circulation)|transports|Το φανάρι είναι κόκκινο.|Le feu est rouge.|fanári|to fanári íne kókino.
+γωνία|η|γωνίες|n|coin|transports|Η καφετέρια είναι στη γωνία.|Le café est au coin.|gonía|i kafetéria íne sti gonía.
+βενζινάδικο|το|βενζινάδικα|n|station-service|transports|Πρέπει να πάμε στο βενζινάδικο.|Nous devons aller à la station-service.|venzinádiko|prépi na páme sto venzinádiko.
+γρήγορος||-|adj|rapide|transports|Το τρένο είναι γρήγορο.|Le train est rapide.|grígoros|to tréno íne grígoro.
+αργός||-|adj|lent|transports|Μιλήστε πιο αργά, παρακαλώ.|Parlez plus lentement, s'il vous plaît.|argós|milíste pio argá, parakaló.
+πόλη|η|πόλεις|n|ville|ville|Η πόλη είναι πολύ παλιά.|La ville est très ancienne.|póli|i póli íne polí paliá.
+χωριό|το|χωριά|n|village|ville|Είμαι από ένα μικρό χωριό.|Je viens d'un petit village.|horió|íme apó éna mikró horió.
+κέντρο|το|κέντρα|n|centre|ville|Πώς πάω στο κέντρο;|Comment aller au centre ?|kéndro|pos páo sto kéndro?
+πλατεία|η|πλατείες|n|place|ville|Βρισκόμαστε στην πλατεία.|On se retrouve sur la place.|platía|vriskómaste stin platía.
+πάρκο|το|πάρκα|n|parc|ville|Κάνουμε βόλτα στο πάρκο.|Nous nous promenons dans le parc.|párko|kánume vólta sto párko.
+εκκλησία|η|εκκλησίες|n|église|ville|Η εκκλησία είναι πολύ όμορφη.|L'église est très belle.|eklisía|i eklisía íne polí ómorfi.
+μουσείο|το|μουσεία|n|musée|ville|Το μουσείο είναι κλειστό τη Δευτέρα.|Le musée est fermé le lundi.|musío|to musío íne klistó ti deftéra.
+σινεμά|το|-|n|cinéma|ville|Πάμε σινεμά απόψε;|On va au cinéma ce soir ?|sinemá|páme sinemá apópse?
+θέατρο|το|θέατρα|n|théâtre|ville|Το αρχαίο θέατρο της Επιδαύρου.|Le théâtre antique d'Épidaure.|théatro|to arhéo théatro tis epidávru.
+τράπεζα|η|τράπεζες|n|banque|ville|Η τράπεζα είναι στη γωνία.|La banque est au coin de la rue.|trápeza|i trápeza íne sti gonía.
+ταχυδρομείο|το|ταχυδρομεία|n|poste|ville|Πάω στο ταχυδρομείο.|Je vais à la poste.|tahidromío|páo sto tahidromío.
+φαρμακείο|το|φαρμακεία|n|pharmacie|ville|Πού είναι το πιο κοντινό φαρμακείο;|Où est la pharmacie la plus proche ?|farmakío|pu íne to pio kondinó farmakío?
+νοσοκομείο|το|νοσοκομεία|n|hôpital|ville|Είναι στο νοσοκομείο.|Il est à l'hôpital.|nosokomío|íne sto nosokomío.
+αστυνομία|η|-|n|police|ville|Πάρε τηλέφωνο την αστυνομία!|Appelle la police !|astinomía|páre tiléfono tin astinomía!
+ξενοδοχείο|το|ξενοδοχεία|n|hôtel|ville|Το ξενοδοχείο είναι στο κέντρο.|L'hôtel est dans le centre.|ksenodohío|to ksenodohío íne sto kéndro.
+γέφυρα|η|γέφυρες|n|pont|ville|Περνάμε τη γέφυρα.|Nous traversons le pont.|géfira|pernáme ti géfira.
+κτίριο|το|κτίρια|n|bâtiment|ville|Το κτίριο είναι πολύ ψηλό.|Le bâtiment est très haut.|ktírio|to ktírio íne polí psiló.
+σχολείο|το|σχολεία|n|école|ville|Τα παιδιά πάνε στο σχολείο.|Les enfants vont à l'école.|sholío|ta pediá páne sto sholío.
+πανεπιστήμιο|το|πανεπιστήμια|n|université|ville|Σπουδάζει στο πανεπιστήμιο.|Il étudie à l'université.|panepistímio|spudázi sto panepistímio.
+είσοδος|η|είσοδοι|n|entrée|ville|Η είσοδος είναι δεξιά.|L'entrée est à droite.|ísodos|i ísodos íne deksiá.
+έξοδος|η|έξοδοι|n|sortie|ville|Πού είναι η έξοδος;|Où est la sortie ?|éksodos|pu íne i éksodos?
+διεύθυνση|η|διευθύνσεις|n|adresse|ville|Ποια είναι η διεύθυνσή σου;|Quelle est ton adresse ?|diéfthinsi|pia íne i diéfthinsí su?
+χάρτης|ο|χάρτες|n|carte;plan|ville|Έχεις χάρτη της πόλης;|Tu as un plan de la ville ?|hártis|éhis hárti tis pólis?
+βόλτα|η|βόλτες|n|promenade|ville|Πάμε μια βόλτα;|On va faire un tour ?|vólta|páme mia vólta?
+αρχαία|τα|-|n|ruines antiques|ville|Επισκεπτόμαστε τα αρχαία.|Nous visitons les ruines antiques.|arhéa|episkeptómaste ta arhéa.
+δουλειά|η|δουλειές|n|travail|travail|Πάω στη δουλειά.|Je vais au travail.|duliá|páo sti duliá.
+δουλεύω||δούλεψα|v|travailler|travail|Δουλεύω σε γραφείο.|Je travaille dans un bureau.|dulévo|dulévo se grafío.
+επάγγελμα|το|επαγγέλματα|n|métier|travail|Τι επάγγελμα κάνετε;|Quel est votre métier ?|epángelma|ti epángelma kánete?
+γραφείο|το|γραφεία|n|bureau|travail|Το γραφείο είναι στον πρώτο όροφο.|Le bureau est au premier étage.|grafío|to grafío íne ston próto órofo.
+εταιρεία|η|εταιρείες|n|entreprise|travail|Η εταιρεία έχει εκατό υπαλλήλους.|L'entreprise a cent employés.|etería|i etería éhi ekató ipalílus.
+αφεντικό|το|αφεντικά|n|patron|travail|Το αφεντικό μου είναι σε διακοπές.|Mon patron est en vacances.|afendikó|to afendikó mu íne se diakopés.
+συνάδελφος|ο|συνάδελφοι|n|collègue|travail|Ο συνάδελφός μου με βοηθάει.|Mon collègue m'aide.|sinádelfos|o sinádelfós mu me voithái.
+πελάτης|ο|πελάτες|n|client|travail|Ο πελάτης περιμένει.|Le client attend.|pelátis|o pelátis periméni.
+συνάντηση|η|συναντήσεις|n|réunion;rencontre|travail|Η συνάντηση αρχίζει στις δέκα.|La réunion commence à dix heures.|sinándisi|i sinándisi arhízi stis déka.
+διάλειμμα|το|διαλείμματα|n|pause|travail|Ας κάνουμε ένα διάλειμμα!|Faisons une pause !|diálima|as kánume éna diálima!
+μισθός|ο|μισθοί|n|salaire|travail|Ο μισθός είναι καλός.|Le salaire est bon.|misthós|o misthós íne kalós.
+δάσκαλος|ο|δάσκαλοι|n|instituteur;professeur|travail|Ο δάσκαλος εξηγεί τον κανόνα.|Le professeur explique la règle.|dáskalos|o dáskalos eksigí ton kanóna.
+γιατρός|ο|γιατροί|n|médecin|travail|Πρέπει να πάω στον γιατρό.|Je dois aller chez le médecin.|giatrós|prépi na páo ston giatró.
+μηχανικός|ο|μηχανικοί|n|ingénieur;mécanicien|travail|Ο αδερφός μου είναι μηχανικός.|Mon frère est ingénieur.|mihanikós|o aderfós mu íne mihanikós.
+πωλητής|ο|πωλητές|n|vendeur|travail|Ο πωλητής με συμβουλεύει.|Le vendeur me conseille.|politís|o politís me simvulévi.
+μάγειρας|ο|μάγειρες|n|cuisinier|travail|Ο μάγειρας είναι πολύ καλός.|Le cuisinier est très bon.|mágiras|o mágiras íne polí kalós.
+φοιτητής|ο|φοιτητές|n|étudiant|travail|Είναι φοιτητής στην Αθήνα.|Il est étudiant à Athènes.|fititís|íne fititís stin athína.
+συνταξιούχος|ο|συνταξιούχοι|n|retraité|travail|Ο πατέρας μου είναι συνταξιούχος.|Mon père est retraité.|sindaksiúhos|o patéras mu íne sindaksiúhos.
+σπουδάζω||σπούδασα|v|faire des études|travail|Σπουδάζω πληροφορική.|J'étudie l'informatique.|spudázo|spudázo pliroforikí.
+στέλνω||έστειλα|v|envoyer|travail|Σου στέλνω το αρχείο.|Je t'envoie le fichier.|stélno|su stélno to arhío.
+χρησιμοποιώ||χρησιμοποίησα|v|utiliser|travail|Μπορώ να χρησιμοποιήσω το στυλό σου;|Puis-je utiliser ton stylo ?|hrisimopió|boró na hrisimopiíso to stiló su?
+αποφασίζω||αποφάσισα|v|décider|travail|Πρέπει να αποφασίσεις.|Tu dois te décider.|apofasízo|prépi na apofasísis.
+χαρτί|το|χαρτιά|n|papier|travail|Έχεις ένα χαρτί;|Tu as une feuille de papier ?|hartí|éhis éna hartí?
+στυλό|το|-|n|stylo|travail|Έχεις ένα στυλό;|Tu as un stylo ?|stiló|éhis éna stiló?
+αίτηση|η|αιτήσεις|n|demande;formulaire|travail|Συμπληρώστε την αίτηση.|Remplissez le formulaire.|étisi|simbliróste tin étisi.
+ταυτότητα|η|ταυτότητες|n|carte d'identité|travail|Δείξτε την ταυτότητά σας.|Montrez votre carte d'identité.|taftótita|díkste tin taftótitá sas.
+απασχολημένος||-|adj|occupé|travail|Σήμερα είμαι πολύ απασχολημένος.|Aujourd'hui, je suis très occupé.|apasholiménos|símera íme polí apasholiménos.
+εξετάσεις|οι|-|n|examens|travail|Πέρασα τις εξετάσεις!|J'ai réussi les examens !|eksetásis|pérasa tis eksetásis!
+μάθημα|το|μαθήματα|n|cours;leçon|travail|Κάνω μαθήματα ελληνικών.|Je prends des cours de grec.|máthima|káno mathímata elinikón.

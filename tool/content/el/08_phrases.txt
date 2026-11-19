@@ -1,0 +1,99 @@
+# Phrases toutes faites : la phrase est le « mot », l'exemple est une petite réplique en contexte.
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+Καλημέρα!||-|phr|Bonjour ! (le matin)|phrases|Καλημέρα! Κοιμήθηκες καλά;|Bonjour ! Tu as bien dormi ?|kaliméra!|kaliméra! kimíthikes kalá?
+Καλησπέρα!||-|phr|Bonsoir !|phrases|Καλησπέρα σας, κυρία Μαρία!|Bonsoir, madame Maria !|kalispéra!|kalispéra sas, kiría maría!
+Καληνύχτα!||-|phr|Bonne nuit !|phrases|Καληνύχτα και όνειρα γλυκά!|Bonne nuit et fais de beaux rêves !|kaliníhta!|kaliníhta ke ónira gliká!
+Τι κάνεις;||-|phr|Comment vas-tu ?|phrases|Γεια σου, Νίκο! Τι κάνεις;|Salut Nikos ! Comment vas-tu ?|ti kánis?|ya su, níko! ti kánis?
+Τι κάνετε;||-|phr|Comment allez-vous ?|phrases|Καλημέρα, κύριε Γιώργο, τι κάνετε;|Bonjour, monsieur Georges, comment allez-vous ?|ti kánete?|kaliméra, kírie giórgo, ti kánete?
+Καλά, ευχαριστώ. Εσύ;||-|phr|Bien, merci. Et toi ?|phrases|Τι κάνεις; – Καλά, ευχαριστώ. Εσύ;|Comment vas-tu ? – Bien, merci. Et toi ?|kalá, efharistó. esí?|ti kánis? – kalá, efharistó. esí?
+Με λένε …||-|phr|Je m'appelle…|phrases|Με λένε Μισέλ. Εσένα;|Je m'appelle Michel. Et toi ?|me léne…|me léne misél. eséna?
+Χάρηκα!||-|phr|Enchanté !|phrases|Είμαι ο Γιάννης. – Χάρηκα!|Je suis Yannis. – Enchanté !|hárika!|íme o giánis. – hárika!
+Είμαι από τη Γαλλία.||-|phr|Je viens de France.|phrases|Είμαι από τη Γαλλία, από τη Λυών.|Je viens de France, de Lyon.|íme apó ti galía.|íme apó ti galía, apó ti lión.
+Μαθαίνω ελληνικά.||-|phr|J'apprends le grec.|phrases|Μαθαίνω ελληνικά εδώ και ένα χρόνο.|J'apprends le grec depuis un an.|mathéno eliniká.|mathéno eliniká edó ke éna hróno.
+Μιλάω λίγα ελληνικά.||-|phr|Je parle un peu grec.|phrases|Συγγνώμη, μιλάω λίγα ελληνικά.|Pardon, je parle un peu grec.|miláo líga eliniká.|signómi, miláo líga eliniká.
+Μιλάτε γαλλικά;||-|phr|Parlez-vous français ?|phrases|Συγγνώμη, μιλάτε γαλλικά ή αγγλικά;|Pardon, parlez-vous français ou anglais ?|miláte galiká?|signómi, miláte galiká i angliká?
+Δεν καταλαβαίνω.||-|phr|Je ne comprends pas.|phrases|Συγγνώμη, δεν καταλαβαίνω.|Pardon, je ne comprends pas.|den katalavéno.|signómi, den katalavéno.
+Μπορείτε να το επαναλάβετε;||-|phr|Pouvez-vous répéter ?|phrases|Μπορείτε να το επαναλάβετε, πιο αργά;|Pouvez-vous répéter, plus lentement ?|boríte na to epanaláveti?|boríte na to epanaláveti, pio argá?
+Πιο αργά, παρακαλώ.||-|phr|Plus lentement, s'il vous plaît.|phrases|Μιλάτε γρήγορα. Πιο αργά, παρακαλώ.|Vous parlez vite. Plus lentement, s'il vous plaît.|pio argá, parakaló.|miláte grígora. pio argá, parakaló.
+Τι σημαίνει αυτό;||-|phr|Qu'est-ce que ça veut dire ?|phrases|«Κέφι»; Τι σημαίνει αυτό;|« Kéfi » ? Qu'est-ce que ça veut dire ?|ti siméni aftó?|«kéfi»? ti siméni aftó?
+Πώς λέγεται … στα ελληνικά;||-|phr|Comment dit-on… en grec ?|phrases|Πώς λέγεται «parapluie» στα ελληνικά;|Comment dit-on « parapluie » en grec ?|pos légete… sta eliniká?|pos légete «parapluie» sta eliniká?
+Μπορείτε να με βοηθήσετε;||-|phr|Pouvez-vous m'aider ?|phrases|Συγγνώμη, μπορείτε να με βοηθήσετε;|Pardon, pouvez-vous m'aider ?|boríte na me voithísete?|signómi, boríte na me voithísete?
+Συγγνώμη!||-|phr|Pardon ! Excusez-moi !|phrases|Συγγνώμη, είναι ελεύθερη η θέση;|Excusez-moi, la place est libre ?|signómi!|signómi, íne eléftheri i thési?
+Λυπάμαι.||-|phr|Je suis désolé.|phrases|Λυπάμαι, άργησα.|Je suis désolé, je suis en retard.|lipáme.|lipáme, árgisa.
+Δεν πειράζει.||-|phr|Ce n'est pas grave.|phrases|Έσπασα το ποτήρι. – Δεν πειράζει.|J'ai cassé le verre. – Ce n'est pas grave.|den pirázi.|éspasa to potíri. – den pirázi.
+Ευχαριστώ πολύ!||-|phr|Merci beaucoup !|phrases|Ευχαριστώ πολύ για τη βοήθεια!|Merci beaucoup pour l'aide !|efharistó polí!|efharistó polí gia ti voíthia!
+Παρακαλώ.||-|phr|Je vous en prie. De rien.|phrases|Ευχαριστώ! – Παρακαλώ.|Merci ! – De rien.|parakaló.|efharistó! – parakaló.
+Εντάξει.||-|phr|D'accord.|phrases|Τα λέμε στις οκτώ; – Εντάξει!|On se voit à huit heures ? – D'accord !|endáksi.|ta léme stis októ? – endáksi!
+Βεβαίως!||-|phr|Bien sûr !|phrases|Μπορώ να καθίσω; – Βεβαίως!|Puis-je m'asseoir ? – Bien sûr !|vevéos!|boró na kathíso? – vevéos!
+Καλή ιδέα!||-|phr|Bonne idée !|phrases|Πάμε για μπάνιο; – Καλή ιδέα!|On va se baigner ? – Bonne idée !|kalí idéa!|páme gia bánio? – kalí idéa!
+Δεν ξέρω.||-|phr|Je ne sais pas.|phrases|Πού είναι ο σταθμός; – Δεν ξέρω.|Où est la gare ? – Je ne sais pas.|den kséro.|pu íne o stathmós? – den kséro.
+Ιδέα δεν έχω.||-|phr|Aucune idée.|phrases|Πότε έρχεται το λεωφορείο; – Ιδέα δεν έχω.|Quand arrive le bus ? – Aucune idée.|idéa den ého.|póte érhete to leoforío? – idéa den ého.
+Αλήθεια;||-|phr|Vraiment ?|phrases|Κέρδισα το λαχείο! – Αλήθεια;|J'ai gagné à la loterie ! – Vraiment ?|alíthia?|kérdisa to lahío! – alíthia?
+Τι κρίμα!||-|phr|Quel dommage !|phrases|Δεν μπορώ να έρθω. – Τι κρίμα!|Je ne peux pas venir. – Quel dommage !|ti kríma!|den boró na értho. – ti kríma!
+Δεν πειράζει, περιμένω.||-|phr|Ce n'est rien, j'attends.|phrases|Θα αργήσει δέκα λεπτά. – Δεν πειράζει, περιμένω.|Il y en a pour dix minutes. – Ce n'est rien, j'attends.|den pirázi, periméno.|tha argísi déka leptá. – den pirázi, periméno.
+Καλή διασκέδαση!||-|phr|Amuse-toi bien !|phrases|Πάω σε συναυλία απόψε. – Καλή διασκέδαση!|Je vais à un concert ce soir. – Amuse-toi bien !|kalí diaskédasi!|páo se sinavlía apópse. – kalí diaskédasi!
+Περαστικά!||-|phr|Bon rétablissement !|phrases|Είμαι άρρωστος. – Περαστικά!|Je suis malade. – Bon rétablissement !|perastiká!|íme árostos. – perastiká!
+Χρόνια πολλά!||-|phr|Joyeux anniversaire ! Bonne fête !|phrases|Χρόνια πολλά για τα γενέθλιά σου!|Joyeux anniversaire !|hrónia polá!|hrónia polá gia ta genéthliá su!
+Συγχαρητήρια!||-|phr|Félicitations !|phrases|Πέρασες τις εξετάσεις; Συγχαρητήρια!|Tu as réussi les examens ? Félicitations !|sinharitíria!|pérases tis eksetásis? sinharitíria!
+Καλή σου μέρα!||-|phr|Bonne journée !|phrases|Ευχαριστώ και καλή σου μέρα!|Merci et bonne journée !|kalí su méra!|efharistó ke kalí su méra!
+Τα λέμε!||-|phr|À plus ! On se voit !|phrases|Φεύγω τώρα. Τα λέμε!|Je pars. À plus !|ta léme!|févgo tóra. ta léme!
+Αντίο!||-|phr|Au revoir ! Adieu !|phrases|Αντίο και καλό ταξίδι!|Au revoir et bon voyage !|andío!|andío ke kaló taksídi!
+Πού είναι η τουαλέτα;||-|phr|Où sont les toilettes ?|phrases|Συγγνώμη, πού είναι η τουαλέτα;|Pardon, où sont les toilettes ?|pu íne i tualéta?|signómi, pu íne i tualéta?
+Πώς πάω στον σταθμό;||-|phr|Comment aller à la gare ?|phrases|Συγγνώμη, πώς πάω στον σταθμό;|Pardon, comment aller à la gare ?|pos páo ston stathmó?|signómi, pos páo ston stathmó?
+Είναι μακριά από εδώ;||-|phr|C'est loin d'ici ?|phrases|Το μουσείο, είναι μακριά από εδώ;|Le musée, c'est loin d'ici ?|íne makriá apó edó?|to musío, íne makriá apó edó?
+Πηγαίνετε ευθεία.||-|phr|Allez tout droit.|phrases|Πηγαίνετε ευθεία και μετά αριστερά.|Allez tout droit, puis à gauche.|pigénete efthía.|pigénete efthía ke metá aristerá.
+Χάθηκα.||-|phr|Je me suis perdu.|phrases|Συγγνώμη, χάθηκα. Πού είναι η πλατεία;|Pardon, je me suis perdu. Où est la place ?|háthika.|signómi, háthika. pu íne i platía?
+Τι ώρα φεύγει το πλοίο;||-|phr|À quelle heure part le ferry ?|phrases|Τι ώρα φεύγει το πλοίο για τη Νάξο;|À quelle heure part le ferry pour Naxos ?|ti óra févgi to plío?|ti óra févgi to plío gia ti nákso?
+Ένα εισιτήριο για …, παρακαλώ.||-|phr|Un billet pour…, s'il vous plaît.|phrases|Ένα εισιτήριο για τη Θεσσαλονίκη, παρακαλώ.|Un billet pour Thessalonique, s'il vous plaît.|éna isitírio gia…, parakaló.|éna isitírio gia ti thesaloníki, parakaló.
+Είναι ελεύθερη αυτή η θέση;||-|phr|Cette place est-elle libre ?|phrases|Συγγνώμη, είναι ελεύθερη αυτή η θέση;|Excusez-moi, cette place est libre ?|íne eléftheri aftí i thési?|signómi, íne eléftheri aftí i thési?
+Πού πρέπει να κατέβω;||-|phr|Où dois-je descendre ?|phrases|Θέλω να πάω στην Ακρόπολη. Πού πρέπει να κατέβω;|Je veux aller à l'Acropole. Où dois-je descendre ?|pu prépi na katévo?|thélo na páo stin akrópoli. pu prépi na katévo?
+Ένα τραπέζι για δύο, παρακαλώ.||-|phr|Une table pour deux, s'il vous plaît.|phrases|Καλησπέρα! Ένα τραπέζι για δύο, παρακαλώ.|Bonsoir ! Une table pour deux, s'il vous plaît.|éna trapézi gia dío, parakaló.|kalispéra! éna trapézi gia dío, parakaló.
+Τον κατάλογο, παρακαλώ.||-|phr|La carte, s'il vous plaît.|phrases|Συγγνώμη, τον κατάλογο, παρακαλώ.|Excusez-moi, la carte, s'il vous plaît.|ton katálogo, parakaló.|signómi, ton katálogo, parakaló.
+Τι μου προτείνετε;||-|phr|Que me conseillez-vous ?|phrases|Δεν ξέρω τι να πάρω. Τι μου προτείνετε;|Je ne sais pas quoi prendre. Que me conseillez-vous ?|ti mu protínete?|den kséro ti na páro. ti mu protínete?
+Θα ήθελα …||-|phr|Je voudrais…|phrases|Θα ήθελα έναν μουσακά και μια σαλάτα.|Je voudrais une moussaka et une salade.|tha íthela…|tha íthela énan musaká ke mia saláta.
+Θα πάρω …||-|phr|Je vais prendre…|phrases|Θα πάρω το ψάρι, παρακαλώ.|Je vais prendre le poisson, s'il vous plaît.|tha páro…|tha páro to psári, parakaló.
+Άλλη μια μπίρα, παρακαλώ.||-|phr|Encore une bière, s'il vous plaît.|phrases|Ήταν νόστιμο. Άλλη μια μπίρα, παρακαλώ.|C'était bon. Encore une bière, s'il vous plaît.|áli mia bíra, parakaló.|ítan nóstimo. áli mia bíra, parakaló.
+Τον λογαριασμό, παρακαλώ.||-|phr|L'addition, s'il vous plaît.|phrases|Θέλουμε να πληρώσουμε. Τον λογαριασμό, παρακαλώ.|Nous voudrions payer. L'addition, s'il vous plaît.|ton logariasmó, parakaló.|thélume na plirósume. ton logariasmó, parakaló.
+Ήταν πολύ νόστιμο!||-|phr|C'était délicieux !|phrases|Ευχαριστούμε, ήταν πολύ νόστιμο!|Merci, c'était délicieux !|ítan polí nóstimo!|efharistúme, ítan polí nóstimo!
+Είμαι χορτοφάγος.||-|phr|Je suis végétarien.|phrases|Δεν τρώω κρέας, είμαι χορτοφάγος.|Je ne mange pas de viande, je suis végétarien.|íme hortofágos.|den tróo kréas, íme hortofágos.
+Έχω αλλεργία σε …||-|phr|Je suis allergique à…|phrases|Έχω αλλεργία στους ξηρούς καρπούς.|Je suis allergique aux fruits secs.|ého alergía se…|ého alergía stus ksirús karpús.
+Πόσο κάνει;||-|phr|Combien ça coûte ?|phrases|Ωραίο κασκόλ! Πόσο κάνει;|Belle écharpe ! Combien ça coûte ?|póso káni?|oréo kaskól! póso káni?
+Μπορώ να πληρώσω με κάρτα;||-|phr|Puis-je payer par carte ?|phrases|Μπορώ να πληρώσω με κάρτα ή μόνο μετρητά;|Puis-je payer par carte ou seulement en espèces ?|boró na pliróso me kárta?|boró na pliróso me kárta i móno metritá?
+Απλώς κοιτάζω.||-|phr|Je regarde seulement.|phrases|Μπορώ να σας βοηθήσω; – Ευχαριστώ, απλώς κοιτάζω.|Je peux vous aider ? – Merci, je regarde seulement.|aplós kitázo.|boró na sas voithíso? – efharistó, aplós kitázo.
+Το έχετε σε άλλο νούμερο;||-|phr|L'avez-vous dans une autre taille ?|phrases|Είναι μικρό. Το έχετε σε άλλο νούμερο;|C'est petit. L'avez-vous dans une autre taille ?|to éhete se álo número?|íne mikró. to éhete se álo número?
+Είναι πολύ ακριβό.||-|phr|C'est trop cher.|phrases|Εκατό ευρώ; Είναι πολύ ακριβό.|Cent euros ? C'est trop cher.|íne polí akrivó.|ekató evró? íne polí akrivó.
+Θα το πάρω.||-|phr|Je le prends.|phrases|Ωραίο, θα το πάρω.|Joli, je le prends.|tha to páro.|oréo, tha to páro.
+Έχετε ελεύθερο δωμάτιο;||-|phr|Avez-vous une chambre libre ?|phrases|Καλησπέρα, έχετε ελεύθερο δωμάτιο;|Bonsoir, avez-vous une chambre libre ?|éhete eléfthero domátio?|kalispéra, éhete eléfthero domátio?
+Έχω κάνει κράτηση.||-|phr|J'ai réservé.|phrases|Καλημέρα, έχω κάνει κράτηση στο όνομα Μαρτέν.|Bonjour, j'ai réservé au nom de Martin.|ého káni krátisi.|kaliméra, ého káni krátisi sto ónoma martén.
+Τι ώρα είναι το πρωινό;||-|phr|À quelle heure est le petit-déjeuner ?|phrases|Τι ώρα είναι το πρωινό αύριο;|À quelle heure est le petit-déjeuner demain ?|ti óra íne to proinó?|ti óra íne to proinó ávrio?
+Ποιος είναι ο κωδικός του WiFi;||-|phr|Quel est le mot de passe du wifi ?|phrases|Συγγνώμη, ποιος είναι ο κωδικός του WiFi;|Pardon, quel est le mot de passe du wifi ?|pios íne o kodikós tu wifi?|signómi, pios íne o kodikós tu wifi?
+Τι ώρα είναι;||-|phr|Quelle heure est-il ?|phrases|Συγγνώμη, τι ώρα είναι;|Pardon, quelle heure est-il ?|ti óra íne?|signómi, ti óra íne?
+Πότε θα βρεθούμε;||-|phr|Quand se retrouve-t-on ?|phrases|Πότε θα βρεθούμε αύριο;|Quand se retrouve-t-on demain ?|póte tha vrethúme?|póte tha vrethúme ávrio?
+Έχεις χρόνο;||-|phr|Tu as le temps ?|phrases|Έχεις χρόνο απόψε;|Tu as le temps ce soir ?|éhis hróno?|éhis hróno apópse?
+Δεν έχω χρόνο.||-|phr|Je n'ai pas le temps.|phrases|Σήμερα δεν έχω χρόνο, ίσως αύριο.|Aujourd'hui je n'ai pas le temps, peut-être demain.|den ého hróno.|símera den ého hróno, ísos ávrio.
+Θέλεις να …;||-|phr|Tu veux… ?|phrases|Θέλεις να πάμε για καφέ;|Tu veux aller prendre un café ?|thélis na…?|thélis na páme gia kafé?
+Με χαρά!||-|phr|Avec plaisir !|phrases|Έρχεσαι μαζί μας; – Με χαρά!|Tu viens avec nous ? – Avec plaisir !|me hará!|érhese mazí mas? – me hará!
+Δυστυχώς όχι.||-|phr|Malheureusement non.|phrases|Μπορείς αύριο; – Δυστυχώς όχι.|Tu peux demain ? – Malheureusement non.|distihós óhi.|borís ávrio? – distihós óhi.
+Πεινάω.||-|phr|J'ai faim.|phrases|Πεινάω. Πάμε να φάμε κάτι;|J'ai faim. On va manger quelque chose ?|pináo.|pináo. páme na fáme káti?
+Διψάω.||-|phr|J'ai soif.|phrases|Διψάω. Έχει νερό;|J'ai soif. Il y a de l'eau ?|dipsáo.|dipsáo. éhi neró?
+Κρυώνω.||-|phr|J'ai froid.|phrases|Κρυώνω. Μπορείς να κλείσεις το παράθυρο;|J'ai froid. Tu peux fermer la fenêtre ?|krióno.|krióno. borís na klísis to paráthiro?
+Ζεσταίνομαι.||-|phr|J'ai chaud.|phrases|Ζεσταίνομαι, άνοιξε το κλιματιστικό.|J'ai chaud, allume la clim.|zesténome.|zesténome, ánikse to klimatistikó.
+Δεν αισθάνομαι καλά.||-|phr|Je ne me sens pas bien.|phrases|Δεν αισθάνομαι καλά, πρέπει να καθίσω.|Je ne me sens pas bien, il faut que je m'assoie.|den esthánome kalá.|den esthánome kalá, prépi na kathíso.
+Χρειάζομαι γιατρό.||-|phr|J'ai besoin d'un médecin.|phrases|Βοηθήστε με, χρειάζομαι γιατρό.|Aidez-moi, j'ai besoin d'un médecin.|hriázome giatró.|voithíste me, hriázome giatró.
+Καλέστε ασθενοφόρο!||-|phr|Appelez une ambulance !|phrases|Γρήγορα, καλέστε ασθενοφόρο!|Vite, appelez une ambulance !|kaléste asthenofóro!|grígora, kaléste asthenofóro!
+Πώς πέρασες σήμερα;||-|phr|Comment s'est passée ta journée ?|phrases|Γεια! Πώς πέρασες σήμερα;|Salut ! Comment s'est passée ta journée ?|pos pérases símera?|ya! pos pérases símera?
+Τι δουλειά κάνεις;||-|phr|Que fais-tu dans la vie ?|phrases|Κι εσύ, τι δουλειά κάνεις;|Et toi, que fais-tu dans la vie ?|ti duliá kánis?|ki esí, ti duliá kánis?
+Μου αρέσει πολύ.||-|phr|Ça me plaît beaucoup.|phrases|Η πόλη είναι όμορφη, μου αρέσει πολύ.|La ville est belle, elle me plaît beaucoup.|mu arési polí.|i póli íne ómorfi, mu arési polí.
+Δεν μου αρέσει.||-|phr|Ça ne me plaît pas.|phrases|Η ταινία είναι μεγάλη, δεν μου αρέσει.|Le film est long, il ne me plaît pas.|den mu arési.|i tenía íne megáli, den mu arési.
+Κατά τη γνώμη μου …||-|phr|À mon avis…|phrases|Κατά τη γνώμη μου, είναι καλή ιδέα.|À mon avis, c'est une bonne idée.|katá ti gnómi mu…|katá ti gnómi mu, íne kalí idéa.
+Έχεις δίκιο.||-|phr|Tu as raison.|phrases|Είναι αργά. – Έχεις δίκιο.|Il est tard. – Tu as raison.|éhis díkio.|íne argá. – éhis díkio.
+Μια στιγμή, παρακαλώ.||-|phr|Un instant, s'il vous plaît.|phrases|Μια στιγμή, παρακαλώ, ψάχνω το κλειδί.|Un instant, je cherche la clé.|mia stigmí, parakaló.|mia stigmí, parakaló, psáhno to klidí.
+Σιγά σιγά.||-|phr|Doucement ; petit à petit.|phrases|Μην βιάζεσαι, σιγά σιγά.|Ne te presse pas, petit à petit.|sigá sigá.|min viázese, sigá sigá.
+Πρόσεχε!||-|phr|Attention ! Fais attention !|phrases|Πρόσεχε, το αυτοκίνητο!|Attention, la voiture !|prósehe!|prósehe, to aftokínito!
+Πάμε!||-|phr|On y va ! Allons-y !|phrases|Είμαστε όλοι εδώ; Πάμε!|Tout le monde est là ? Allons-y !|páme!|ímaste óli edó? páme!
+Γεια μας!||-|phr|Santé ! (en trinquant)|phrases|Στη φιλία μας – γεια μας!|À notre amitié – santé !|ya mas!|sti filía mas – ya mas!
+Καλή όρεξη!||-|phr|Bon appétit !|phrases|Το φαγητό είναι έτοιμο. Καλή όρεξη!|Le repas est prêt. Bon appétit !|kalí óreksi!|to fagitó íne étimo. kalí óreksi!
+Καλό ταξίδι!||-|phr|Bon voyage !|phrases|Φεύγεις αύριο; Καλό ταξίδι!|Tu pars demain ? Bon voyage !|kaló taksídi!|févgis ávrio? kaló taksídi!
+Όνειρα γλυκά!||-|phr|Fais de beaux rêves !|phrases|Καληνύχτα, όνειρα γλυκά!|Bonne nuit, fais de beaux rêves !|ónira gliká!|kaliníhta, ónira gliká!
+Καλό μήνα!||-|phr|Bon mois ! (souhait du 1er du mois)|phrases|Σήμερα είναι πρώτη του μήνα. Καλό μήνα!|Aujourd'hui, c'est le premier du mois. Bon mois !|kaló mína!|símera íne próti tu mína. kaló mína!
+Καλή εβδομάδα!||-|phr|Bonne semaine !|phrases|Τα λέμε την Παρασκευή. Καλή εβδομάδα!|On se voit vendredi. Bonne semaine !|kalí evdomáda!|ta léme tin paraskeví. kalí evdomáda!

@@ -1,0 +1,133 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+παίζω||έπαιξα|v|jouer|loisirs|Τα παιδιά παίζουν έξω.|Les enfants jouent dehors.|pézo|ta pediá pézun ékso.
+τραγουδάω||τραγούδησα|v|chanter|loisirs|Τραγουδάει σε μια χορωδία.|Elle chante dans une chorale.|tragudáo|tragudái se mia horodía.
+χορεύω||χόρεψα|v|danser|loisirs|Χορεύουμε όλη τη νύχτα.|Nous dansons toute la nuit.|horévo|horévume óli ti níhta.
+ζωγραφίζω||ζωγράφισα|v|peindre;dessiner|loisirs|Ο γιος μου ζωγραφίζει.|Mon fils dessine.|zografízo|o gios mu zografízi.
+φωτογραφίζω||φωτογράφισα|v|photographier|loisirs|Επιτρέπεται να φωτογραφίσω;|Puis-je prendre des photos ?|fotografízo|epitrépete na fotografíso?
+βγαίνω||βγήκα|v|sortir|loisirs|Βγαίνουμε απόψε;|On sort ce soir ?|vgéno|vgénume apópse?
+καλώ||κάλεσα|v|inviter;appeler|loisirs|Σε καλώ για φαγητό.|Je t'invite à manger.|kaló|se kaló gia fagitó.
+γιορτάζω||γιόρτασα|v|fêter|loisirs|Γιορτάζουμε τα γενέθλιά μου.|Nous fêtons mon anniversaire.|giortázo|giortázume ta genéthliá mu.
+ξεκουράζομαι||ξεκουράστηκα|v|se reposer|loisirs|Την Κυριακή ξεκουράζομαι.|Le dimanche, je me repose.|ksekurázome|tin kiriakí ksekurázome.
+ελεύθερος χρόνος|ο|-|n|temps libre|loisirs|Τι κάνεις στον ελεύθερο χρόνο σου;|Que fais-tu de ton temps libre ?|eléftheros hrónos|ti kánis ston eléfthero hróno su?
+μουσική|η|-|n|musique|loisirs|Μου αρέσει η ελληνική μουσική.|J'aime la musique grecque.|musikí|mu arési i elinikí musikí.
+τραγούδι|το|τραγούδια|n|chanson|loisirs|Το τραγούδι είναι όμορφο.|La chanson est belle.|tragúdi|to tragúdi íne ómorfo.
+συναυλία|η|συναυλίες|n|concert|loisirs|Η συναυλία αρχίζει στις εννιά.|Le concert commence à neuf heures.|sinavlía|i sinavlía arhízi stis eniá.
+ταινία|η|ταινίες|n|film|loisirs|Η ταινία ήταν συναρπαστική.|Le film était passionnant.|tenía|i tenía ítan sinarpastikí.
+βιβλίο|το|βιβλία|n|livre|loisirs|Διαβάζω ένα καλό βιβλίο.|Je lis un bon livre.|vivlío|diavázo éna kaló vivlío.
+εφημερίδα|η|εφημερίδες|n|journal|loisirs|Διαβάζει την εφημερίδα κάθε πρωί.|Il lit le journal tous les matins.|efimerída|diavázi tin efimerída káthe proí.
+παιχνίδι|το|παιχνίδια|n|jeu;jouet;match|loisirs|Το παιχνίδι τελείωσε.|Le match est terminé.|pehnídi|to pehnídi telíose.
+πάρτι|το|-|n|fête;soirée|loisirs|Έρχεσαι στο πάρτι;|Tu viens à la fête ?|párti|érhese sto párti?
+γιορτή|η|γιορτές|n|fête;fête du saint|loisirs|Χρόνια πολλά για τη γιορτή σου!|Bonne fête !|giortí|hrónia polá gia ti giortí su!
+δώρο|το|δώρα|n|cadeau|loisirs|Το δώρο είναι για σένα.|Le cadeau est pour toi.|dóro|to dóro íne gia séna.
+φωτογραφία|η|φωτογραφίες|n|photo|loisirs|Δείξε μου τις φωτογραφίες!|Montre-moi les photos !|fotografía|díkse mu tis fotografíes!
+εκδρομή|η|εκδρομές|n|excursion|loisirs|Κάνουμε μια εκδρομή στους Δελφούς.|Nous faisons une excursion à Delphes.|ekdromí|kánume mia ekdromí stus delfús.
+κιθάρα|η|κιθάρες|n|guitare|loisirs|Παίζει κιθάρα.|Il joue de la guitare.|kithára|pézi kithára.
+μπουζούκι|το|μπουζούκια|n|bouzouki|loisirs|Ακούμε μπουζούκι στην ταβέρνα.|Nous écoutons du bouzouki à la taverne.|buzúki|akúme buzúki stin tavérna.
+τέχνη|η|τέχνες|n|art|loisirs|Ενδιαφέρομαι για την τέχνη.|Je m'intéresse à l'art.|téhni|endiaférome gia tin téhni.
+έκθεση|η|εκθέσεις|n|exposition|loisirs|Η έκθεση είναι υπέροχη.|L'exposition est magnifique.|ékthesi|i ékthesi íne ipérohi.
+είσοδος (εισιτήριο)|η|-|n|entrée (prix)|loisirs|Η είσοδος είναι δωρεάν.|L'entrée est gratuite.|ísodos|i ísodos íne doreán.
+αθλητισμός|ο|-|n|sport|sport|Κάνω αθλητισμό κάθε μέρα.|Je fais du sport tous les jours.|athlitismós|káno athlitismó káthe méra.
+ποδόσφαιρο|το|-|n|football|sport|Παίζουμε ποδόσφαιρο.|Nous jouons au foot.|podósfero|pézume podósfero.
+μπάλα|η|μπάλες|n|ballon;balle|sport|Πέτα μου τη μπάλα!|Lance-moi le ballon !|bála|péta mu ti bála!
+ομάδα|η|ομάδες|n|équipe|sport|Η ομάδα μας κέρδισε.|Notre équipe a gagné.|omáda|i omáda mas kérdise.
+παίκτης|ο|παίκτες|n|joueur|sport|Είναι καλός παίκτης.|C'est un bon joueur.|péktis|íne kalós péktis.
+γκολ|το|-|n|but|sport|Γκολ! Κερδίζουμε!|But ! On gagne !|gol|gol! kerdízume!
+πισίνα|η|πισίνες|n|piscine|sport|Η πισίνα είναι ανοιχτή το καλοκαίρι.|La piscine est ouverte l'été.|pisína|i pisína íne anihtí to kalokéri.
+κολυμπάω||κολύμπησα|v|nager|sport|Κολυμπάω κάθε πρωί στη θάλασσα.|Je nage tous les matins dans la mer.|kolimbáo|kolimbáo káthe proí sti thálasa.
+τρέχω||έτρεξα|v|courir|sport|Τρέχω στο πάρκο.|Je cours dans le parc.|trého|trého sto párko.
+κερδίζω||κέρδισα|v|gagner|sport|Ποιος κέρδισε;|Qui a gagné ?|kerdízo|pios kérdise?
+χάνω (αγώνα)||έχασα|v|perdre (un match)|sport|Χάσαμε τον αγώνα.|Nous avons perdu le match.|háno|hásame ton agóna.
+προπονούμαι||προπονήθηκα|v|s'entraîner|sport|Προπονούμαι τρεις φορές την εβδομάδα.|Je m'entraîne trois fois par semaine.|proponúme|proponúme tris forés tin evdomáda.
+γυμναστήριο|το|γυμναστήρια|n|salle de sport|sport|Πάω στο γυμναστήριο.|Je vais à la salle de sport.|gimnastírio|páo sto gimnastírio.
+αγώνας|ο|αγώνες|n|match;course;compétition|sport|Ο αγώνας αρχίζει στις οκτώ.|Le match commence à huit heures.|agónas|o agónas arhízi stis októ.
+δυνατός||-|adj|fort|sport|Είναι πολύ δυνατός.|Il est très fort.|dinatós|íne polí dinatós.
+αδύναμος||-|adj|faible|sport|Νιώθω αδύναμος.|Je me sens faible.|adínamos|niótho adínamos.
+σώμα|το|σώματα|n|corps|sante|Ο αθλητισμός κάνει καλό στο σώμα.|Le sport fait du bien au corps.|sóma|o athlitismós káni kaló sto sóma.
+κεφάλι|το|κεφάλια|n|tête|sante|Πονάει το κεφάλι μου.|J'ai mal à la tête.|kefáli|ponái to kefáli mu.
+πρόσωπο|το|πρόσωπα|n|visage|sante|Έχει όμορφο πρόσωπο.|Elle a un beau visage.|prósopo|éhi ómorfo prósopo.
+μάτι|το|μάτια|n|œil|sante|Έχει γαλάζια μάτια.|Il a les yeux bleus.|máti|éhi galázia mátia.
+αυτί|το|αυτιά|n|oreille|sante|Πονάει το αυτί μου.|J'ai mal à l'oreille.|aftí|ponái to aftí mu.
+μύτη|η|μύτες|n|nez|sante|Τρέχει η μύτη μου.|J'ai le nez qui coule.|míti|tréhi i míti mu.
+στόμα|το|στόματα|n|bouche|sante|Άνοιξε το στόμα.|Ouvre la bouche.|stóma|ánikse to stóma.
+δόντι|το|δόντια|n|dent|sante|Πλένω τα δόντια μου.|Je me brosse les dents.|dóndi|pléno ta dóndia mu.
+μαλλιά|τα|-|n|cheveux|sante|Έχει μακριά μαλλιά.|Elle a les cheveux longs.|maliá|éhi makriá maliá.
+λαιμός|ο|λαιμοί|n|cou;gorge|sante|Πονάει ο λαιμός μου.|J'ai mal à la gorge.|lemós|ponái o lemós mu.
+χέρι|το|χέρια|n|main;bras|sante|Δώσε μου το χέρι σου.|Donne-moi la main.|héri|dóse mu to héri su.
+δάχτυλο|το|δάχτυλα|n|doigt|sante|Έκοψα το δάχτυλό μου.|Je me suis coupé le doigt.|dáhtilo|ékopsa to dáhtiló mu.
+πόδι|το|πόδια|n|pied;jambe|sante|Πάμε με τα πόδια.|On y va à pied.|pódi|páme me ta pódia.
+γόνατο|το|γόνατα|n|genou|sante|Πονάει το γόνατό μου.|J'ai mal au genou.|gónato|ponái to gónató mu.
+πλάτη|η|πλάτες|n|dos|sante|Με πονάει η πλάτη μου.|J'ai mal au dos.|pláti|me ponái i pláti mu.
+κοιλιά|η|κοιλιές|n|ventre|sante|Πονάει η κοιλιά μου.|J'ai mal au ventre.|kiliá|ponái i kiliá mu.
+καρδιά|η|καρδιές|n|cœur|sante|Η καρδιά μου χτυπάει γρήγορα.|Mon cœur bat vite.|kardiá|i kardiá mu htipái grígora.
+υγεία|η|-|n|santé|sante|Η υγεία είναι το πιο σημαντικό.|La santé, c'est le plus important.|igía|i igía íne to pio simandikó.
+άρρωστος||-|adj|malade|sante|Είμαι άρρωστος.|Je suis malade.|árostos|íme árostos.
+υγιής||-|adj|en bonne santé|sante|Είναι υγιής και δυνατός.|Il est en bonne santé et fort.|igiís|íne igiís ke dinatós.
+πόνος|ο|πόνοι|n|douleur|sante|Έχετε πόνους;|Vous avez mal ?|pónos|éhete pónus?
+πονάω||πόνεσα|v|avoir mal|sante|Πού πονάτε;|Où avez-vous mal ?|ponáo|pu ponáte?
+πυρετός|ο|πυρετοί|n|fièvre|sante|Το παιδί έχει πυρετό.|L'enfant a de la fièvre.|piretós|to pedí éhi piretó.
+κρυολόγημα|το|-|n|rhume|sante|Έχω κρυολόγημα.|J'ai un rhume.|kriológima|ého kriológima.
+βήχας|ο|-|n|toux|sante|Έχω βήχα.|Je tousse.|víhas|ého víha.
+φάρμακο|το|φάρμακα|n|médicament|sante|Πάρτε αυτό το φάρμακο.|Prenez ce médicament.|fármako|párte aftó to fármako.
+χάπι|το|χάπια|n|comprimé|sante|Ένα χάπι το πρωί.|Un comprimé le matin.|hápi|éna hápi to proí.
+συνταγή|η|συνταγές|n|ordonnance;recette|sante|Χρειάζεστε συνταγή.|Il vous faut une ordonnance.|sindagí|hriázeste sindagí.
+ατύχημα|το|ατυχήματα|n|accident|sante|Έγινε ένα ατύχημα.|Il y a eu un accident.|atíhima|égine éna atíhima.
+βοήθεια|η|-|n|aide;au secours|sante|Βοήθεια!|Au secours !|voíthia|voíthia!
+ασθενοφόρο|το|ασθενοφόρα|n|ambulance|sante|Καλέστε ένα ασθενοφόρο!|Appelez une ambulance !|asthenofóro|kaléste éna asthenofóro!
+φύση|η|-|n|nature|nature|Μου αρέσει η φύση.|J'aime la nature.|físi|mu arési i físi.
+καιρός|ο|-|n|temps (météo)|nature|Τι καιρό κάνει σήμερα;|Quel temps fait-il aujourd'hui ?|kerós|ti keró káni símera?
+ήλιος|ο|-|n|soleil|nature|Έχει ήλιο.|Il fait soleil.|ílios|éhi ílio.
+βροχή|η|βροχές|n|pluie|nature|Η βροχή δεν σταματάει.|La pluie ne s'arrête pas.|vrohí|i vrohí den stamatái.
+βρέχει||έβρεξε|v|il pleut|nature|Βρέχει πάλι.|Il pleut encore.|vréhi|vréhi páli.
+χιόνι|το|-|n|neige|nature|Τα παιδιά παίζουν στο χιόνι.|Les enfants jouent dans la neige.|hióni|ta pediá pézun sto hióni.
+χιονίζει||χιόνισε|v|il neige|nature|Χιονίζει στα βουνά.|Il neige en montagne.|hionízi|hionízi sta vuná.
+αέρας|ο|-|n|vent;air|nature|Φυσάει δυνατός αέρας.|Il y a un vent fort.|aéras|fisái dinatós aéras.
+ζέστη|η|-|n|chaleur|nature|Κάνει πολλή ζέστη.|Il fait très chaud.|zésti|káni polí zésti.
+κρύο|το|-|n|froid|nature|Κάνει κρύο.|Il fait froid.|krío|káni krío.
+σύννεφο|το|σύννεφα|n|nuage|nature|Έχει πολλά σύννεφα.|Il y a beaucoup de nuages.|sínefo|éhi polá sínefa.
+ουρανός|ο|-|n|ciel|nature|Ο ουρανός είναι γαλάζιος.|Le ciel est bleu.|uranós|o uranós íne galázios.
+θάλασσα|η|θάλασσες|n|mer|nature|Η θάλασσα είναι ήρεμη.|La mer est calme.|thálasa|i thálasa íne írimi.
+παραλία|η|παραλίες|n|plage|nature|Πάμε στην παραλία!|Allons à la plage !|paralía|páme stin paralía!
+νησί|το|νησιά|n|île|nature|Η Σαντορίνη είναι ένα όμορφο νησί.|Santorin est une belle île.|nisí|i sandoríni íne éna ómorfo nisí.
+βουνό|το|βουνά|n|montagne|nature|Ο Όλυμπος είναι ψηλό βουνό.|L'Olympe est une haute montagne.|vunó|o ólimbos íne psiló vunó.
+δέντρο|το|δέντρα|n|arbre|nature|Το δέντρο είναι πολύ παλιό.|L'arbre est très vieux.|déndro|to déndro íne polí palió.
+λουλούδι|το|λουλούδια|n|fleur|nature|Σου φέρνω λουλούδια.|Je t'apporte des fleurs.|lulúdi|su férno lulúdia.
+δάσος|το|δάση|n|forêt|nature|Κάνουμε βόλτα στο δάσος.|Nous nous promenons en forêt.|dásos|kánume vólta sto dásos.
+ποτάμι|το|ποτάμια|n|rivière|nature|Το ποτάμι είναι κρύο.|La rivière est froide.|potámi|to potámi íne krío.
+λίμνη|η|λίμνες|n|lac|nature|Κολυμπάμε στη λίμνη.|Nous nageons dans le lac.|límni|kolimbáme sti límni.
+πέτρα|η|πέτρες|n|pierre|nature|Το μονοπάτι έχει πολλές πέτρες.|Le sentier a beaucoup de pierres.|pétra|to monopáti éhi polés pétres.
+μονοπάτι|το|μονοπάτια|n|sentier|nature|Ακολουθούμε το μονοπάτι.|Nous suivons le sentier.|monopáti|akoluthúme to monopáti.
+φεγγάρι|το|φεγγάρια|n|lune|nature|Το φεγγάρι είναι γεμάτο απόψε.|La lune est pleine ce soir.|fengári|to fengári íne gemáto apópse.
+αστέρι|το|αστέρια|n|étoile|nature|Βλέπουμε πολλά αστέρια.|Nous voyons beaucoup d'étoiles.|astéri|vlépume polá astéria.
+ζώο|το|ζώα|n|animal|nature|Έχεις κατοικίδιο ζώο;|Tu as un animal de compagnie ?|zóo|éhis katikídio zóo?
+σκύλος|ο|σκύλοι|n|chien|nature|Ο σκύλος γαβγίζει.|Le chien aboie.|skílos|o skílos gavgízi.
+γάτα|η|γάτες|n|chat|nature|Η γάτα κοιμάται στον καναπέ.|Le chat dort sur le canapé.|gáta|i gáta kimáte ston kanapé.
+πουλί|το|πουλιά|n|oiseau|nature|Τα πουλιά τραγουδούν.|Les oiseaux chantent.|pulí|ta puliá tragudún.
+ψάρι (ζώο)|το|ψάρια|n|poisson (animal)|nature|Στη θάλασσα βλέπω ψάρια.|Dans la mer, je vois des poissons.|psári|sti thálasa vlépo psária.
+ρούχα|τα|-|n|vêtements|vetements|Χρειάζομαι ζεστά ρούχα.|J'ai besoin de vêtements chauds.|rúha|hriázome zestá rúha.
+παντελόνι|το|παντελόνια|n|pantalon|vetements|Το παντελόνι είναι πολύ μακρύ.|Le pantalon est trop long.|pandelóni|to pandelóni íne polí makrí.
+πουκάμισο|το|πουκάμισα|n|chemise|vetements|Φοράει ένα άσπρο πουκάμισο.|Il porte une chemise blanche.|pukámiso|forái éna áspro pukámiso.
+μπλούζα|η|μπλούζες|n|t-shirt;haut|vetements|Αγοράζω μια μπλούζα.|J'achète un haut.|blúza|agorázo mia blúza.
+πουλόβερ|το|-|n|pull|vetements|Βάλε ένα πουλόβερ!|Mets un pull !|pulóver|vále éna pulóver!
+μπουφάν|το|-|n|blouson;veste|vetements|Πού είναι το μπουφάν μου;|Où est mon blouson ?|bufán|pu íne to bufán mu?
+παλτό|το|-|n|manteau|vetements|Τον χειμώνα φοράω παλτό.|L'hiver, je porte un manteau.|paltó|ton himóna foráo paltó.
+φόρεμα|το|φορέματα|n|robe|vetements|Το φόρεμα σου πάει.|La robe te va bien.|fórema|to fórema su pái.
+φούστα|η|φούστες|n|jupe|vetements|Φοράει μια κόκκινη φούστα.|Elle porte une jupe rouge.|fústa|forái mia kókini fústa.
+παπούτσι|το|παπούτσια|n|chaussure|vetements|Τα παπούτσια είναι άνετα.|Les chaussures sont confortables.|papútsi|ta papútsia íne áneta.
+κάλτσα|η|κάλτσες|n|chaussette|vetements|Χρειάζομαι καινούργιες κάλτσες.|J'ai besoin de nouvelles chaussettes.|káltsa|hriázome kenúrgies káltses.
+καπέλο|το|καπέλα|n|chapeau|vetements|Πάρε καπέλο, έχει ήλιο.|Prends un chapeau, il y a du soleil.|kapélo|páre kapélo, éhi ílio.
+γυαλιά|τα|-|n|lunettes|vetements|Γυαλιά ηλίου.|Des lunettes de soleil.|gialiá|gialiá ilíu.
+ομπρέλα|η|ομπρέλες|n|parapluie;parasol|vetements|Μην ξεχάσεις την ομπρέλα!|N'oublie pas le parapluie !|ombréla|min ksehásis tin ombréla!
+μαγιό|το|-|n|maillot de bain|vetements|Πάρε το μαγιό σου.|Prends ton maillot de bain.|magió|páre to magió su.
+μέγεθος|το|μεγέθη|n|taille|vetements|Τι μέγεθος φοράτε;|Quelle taille faites-vous ?|mégethos|ti mégethos foráte?
+φοράω||φόρεσα|v|porter (vêtement)|vetements|Φοράει γυαλιά.|Elle porte des lunettes.|foráo|forái gialiá.
+δοκιμάζω||δοκίμασα|v|essayer;goûter|vetements|Μπορώ να το δοκιμάσω;|Je peux l'essayer ?|dokimázo|boró na to dokimáso?
+άσπρος||-|adj|blanc|vetements|Τα σπίτια είναι άσπρα.|Les maisons sont blanches.|áspros|ta spítia íne áspra.
+μαύρος||-|adj|noir|vetements|Πίνω τον καφέ σκέτο, μαύρο.|Je bois le café noir.|mávros|píno ton kafé skéto, mávro.
+κόκκινος||-|adj|rouge|vetements|Το φανάρι είναι κόκκινο.|Le feu est rouge.|kókinos|to fanári íne kókino.
+μπλε||-|adj|bleu|vetements|Η θάλασσα είναι μπλε.|La mer est bleue.|ble|i thálasa íne ble.
+γαλάζιος||-|adj|bleu clair;azur|vetements|Γαλάζιος ουρανός.|Un ciel azur.|galázios|galázios uranós.
+πράσινος||-|adj|vert|vetements|Το γρασίδι είναι πράσινο.|L'herbe est verte.|prásinos|to grasídi íne prásino.
+κίτρινος||-|adj|jaune|vetements|Η μπανάνα είναι κίτρινη.|La banane est jaune.|kítrinos|i banána íne kítrini.
+γκρι||-|adj|gris|vetements|Ο ουρανός είναι γκρι.|Le ciel est gris.|gri|o uranós íne gri.
+καφέ||-|adj|marron|vetements|Έχει καφέ μάτια.|Il a les yeux marron.|kafé|éhi kafé mátia.
+χρώμα|το|χρώματα|n|couleur|vetements|Τι χρώμα σου αρέσει;|Quelle couleur aimes-tu ?|hróma|ti hróma su arési?

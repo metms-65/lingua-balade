@@ -1,0 +1,135 @@
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+homo|m|hominis|n|être humain;homme|personnes|Bonus homo est.|C'est quelqu'un de bien.
+vir|m|viri|n|homme;mari|personnes|Vir pileum gerit.|L'homme porte un chapeau.
+femina|f|feminae|n|femme|personnes|Femina librum legit.|La femme lit un livre.
+uxor|f|uxoris|n|épouse|personnes|Uxor mea Graeca est.|Ma femme est grecque.
+maritus|m|mariti|n|mari|personnes|Maritus eius medicus est.|Son mari est médecin.
+puer|m|pueri|n|garçon;enfant|personnes|Puer in horto ludit.|Le garçon joue dans le jardin.
+puella|f|puellae|n|jeune fille|personnes|Puella cantat.|La jeune fille chante.
+infans|m|infantis|n|bébé;petit enfant|personnes|Infans dormit.|Le bébé dort.
+liberi|m|liberorum|n|enfants (d'une famille)|personnes|Liberi in schola sunt.|Les enfants sont à l'école.
+familia|f|familiae|n|famille;maisonnée|personnes|Familia mea Lugduni habitat.|Ma famille habite à Lyon.
+parentes|m|parentum|n|parents|personnes|Parentes mei in Italia sunt.|Mes parents sont en Italie.
+pater|m|patris|n|père|personnes|Pater meus coquit.|Mon père cuisine.
+mater|f|matris|n|mère|personnes|Mater mea magistra est.|Ma mère est enseignante.
+filius|m|filii|n|fils|personnes|Filius noster decem annos natus est.|Notre fils a dix ans.
+filia|f|filiae|n|fille (enfant)|personnes|Filia eius medicinam discit.|Sa fille étudie la médecine.
+frater|m|fratris|n|frère|personnes|Fratrem unum habeo.|J'ai un frère.
+soror|f|sororis|n|sœur|personnes|Soror mea Romae habitat.|Ma sœur habite à Rome.
+avus|m|avi|n|grand-père|personnes|Avus fabulam narrat.|Grand-père raconte une histoire.
+avia|f|aviae|n|grand-mère|personnes|Avia placentam coquit.|Grand-mère fait un gâteau.
+avunculus|m|avunculi|n|oncle (maternel)|personnes|Avunculus meus ruri habitat.|Mon oncle habite à la campagne.
+amita|f|amitae|n|tante (paternelle)|personnes|Amita mea iocosa est.|Ma tante est drôle.
+amicus|m|amici|n|ami|personnes|Hic est amicus meus Marcus.|Voici mon ami Marcus.
+amica|f|amicae|n|amie|personnes|Amica mea Iulia vocatur.|Mon amie s'appelle Julia.
+vicinus|m|vicini|n|voisin|personnes|Vicinus noster benignus est.|Notre voisin est aimable.
+hospes|m|hospitis|n|hôte;invité|personnes|Hodie hospites habemus.|Aujourd'hui, nous avons des invités.
+dominus|m|domini|n|maître;monsieur|personnes|Salve, domine!|Bonjour, monsieur !
+domina|f|dominae|n|maîtresse;madame|personnes|Salve, domina!|Bonjour, madame !
+nomen|n|nominis|n|nom|personnes|Quod est nomen tibi?|Quel est ton nom ?
+aetas|f|aetatis|n|âge;époque|personnes|Mea aetate hoc solitum est.|À mon âge, c'est normal.
+dies natalis|m|diei natalis|n|anniversaire|personnes|Felicem diem natalem!|Joyeux anniversaire !
+nuptiae|f|nuptiarum|n|noces;mariage|personnes|Nuptiae mense Iunio erunt.|Le mariage aura lieu en juin.
+vocor||vocari, vocatus sum|v|s'appeler|personnes|Quomodo vocaris?|Comment t'appelles-tu ?
+visito||visitare, visitavi, visitatum|v|rendre visite;visiter|personnes|Parentes visito.|Je rends visite à mes parents.
+convenio||convenire, conveni, conventum|v|se retrouver;rencontrer|personnes|Ad stationem convenimus.|On se retrouve à la gare.
+patria|f|patriae|n|patrie;pays|personnes|Gallia patria mea est.|La France est ma patrie.
+Gallia|f|Galliae|n|Gaule;France|personnes|E Gallia venio.|Je viens de France.
+Italia|f|Italiae|n|Italie|personnes|In Italiam iter facio.|Je voyage en Italie.
+Roma|f|Romae|n|Rome|personnes|Roma urbs aeterna est.|Rome est la ville éternelle.
+lingua|f|linguae|n|langue|personnes|Quot linguas loqueris?|Combien de langues parles-tu ?
+Latine||-|adv|en latin|personnes|Latine disco.|J'apprends le latin.
+Gallice||-|adv|en français|personnes|Loquerisne Gallice?|Parles-tu français ?
+laetus||laeta, laetum|adj|content;joyeux|sentiments|Laetus sum quod ades.|Je suis content que tu sois là.
+tristis||triste|adj|triste|sentiments|Cur tristis es?|Pourquoi es-tu triste ?
+defessus||defessa, defessum|adj|fatigué|sentiments|Valde defessus sum.|Je suis très fatigué.
+benignus||benigna, benignum|adj|aimable;bienveillant|sentiments|Benignissimus es.|Tu es très aimable.
+iocosus||iocosa, iocosum|adj|drôle;plaisant|sentiments|Fabula iocosa est.|L'histoire est drôle.
+iratus||irata, iratum|adj|en colère|sentiments|Iratusne mihi es?|Es-tu fâché contre moi ?
+quietus||quieta, quietum|adj|calme;tranquille|sentiments|Hic locus quietus est.|Cet endroit est calme.
+timor|m|timoris|n|peur|sentiments|Timor me tenet.|La peur me saisit.
+timeo||timere, timui|v|craindre;avoir peur|sentiments|Canes timeo.|J'ai peur des chiens.
+gaudium|n|gaudii|n|joie|sentiments|Magno cum gaudio!|Avec grande joie !
+gaudeo||gaudere, gavisus sum|v|se réjouir|sentiments|Gaudeo te videre.|Je suis content de te voir.
+rideo||ridere, risi, risum|v|rire|sentiments|Multum una ridemus.|Nous rions beaucoup ensemble.
+fleo||flere, flevi, fletum|v|pleurer|sentiments|Infans flet.|Le bébé pleure.
+spero||sperare, speravi, speratum|v|espérer|sentiments|Spero te valere.|J'espère que tu vas bien.
+sentio||sentire, sensi, sensum|v|sentir;ressentir;penser|sentiments|Bene me sentio.|Je me sens bien.
+amor|m|amoris|n|amour|sentiments|Omnia vincit amor.|L'amour triomphe de tout.
+fortuna|f|fortunae|n|chance;fortune|sentiments|Bonam fortunam!|Bonne chance !
+consilium|n|consilii|n|idée;plan;conseil|sentiments|Bonum consilium!|Bonne idée !
+curiosus||curiosa, curiosum|adj|curieux;intéressant|sentiments|Res curiosa est.|C'est une chose curieuse.
+molestus||molesta, molestum|adj|ennuyeux;pénible|sentiments|Haec fabula molesta est.|Cette histoire est ennuyeuse.
+optimus||optima, optimum|adj|excellent;le meilleur|sentiments|Optime!|Excellent !
+contentus||contenta, contentum|adj|satisfait|sentiments|Contentus sum.|Je suis satisfait.
+verbum|n|verbi|n|mot;parole|communication|Hoc verbum non intellego.|Je ne comprends pas ce mot.
+sententia|f|sententiae|n|phrase;avis;opinion|communication|Mea sententia hoc bonum est.|À mon avis, c'est bien.
+interrogatio|f|interrogationis|n|question|communication|Interrogationem habeo.|J'ai une question.
+responsum|n|responsi|n|réponse|communication|Gratias pro responso.|Merci pour la réponse.
+epistula|f|epistulae|n|lettre|communication|Epistulam tibi mitto.|Je t'envoie une lettre.
+nuntius|m|nuntii|n|message;messager;nouvelle|communication|Nuntium tuum accepi.|J'ai reçu ton message.
+telephonum|n|telephoni|n|téléphone|communication|Telephonum sonat.|Le téléphone sonne.
+fabula|f|fabulae|n|histoire;récit|communication|Longa fabula est.|C'est une longue histoire.
+narro||narrare, narravi, narratum|v|raconter|communication|Narra mihi!|Raconte-moi !
+disco||discere, didici|v|apprendre|communication|Cotidie Latine disco.|J'apprends le latin chaque jour.
+doceo||docere, docui, doctum|v|enseigner|communication|Magistra linguam Latinam docet.|L'enseignante enseigne le latin.
+explico||explicare, explicavi, explicatum|v|expliquer|communication|Potesne hoc explicare?|Peux-tu expliquer cela ?
+repeto||repetere, repetivi, repetitum|v|répéter|communication|Repete, quaeso!|Répète, s'il te plaît !
+significo||significare, significavi, significatum|v|signifier|communication|Quid hoc verbum significat?|Que signifie ce mot ?
+voco||vocare, vocavi, vocatum|v|appeler|communication|Voca medicum!|Appelle le médecin !
+mitto||mittere, misi, missum|v|envoyer|communication|Epistulam mitto.|J'envoie une lettre.
+tempus|n|temporis|n|temps|temps|Tempus fugit.|Le temps s'enfuit.
+hora|f|horae|n|heure|temps|Quota hora est?|Quelle heure est-il ?
+dies|m|diei|n|jour|temps|Bonum diem!|Bonne journée !
+hebdomas|f|hebdomadis|n|semaine|temps|Proxima hebdomade feriatus sum.|La semaine prochaine, je suis en vacances.
+mensis|m|mensis|n|mois|temps|Unum mensem maneo.|Je reste un mois.
+annus|m|anni|n|année|temps|Felicem annum novum!|Bonne année !
+mane||-|adv|le matin|temps|Mane surgo.|Je me lève le matin.
+meridies|m|meridiei|n|midi|temps|Meridie prandemus.|Nous déjeunons à midi.
+vesper|m|vesperi|n|soir|temps|Bonum vesperum!|Bonsoir !
+nox|f|noctis|n|nuit|temps|Bonam noctem!|Bonne nuit !
+hodie||-|adv|aujourd'hui|temps|Hodie dies Lunae est.|Aujourd'hui, c'est lundi.
+cras||-|adv|demain|temps|Cras te videbo.|Je te verrai demain.
+heri||-|adv|hier|temps|Heri in theatro eram.|Hier, j'étais au théâtre.
+mox||-|adv|bientôt|temps|Mox veniam.|Je viendrai bientôt.
+mature||-|adv|tôt|temps|Mature surgo.|Je me lève tôt.
+sero||-|adv|tard|temps|Iam sero est.|Il est déjà tard.
+tempestive||-|adv|à l'heure;au bon moment|temps|Tempestive venisti.|Tu es arrivé au bon moment.
+antea||-|adv|avant;auparavant|temps|Antea me voca.|Appelle-moi avant.
+postea||-|adv|après;plus tard|temps|Postea loquemur.|Nous parlerons plus tard.
+dies Lunae|m|-|n|lundi|temps|Die Lunae laboro.|Le lundi, je travaille.
+dies Martis|m|-|n|mardi|temps|Die Martis lusum habeo.|Le mardi, j'ai sport.
+dies Mercurii|m|-|n|mercredi|temps|Die Mercurii emo.|Le mercredi, je fais les courses.
+dies Iovis|m|-|n|jeudi|temps|Die Iovis nos videbimus.|Nous nous verrons jeudi.
+dies Veneris|m|-|n|vendredi|temps|Die Veneris exibimus.|Vendredi, nous sortirons.
+dies Saturni|m|-|n|samedi|temps|Die Saturni diu dormio.|Le samedi, je fais la grasse matinée.
+dies Solis|m|-|n|dimanche|temps|Die Solis tabernae clausae sunt.|Le dimanche, les magasins sont fermés.
+ver|n|veris|n|printemps|temps|Vere flores florent.|Au printemps, les fleurs éclosent.
+aestas|f|aestatis|n|été|temps|Aestate ad mare imus.|L'été, nous allons à la mer.
+autumnus|m|autumni|n|automne|temps|Autumno folia cadunt.|En automne, les feuilles tombent.
+hiems|f|hiemis|n|hiver|temps|Hieme ningit.|L'hiver, il neige.
+feriae|f|feriarum|n|vacances;jours fériés|temps|Feriae iam incipiunt!|Les vacances commencent déjà !
+initium|n|initii|n|début|temps|Initio difficile erat.|Au début, c'était difficile.
+finis|m|finis|n|fin;limite|temps|Finis coronat opus.|La fin couronne l'œuvre.
+unus||una, unum|num|un|nombres|Unum poculum, quaeso.|Un verre, s'il te plaît.
+duo||duae, duo|num|deux|nombres|Duo panes, quaeso.|Deux pains, s'il te plaît.
+tres||tria|num|trois|nombres|Tres sumus.|Nous sommes trois.
+quattuor||-|num|quatre|nombres|Puer quattuor annos natus est.|L'enfant a quatre ans.
+quinque||-|num|cinq|nombres|Quinque nummis constat.|Ça coûte cinq pièces.
+sex||-|num|six|nombres|Hora sexta surgo.|Je me lève à la sixième heure.
+septem||-|num|sept|nombres|Hebdomas septem dies habet.|La semaine a sept jours.
+octo||-|num|huit|nombres|Octo horas dormivi.|J'ai dormi huit heures.
+novem||-|num|neuf|nombres|Novem Musae sunt.|Il y a neuf Muses.
+decem||-|num|dix|nombres|Decem minutis adero.|Je serai là dans dix minutes.
+viginti||-|num|vingt|nombres|Viginti annos nata est.|Elle a vingt ans.
+centum||-|num|cent|nombres|Centum passus abest.|C'est à cent pas.
+mille||milia|num|mille|nombres|Mille gratias!|Mille mercis !
+primus||prima, primum|adj|premier|nombres|Primus dies hic est.|C'est le premier jour ici.
+secundus||secunda, secundum|adj|deuxième;favorable|nombres|Secunda via ad sinistram.|La deuxième rue à gauche.
+dimidium|n|dimidii|n|moitié|nombres|Dimidium tibi est.|La moitié est pour toi.
+numerus|m|numeri|n|nombre;numéro|nombres|Scribe numerum.|Écris le nombre.
+satis||-|adv|assez|nombres|Satis edi.|J'ai assez mangé.
+plus||pluris|adv|plus;davantage|nombres|Plus temporis volo.|Je voudrais plus de temps.
+minus||-|adv|moins|nombres|Minus laboro.|Je travaille moins.
+quisque||quaeque, quodque|pron|chacun;chaque|nombres|Quisque suum librum habet.|Chacun a son livre.
+cotidie||-|adv|chaque jour|nombres|Cotidie Latine loquor.|Je parle latin chaque jour.

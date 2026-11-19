@@ -1,0 +1,91 @@
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+iter facio||facere, feci, factum|v|voyager|transports|Libenter iter facio.|J'aime voyager.
+vehor||vehi, vectus sum|v|aller en véhicule;être transporté|transports|Raeda vehimur.|Nous voyageons en voiture.
+ambulo||ambulare, ambulavi, ambulatum|v|marcher;se promener|transports|Ad portum ambulamus.|Nous marchons jusqu'au port.
+curro||currere, cucurri, cursum|v|courir|transports|Ad stationem curro!|Je cours à la gare !
+pervenio||pervenire, perveni, perventum|v|arriver|transports|Tramen hora nona pervenit.|Le train arrive à la neuvième heure.
+proficiscor||proficisci, profectus sum|v|partir|transports|Cras proficiscimur.|Nous partons demain.
+abeo||abire, abii, abitum|v|s'en aller|transports|Iam abeo.|Je m'en vais maintenant.
+redeo||redire, redii, reditum|v|revenir|transports|Statim redeo.|Je reviens tout de suite.
+ascendo||ascendere, ascendi, ascensum|v|monter|transports|In navem ascendimus.|Nous montons dans le bateau.
+descendo||descendere, descendi, descensum|v|descendre|transports|Hic descendo.|Je descends ici.
+amitto||amittere, amisi, amissum|v|perdre;rater|transports|Tramen amisi.|J'ai raté le train.
+autocinetum|n|autocineti|n|voiture|transports|Autocinetum meum rubrum est.|Ma voiture est rouge.
+raeda|f|raedae|n|voiture;chariot|transports|Raeda in via stat.|La voiture est dans la rue.
+laophorum|n|laophori|n|bus|transports|Laophorum sero venit.|Le bus est en retard.
+tramen|n|traminis|n|train|transports|Tramen Romam tardat.|Le train pour Rome est en retard.
+birota|f|birotae|n|vélo|transports|Birota vehi mihi placet.|J'aime faire du vélo.
+aeroplanum|n|aeroplani|n|avion|transports|Aeroplanum descendit.|L'avion atterrit.
+navis|f|navis|n|bateau;navire|transports|Navi in insulam imus.|Nous allons sur l'île en bateau.
+equus|m|equi|n|cheval|transports|Equo vehitur.|Il va à cheval.
+statio|f|stationis|n|gare;station;arrêt|transports|Quomodo ad stationem pervenio?|Comment aller à la gare ?
+aeroportus|m|aeroportus|n|aéroport|transports|Aeroportus longe abest.|L'aéroport est loin.
+portus|m|portus|n|port|transports|Navis e portu proficiscitur.|Le bateau part du port.
+tessera|f|tesserae|n|billet;ticket|transports|Tesseram Romam, quaeso.|Un billet pour Rome, s'il te plaît.
+mora|f|morae|n|retard|transports|Tramen moram habet.|Le train a du retard.
+iter|n|itineris|n|voyage;chemin|transports|Bonum iter!|Bon voyage !
+sarcina|f|sarcinae|n|bagage|transports|Sarcina mea gravis est.|Mon bagage est lourd.
+via|f|viae|n|rue;route;chemin|transports|Scisne viam?|Connais-tu le chemin ?
+compitum|n|compiti|n|carrefour|transports|In compito ad dextram i.|Au carrefour, va à droite.
+angulus|m|anguli|n|coin|transports|Taberna in angulo est.|La boutique est au coin.
+celer||celeris, celere|adj|rapide|transports|Tramen celere est.|Le train est rapide.
+lentus||lenta, lentum|adj|lent|transports|Lente loquere, quaeso.|Parle lentement, s'il te plaît.
+longe||-|adv|loin|transports|Longene abest?|C'est loin ?
+urbs|f|urbis|n|ville|ville|Urbs vetus est.|La ville est ancienne.
+oppidum|n|oppidi|n|ville fortifiée;petite ville|ville|Ex oppido parvo venio.|Je viens d'une petite ville.
+vicus|m|vici|n|village;quartier|ville|In vico habito.|J'habite dans un village.
+centrum|n|centri|n|centre|ville|Quomodo in centrum urbis pervenio?|Comment aller au centre-ville ?
+platea|f|plateae|n|rue large;place|ville|In platea ambulamus.|Nous nous promenons sur la place.
+templum|n|templi|n|temple|ville|Templum pulcherrimum est.|Le temple est magnifique.
+ecclesia|f|ecclesiae|n|église|ville|Ecclesia antiqua est.|L'église est ancienne.
+museum|n|musei|n|musée|ville|Museum die Lunae clausum est.|Le musée est fermé le lundi.
+theatrum|n|theatri|n|théâtre|ville|In theatrum imus.|Nous allons au théâtre.
+cinematographeum|n|cinematographei|n|cinéma|ville|Imusne in cinematographeum?|On va au cinéma ?
+argentaria|f|argentariae|n|banque|ville|Argentaria in angulo est.|La banque est au coin.
+taberna medicamentaria|f|tabernae medicamentariae|n|pharmacie|ville|Ubi est taberna medicamentaria?|Où est la pharmacie ?
+valetudinarium|n|valetudinarii|n|hôpital|ville|In valetudinario iacet.|Il est à l'hôpital.
+vigiles|m|vigilum|n|police;gardes|ville|Voca vigiles!|Appelle la police !
+deversorium|n|deversorii|n|hôtel;auberge|ville|Deversorium in centro est.|L'hôtel est dans le centre.
+pons|m|pontis|n|pont|ville|Pontem transimus.|Nous traversons le pont.
+aedificium|n|aedificii|n|bâtiment|ville|Aedificium altissimum est.|Le bâtiment est très haut.
+turris|f|turris|n|tour|ville|E turri totam urbem videmus.|Depuis la tour, nous voyons toute la ville.
+curia|f|curiae|n|curie;mairie|ville|Curia in foro est.|La curie est sur le forum.
+bibliotheca|f|bibliothecae|n|bibliothèque|ville|In bibliotheca studeo.|J'étudie à la bibliothèque.
+schola|f|scholae|n|école|ville|Liberi in scholam eunt.|Les enfants vont à l'école.
+universitas|f|universitatis|n|université|ville|In universitate studet.|Il étudie à l'université.
+aditus|m|aditus|n|entrée;accès|ville|Aditus ad dextram est.|L'entrée est à droite.
+exitus|m|exitus|n|sortie;issue|ville|Ubi est exitus?|Où est la sortie ?
+inscriptio|f|inscriptionis|n|adresse;inscription|ville|Quae est inscriptio tua?|Quelle est ton adresse ?
+tabula (geographica)|f|tabulae|n|carte;plan|ville|Habesne tabulam urbis?|As-tu un plan de la ville ?
+viso||visere, visi|v|aller voir;visiter|ville|Ruinas visimus.|Nous visitons les ruines.
+ruinae|f|ruinarum|n|ruines|ville|Ruinae fori Romani.|Les ruines du forum romain.
+labor|m|laboris|n|travail;peine|travail|Labor omnia vincit.|Le travail vient à bout de tout.
+opus|n|operis|n|travail;œuvre|travail|Ad opus eo.|Je vais au travail.
+laboro||laborare, laboravi, laboratum|v|travailler|travail|In officio laboro.|Je travaille dans un bureau.
+ars|f|artis|n|métier;art;technique|travail|Quam artem exerces?|Quel métier exerces-tu ?
+officium|n|officii|n|bureau;devoir;fonction|travail|Officium in primo tabulato est.|Le bureau est au premier étage.
+societas|f|societatis|n|entreprise;société|travail|Societas centum operarios habet.|L'entreprise a cent employés.
+dux|m|ducis|n|chef;guide|travail|Dux noster in feriis est.|Notre chef est en vacances.
+collega|m|collegae|n|collègue|travail|Collega meus me adiuvat.|Mon collègue m'aide.
+emptor|m|emptoris|n|client;acheteur|travail|Emptor exspectat.|Le client attend.
+conventus|m|conventus|n|réunion;assemblée|travail|Conventus hora decima incipit.|La réunion commence à la dixième heure.
+quies|f|quietis|n|repos;pause|travail|Paulum quietis sumamus!|Prenons un peu de repos !
+magister|m|magistri|n|maître;professeur|travail|Magister regulam explicat.|Le maître explique la règle.
+magistra|f|magistrae|n|enseignante|travail|Magistra benigna est.|L'enseignante est gentille.
+medicus|m|medici|n|médecin|travail|Ad medicum eo.|Je vais chez le médecin.
+mercator|m|mercatoris|n|marchand|travail|Mercator merces vendit.|Le marchand vend ses marchandises.
+coquus|m|coqui|n|cuisinier|travail|Coquus optimus est.|Le cuisinier est excellent.
+agricola|m|agricolae|n|agriculteur|travail|Agricola in agro laborat.|L'agriculteur travaille aux champs.
+nauta|m|nautae|n|marin|travail|Nauta navem regit.|Le marin dirige le navire.
+miles|m|militis|n|soldat|travail|Miles in castris est.|Le soldat est au camp.
+discipulus|m|discipuli|n|élève|travail|Discipulus diligens est.|L'élève est appliqué.
+studeo||studere, studui|v|étudier;s'appliquer à|travail|Litteris studeo.|J'étudie les lettres.
+utor||uti, usus sum|v|utiliser|travail|Licetne stilo tuo uti?|Puis-je utiliser ton stylo ?
+statuo||statuere, statui, statutum|v|décider;établir|travail|Statuendum est.|Il faut décider.
+charta|f|chartae|n|papier;feuille|travail|Habesne chartam?|As-tu une feuille de papier ?
+stilus|m|stili|n|stylo;stylet|travail|Habesne stilum?|As-tu un stylo ?
+liber|m|libri|n|livre|travail|Librum lego.|Je lis un livre.
+diligens||diligentis|adj|appliqué;travailleur|travail|Diligentissima est.|Elle est très travailleuse.
+occupatus||occupata, occupatum|adj|occupé|travail|Hodie occupatus sum.|Aujourd'hui, je suis occupé.
+examen|n|examinis|n|examen|travail|Examen superavi!|J'ai réussi l'examen !
+lectio|f|lectionis|n|leçon;lecture|travail|Lectionem Latinam habeo.|J'ai une leçon de latin.

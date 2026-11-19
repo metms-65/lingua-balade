@@ -1,0 +1,834 @@
+[
+ {
+  "id": "de_gram_articles_definis",
+  "title": "Les articles définis",
+  "level": "A1",
+  "summary_fr": "Chaque nom a un genre : masculin (der), féminin (die) ou neutre (das). L'article change selon le rôle du nom dans la phrase : sujet (nominatif), complément direct (accusatif), complément d'attribution ou après certaines prépositions (datif), possession (génitif). Apprenez toujours le nom avec son article.",
+  "chant": "der, die, das, die — den, die, das, die — dem, der, dem, den — des, der, des, der",
+  "table": {
+   "headers": [
+    "Cas",
+    "Masculin",
+    "Féminin",
+    "Neutre",
+    "Pluriel"
+   ],
+   "column_genders": [
+    null,
+    "m",
+    "f",
+    "n",
+    "pl"
+   ],
+   "rows": [
+    [
+     "Nominatif",
+     "der",
+     "die",
+     "das",
+     "die"
+    ],
+    [
+     "Accusatif",
+     "den",
+     "die",
+     "das",
+     "die"
+    ],
+    [
+     "Datif",
+     "dem",
+     "der",
+     "dem",
+     "den"
+    ],
+    [
+     "Génitif",
+     "des",
+     "der",
+     "des",
+     "der"
+    ]
+   ],
+   "column_langs": [
+    "fr",
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Der Mann trinkt den Kaffee.",
+    "fr": "L'homme boit le café."
+   },
+   {
+    "target": "Ich gebe dem Kind das Buch.",
+    "fr": "Je donne le livre à l'enfant."
+   },
+   {
+    "target": "Das ist das Auto der Frau.",
+    "fr": "C'est la voiture de la femme."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_articles_indefinis",
+  "title": "Les articles indéfinis et « kein »",
+  "level": "A1",
+  "summary_fr": "« ein » (un, une) suit le même schéma que « der », sans pluriel. « kein » (pas de, aucun) se décline de la même façon et possède un pluriel : keine.",
+  "chant": "ein, eine, ein — einen, eine, ein — einem, einer, einem",
+  "table": {
+   "headers": [
+    "Cas",
+    "Masculin",
+    "Féminin",
+    "Neutre",
+    "Pluriel (kein)"
+   ],
+   "column_genders": [
+    null,
+    "m",
+    "f",
+    "n",
+    "pl"
+   ],
+   "rows": [
+    [
+     "Nominatif",
+     "ein",
+     "eine",
+     "ein",
+     "keine"
+    ],
+    [
+     "Accusatif",
+     "einen",
+     "eine",
+     "ein",
+     "keine"
+    ],
+    [
+     "Datif",
+     "einem",
+     "einer",
+     "einem",
+     "keinen"
+    ]
+   ],
+   "column_langs": [
+    "fr",
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Ich habe einen Bruder und eine Schwester.",
+    "fr": "J'ai un frère et une sœur."
+   },
+   {
+    "target": "Wir haben keine Zeit.",
+    "fr": "Nous n'avons pas le temps."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_pronoms",
+  "title": "Les pronoms personnels",
+  "level": "A1",
+  "summary_fr": "Comme les articles, les pronoms changent selon le cas. Le datif s'emploie après « mit, bei, zu, von… » et avec des verbes comme « helfen », « geben », « gefallen ».",
+  "chant": "ich, mich, mir — du, dich, dir — er, ihn, ihm — sie, sie, ihr",
+  "table": {
+   "headers": [
+    "Nominatif",
+    "Accusatif",
+    "Datif"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "ich",
+     "mich",
+     "mir"
+    ],
+    [
+     "du",
+     "dich",
+     "dir"
+    ],
+    [
+     "er",
+     "ihn",
+     "ihm"
+    ],
+    [
+     "sie",
+     "sie",
+     "ihr"
+    ],
+    [
+     "es",
+     "es",
+     "ihm"
+    ],
+    [
+     "wir",
+     "uns",
+     "uns"
+    ],
+    [
+     "ihr",
+     "euch",
+     "euch"
+    ],
+    [
+     "sie / Sie",
+     "sie / Sie",
+     "ihnen / Ihnen"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Kannst du mir helfen?",
+    "fr": "Peux-tu m'aider ?"
+   },
+   {
+    "target": "Ich sehe ihn jeden Tag.",
+    "fr": "Je le vois tous les jours."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_sein_haben",
+  "title": "« sein » et « haben » au présent",
+  "level": "A1",
+  "summary_fr": "Les deux verbes les plus importants, irréguliers. Ils servent aussi d'auxiliaires pour le passé composé (Perfekt).",
+  "chant": "ich bin, du bist, er ist — ich habe, du hast, er hat",
+  "table": {
+   "headers": [
+    "Personne",
+    "sein (être)",
+    "haben (avoir)"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "ich",
+     "bin",
+     "habe"
+    ],
+    [
+     "du",
+     "bist",
+     "hast"
+    ],
+    [
+     "er / sie / es",
+     "ist",
+     "hat"
+    ],
+    [
+     "wir",
+     "sind",
+     "haben"
+    ],
+    [
+     "ihr",
+     "seid",
+     "habt"
+    ],
+    [
+     "sie / Sie",
+     "sind",
+     "haben"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Wir sind müde, aber wir haben Hunger.",
+    "fr": "Nous sommes fatigués, mais nous avons faim."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_present_regulier",
+  "title": "Le présent des verbes réguliers",
+  "level": "A1",
+  "summary_fr": "On retire -en de l'infinitif et on ajoute les terminaisons : -e, -st, -t, -en, -t, -en. Certains verbes forts changent de voyelle à « du » et « er » : fahren → du fährst, sprechen → du sprichst.",
+  "chant": "-e, -st, -t — -en, -t, -en",
+  "table": {
+   "headers": [
+    "Personne",
+    "machen",
+    "wohnen",
+    "fahren (fort)"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "ich",
+     "mache",
+     "wohne",
+     "fahre"
+    ],
+    [
+     "du",
+     "machst",
+     "wohnst",
+     "fährst"
+    ],
+    [
+     "er / sie / es",
+     "macht",
+     "wohnt",
+     "fährt"
+    ],
+    [
+     "wir",
+     "machen",
+     "wohnen",
+     "fahren"
+    ],
+    [
+     "ihr",
+     "macht",
+     "wohnt",
+     "fahrt"
+    ],
+    [
+     "sie / Sie",
+     "machen",
+     "wohnen",
+     "fahren"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Wo wohnst du?",
+    "fr": "Où habites-tu ?"
+   },
+   {
+    "target": "Er fährt mit dem Zug.",
+    "fr": "Il prend le train."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_modaux",
+  "title": "Les verbes de modalité",
+  "level": "A1",
+  "summary_fr": "können (pouvoir), müssen (devoir), wollen (vouloir), möchten (voudrais). Le verbe de modalité est conjugué en 2ᵉ position, l'infinitif part à la fin : « Ich kann heute nicht kommen. » Attention : ich et er ont la même forme, sans terminaison.",
+  "chant": "ich kann, du kannst, er kann — ich muss, du musst, er muss",
+  "table": {
+   "headers": [
+    "Personne",
+    "können",
+    "müssen",
+    "wollen",
+    "möchten"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "ich",
+     "kann",
+     "muss",
+     "will",
+     "möchte"
+    ],
+    [
+     "du",
+     "kannst",
+     "musst",
+     "willst",
+     "möchtest"
+    ],
+    [
+     "er / sie / es",
+     "kann",
+     "muss",
+     "will",
+     "möchte"
+    ],
+    [
+     "wir",
+     "können",
+     "müssen",
+     "wollen",
+     "möchten"
+    ],
+    [
+     "ihr",
+     "könnt",
+     "müsst",
+     "wollt",
+     "möchtet"
+    ],
+    [
+     "sie / Sie",
+     "können",
+     "müssen",
+     "wollen",
+     "möchten"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Ich muss jetzt gehen.",
+    "fr": "Je dois partir maintenant."
+   },
+   {
+    "target": "Möchtest du einen Kaffee trinken?",
+    "fr": "Veux-tu boire un café ?"
+   }
+  ]
+ },
+ {
+  "id": "de_gram_ordre_mots",
+  "title": "La place du verbe",
+  "level": "A1",
+  "summary_fr": "Règle d'or : dans la phrase principale, le verbe conjugué est toujours en 2ᵉ position. Si un autre élément ouvre la phrase (le temps, le lieu…), le sujet passe après le verbe. Après « weil, dass, wenn, ob », le verbe conjugué part à la fin.",
+  "chant": "Heute gehe ich — morgen fahre ich — weil ich müde bin",
+  "table": {
+   "headers": [
+    "Position 1",
+    "Verbe (2)",
+    "Suite",
+    "Fin"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "Ich",
+     "gehe",
+     "heute ins Kino",
+     "—"
+    ],
+    [
+     "Heute",
+     "gehe",
+     "ich ins Kino",
+     "—"
+    ],
+    [
+     "Ich",
+     "kann",
+     "heute nicht",
+     "kommen"
+    ],
+    [
+     "Ich",
+     "bin",
+     "gestern nach Berlin",
+     "gefahren"
+    ],
+    [
+     "…, weil ich",
+     "—",
+     "heute müde",
+     "bin"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Am Sonntag schlafe ich lange.",
+    "fr": "Le dimanche, je fais la grasse matinée."
+   },
+   {
+    "target": "Ich bleibe zu Hause, weil ich krank bin.",
+    "fr": "Je reste à la maison parce que je suis malade."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_possessifs",
+  "title": "Les possessifs",
+  "level": "A1",
+  "summary_fr": "mein (mon), dein (ton), sein (son, à lui), ihr (son, à elle / leur), unser (notre), euer (votre), Ihr (votre, politesse). Ils prennent les mêmes terminaisons que « ein » et « kein ».",
+  "chant": "mein, meine, mein — meinen, meine, mein — meinem, meiner, meinem",
+  "table": {
+   "headers": [
+    "Cas",
+    "Masculin",
+    "Féminin",
+    "Neutre",
+    "Pluriel"
+   ],
+   "column_genders": [
+    null,
+    "m",
+    "f",
+    "n",
+    "pl"
+   ],
+   "rows": [
+    [
+     "Nominatif",
+     "mein",
+     "meine",
+     "mein",
+     "meine"
+    ],
+    [
+     "Accusatif",
+     "meinen",
+     "meine",
+     "mein",
+     "meine"
+    ],
+    [
+     "Datif",
+     "meinem",
+     "meiner",
+     "meinem",
+     "meinen"
+    ]
+   ],
+   "column_langs": [
+    "fr",
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Das ist mein Bruder und meine Schwester.",
+    "fr": "Voici mon frère et ma sœur."
+   },
+   {
+    "target": "Ich fahre mit meinem Auto.",
+    "fr": "Je roule avec ma voiture."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_prepositions",
+  "title": "Les prépositions et leur cas",
+  "level": "A2",
+  "summary_fr": "Certaines prépositions imposent toujours l'accusatif, d'autres toujours le datif. Les prépositions « mixtes » prennent l'accusatif pour un mouvement (wohin ?) et le datif pour une position (wo ?) : « Ich gehe in den Park » / « Ich bin im Park ».",
+  "chant": "durch, für, gegen, ohne, um — aus, bei, mit, nach, seit, von, zu",
+  "table": {
+   "headers": [
+    "Groupe",
+    "Prépositions",
+    "Exemple"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "Toujours accusatif",
+     "durch, für, gegen, ohne, um",
+     "für meinen Vater"
+    ],
+    [
+     "Toujours datif",
+     "aus, bei, mit, nach, seit, von, zu",
+     "mit dem Bus"
+    ],
+    [
+     "Mixtes : où ? datif",
+     "in, an, auf, unter, über, vor, hinter, neben, zwischen",
+     "Ich bin im Park."
+    ],
+    [
+     "Mixtes : où va-t-on ? accusatif",
+     "in, an, auf, unter, über, vor, hinter, neben, zwischen",
+     "Ich gehe in den Park."
+    ]
+   ],
+   "column_langs": [
+    "fr",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Ich fahre mit dem Fahrrad zur Arbeit.",
+    "fr": "Je vais au travail à vélo."
+   },
+   {
+    "target": "Das Geschenk ist für dich.",
+    "fr": "Le cadeau est pour toi."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_contractions",
+  "title": "Les contractions",
+  "level": "A1",
+  "summary_fr": "Certaines prépositions fusionnent avec l'article. On les entend partout à l'oral.",
+  "chant": "im, am, zum, zur, vom, beim, ins",
+  "table": {
+   "headers": [
+    "Forme longue",
+    "Contraction",
+    "Exemple"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "in dem",
+     "im",
+     "im Park"
+    ],
+    [
+     "an dem",
+     "am",
+     "am Bahnhof"
+    ],
+    [
+     "zu dem",
+     "zum",
+     "zum Arzt"
+    ],
+    [
+     "zu der",
+     "zur",
+     "zur Arbeit"
+    ],
+    [
+     "von dem",
+     "vom",
+     "vom Markt"
+    ],
+    [
+     "bei dem",
+     "beim",
+     "beim Bäcker"
+    ],
+    [
+     "in das",
+     "ins",
+     "ins Kino"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Ich gehe zum Bahnhof und dann ins Kino.",
+    "fr": "Je vais à la gare, puis au cinéma."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_perfekt",
+  "title": "Le passé composé (Perfekt)",
+  "level": "A2",
+  "summary_fr": "À l'oral, on raconte le passé avec le Perfekt : haben ou sein conjugué en 2ᵉ position, participe passé à la fin. On utilise « sein » pour les verbes de déplacement ou de changement d'état (gehen, fahren, kommen, werden) et pour « sein » et « bleiben ».",
+  "chant": "ich habe gemacht — ich bin gegangen — ich habe gegessen — ich bin gefahren",
+  "table": {
+   "headers": [
+    "Infinitif",
+    "Auxiliaire",
+    "Participe",
+    "Phrase"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "machen",
+     "haben",
+     "gemacht",
+     "Ich habe Sport gemacht."
+    ],
+    [
+     "essen",
+     "haben",
+     "gegessen",
+     "Wir haben Pizza gegessen."
+    ],
+    [
+     "sehen",
+     "haben",
+     "gesehen",
+     "Hast du den Film gesehen?"
+    ],
+    [
+     "gehen",
+     "sein",
+     "gegangen",
+     "Er ist nach Hause gegangen."
+    ],
+    [
+     "fahren",
+     "sein",
+     "gefahren",
+     "Ich bin nach Berlin gefahren."
+    ],
+    [
+     "bleiben",
+     "sein",
+     "geblieben",
+     "Sie ist zu Hause geblieben."
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "target",
+    "target",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Gestern habe ich lange geschlafen.",
+    "fr": "Hier, j'ai dormi longtemps."
+   }
+  ]
+ },
+ {
+  "id": "de_gram_questions",
+  "title": "Poser des questions",
+  "level": "A1",
+  "summary_fr": "Question fermée (oui / non) : le verbe passe en 1ʳᵉ position. Question ouverte : le mot interrogatif d'abord, puis le verbe.",
+  "chant": "wer, was, wo, wann, wie, warum — woher, wohin, wie viel",
+  "table": {
+   "headers": [
+    "Mot",
+    "Sens",
+    "Exemple"
+   ],
+   "column_genders": [
+    null,
+    null,
+    null
+   ],
+   "rows": [
+    [
+     "wer",
+     "qui",
+     "Wer ist das?"
+    ],
+    [
+     "was",
+     "quoi",
+     "Was machst du?"
+    ],
+    [
+     "wo",
+     "où",
+     "Wo wohnst du?"
+    ],
+    [
+     "woher",
+     "d'où",
+     "Woher kommst du?"
+    ],
+    [
+     "wohin",
+     "où (direction)",
+     "Wohin fährst du?"
+    ],
+    [
+     "wann",
+     "quand",
+     "Wann beginnt der Film?"
+    ],
+    [
+     "wie",
+     "comment",
+     "Wie heißt du?"
+    ],
+    [
+     "warum",
+     "pourquoi",
+     "Warum lachst du?"
+    ]
+   ],
+   "column_langs": [
+    "target",
+    "fr",
+    "target"
+   ]
+  },
+  "examples": [
+   {
+    "target": "Kommst du mit?",
+    "fr": "Tu viens avec nous ?"
+   }
+  ]
+ }
+]

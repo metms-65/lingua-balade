@@ -1,0 +1,149 @@
+# IMPORTANT : les identifiants (la_0001…) suivent l'ordre des fichiers et des lignes : ajouter seulement en fin.
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+sum||esse, fui|v|être|essentiel|Defessus sum.|Je suis fatigué.
+habeo||habere, habui, habitum|v|avoir|essentiel|Tempus habeo.|J'ai le temps.
+volo||velle, volui|v|vouloir|essentiel|Aquam volo.|Je veux de l'eau.
+possum||posse, potui|v|pouvoir|essentiel|Potesne me adiuvare?|Peux-tu m'aider ?
+debeo||debere, debui, debitum|v|devoir|essentiel|Nunc abire debeo.|Je dois partir maintenant.
+facio||facere, feci, factum|v|faire|essentiel|Quid facis hodie?|Que fais-tu aujourd'hui ?
+eo||ire, ii, itum|v|aller|essentiel|Domum imus.|Nous rentrons à la maison.
+venio||venire, veni, ventum|v|venir|essentiel|Unde venis?|D'où viens-tu ?
+dico||dicere, dixi, dictum|v|dire|essentiel|Quid dixisti?|Qu'as-tu dit ?
+do||dare, dedi, datum|v|donner|essentiel|Da mihi librum.|Donne-moi le livre.
+video||videre, vidi, visum|v|voir|essentiel|Navem video.|Je vois le bateau.
+scio||scire, scivi, scitum|v|savoir|essentiel|Nescio.|Je ne sais pas.
+capio||capere, cepi, captum|v|prendre;saisir|essentiel|Cape hoc!|Prends ceci !
+invenio||invenire, inveni, inventum|v|trouver|essentiel|Clavem non invenio.|Je ne trouve pas la clé.
+puto||putare, putavi, putatum|v|penser;croire|essentiel|Puto te recte dicere.|Je pense que tu as raison.
+maneo||manere, mansi, mansum|v|rester;demeurer|essentiel|Hic manemus.|Nous restons ici.
+habito||habitare, habitavi, habitatum|v|habiter|essentiel|Ubi habitas?|Où habites-tu ?
+vivo||vivere, vixi, victum|v|vivre|essentiel|Lutetiae vivo.|Je vis à Paris.
+amo||amare, amavi, amatum|v|aimer|essentiel|Te amo.|Je t'aime.
+placet||placere, placuit|v|plaire|essentiel|Hoc mihi placet.|Cela me plaît.
+intellego||intellegere, intellexi, intellectum|v|comprendre|essentiel|Non intellego.|Je ne comprends pas.
+loquor||loqui, locutus sum|v|parler|essentiel|Loquerisne Latine?|Parles-tu latin ?
+audio||audire, audivi, auditum|v|entendre;écouter|essentiel|Musicam audio.|J'écoute de la musique.
+lego||legere, legi, lectum|v|lire|essentiel|Librum lego.|Je lis un livre.
+scribo||scribere, scripsi, scriptum|v|écrire|essentiel|Epistulam scribo.|J'écris une lettre.
+edo||edere, edi, esum|v|manger|essentiel|Panem edimus.|Nous mangeons du pain.
+bibo||bibere, bibi|v|boire|essentiel|Vinum bibo.|Je bois du vin.
+quaero||quaerere, quaesivi, quaesitum|v|chercher;demander|essentiel|Viam quaero.|Je cherche le chemin.
+exspecto||exspectare, exspectavi, exspectatum|v|attendre|essentiel|Exspecta me!|Attends-moi !
+aperio||aperire, aperui, apertum|v|ouvrir|essentiel|Aperi fenestram.|Ouvre la fenêtre.
+claudo||claudere, clausi, clausum|v|fermer|essentiel|Claude ianuam.|Ferme la porte.
+adiuvo||adiuvare, adiuvi, adiutum|v|aider|essentiel|Possumne te adiuvare?|Puis-je t'aider ?
+rogo||rogare, rogavi, rogatum|v|demander;prier|essentiel|Te rogo.|Je t'en prie.
+respondeo||respondere, respondi, responsum|v|répondre|essentiel|Non respondet.|Il ne répond pas.
+incipio||incipere, incepi, inceptum|v|commencer|essentiel|Ludus incipit.|Le jeu commence.
+finio||finire, finivi, finitum|v|finir|essentiel|Opus finivi.|J'ai fini le travail.
+obliviscor||oblivisci, oblitus sum|v|oublier|essentiel|Oblitus sum.|J'ai oublié.
+memini||meminisse|v|se souvenir|essentiel|Meministine mei?|Te souviens-tu de moi ?
+ego||mei, mihi, me|pron|je;moi|essentiel|Ego sum Michael.|Moi, je suis Michel.
+tu||tui, tibi, te|pron|tu;toi|essentiel|Tu quid vis?|Et toi, que veux-tu ?
+is||eius, ei, eum|pron|il;lui|essentiel|Is est frater meus.|C'est mon frère.
+ea||eius, ei, eam|pron|elle|essentiel|Ea est amica mea.|C'est mon amie.
+id||eius, ei, id|pron|cela;ça|essentiel|Id non intellego.|Je ne comprends pas cela.
+nos||nostri, nobis, nos|pron|nous|essentiel|Nos sumus amici.|Nous sommes amis.
+vos||vestri, vobis, vos|pron|vous|essentiel|Unde estis vos?|D'où êtes-vous ?
+hic||haec, hoc|pron|celui-ci;ce|essentiel|Hic liber est bonus.|Ce livre est bon.
+ille||illa, illud|pron|celui-là;il|essentiel|Ille vir est medicus.|Cet homme-là est médecin.
+meus||mea, meum|det|mon;ma|essentiel|Domus mea parva est.|Ma maison est petite.
+tuus||tua, tuum|det|ton;ta|essentiel|Ubi est mater tua?|Où est ta mère ?
+noster||nostra, nostrum|det|notre|essentiel|Domus nostra hic est.|Notre maison est ici.
+aliquid||-|pron|quelque chose|essentiel|Visne aliquid bibere?|Veux-tu boire quelque chose ?
+nihil||-|pron|rien|essentiel|Nihil vidi.|Je n'ai rien vu.
+aliquis||-|pron|quelqu'un|essentiel|Estne aliquis domi?|Y a-t-il quelqu'un à la maison ?
+nemo||neminis|pron|personne|essentiel|Nemo scit.|Personne ne sait.
+omnes||omnia|pron|tous;tout le monde|essentiel|Omnes adsunt.|Tout le monde est là.
+multum||-|adv|beaucoup|essentiel|Multum laboro.|Je travaille beaucoup.
+paulum||-|adv|un peu|essentiel|Paulum Latine loquor.|Je parle un peu latin.
+ita||-|adv|oui;ainsi|essentiel|Ita, gratias.|Oui, merci.
+minime||-|adv|non;pas du tout|essentiel|Minime, gratias.|Non, merci.
+non||-|adv|ne… pas|essentiel|Non fumo.|Je ne fume pas.
+quaeso||-|intj|s'il te plaît|essentiel|Aquam, quaeso.|De l'eau, s'il te plaît.
+gratias tibi ago||-|intj|merci (à toi)|essentiel|Gratias tibi ago, amice!|Merci, mon ami !
+salve||salvete|intj|bonjour (à toi)|essentiel|Salve, Marce!|Bonjour, Marcus !
+vale||valete|intj|au revoir (à toi)|essentiel|Vale, amice!|Au revoir, mon ami !
+ignosce||ignoscite|intj|pardon;excuse-moi|essentiel|Ignosce mihi!|Pardonne-moi !
+et||-|conj|et|essentiel|panis et caseus|du pain et du fromage
+aut||-|conj|ou|essentiel|Vinum aut aquam?|Du vin ou de l'eau ?
+sed||-|conj|mais|essentiel|Pulchrum est, sed carum.|C'est beau, mais cher.
+quia||-|conj|parce que|essentiel|Domi maneo, quia aegrotus sum.|Je reste à la maison parce que je suis malade.
+quod||-|conj|parce que;que|essentiel|Gaudeo quod venisti.|Je suis content que tu sois venu.
+si||-|conj|si|essentiel|Si pluit, domi manebo.|S'il pleut, je resterai à la maison.
+cum||-|conj|quand;lorsque|essentiel|Cum puer eram…|Quand j'étais enfant…
+ut||-|conj|pour que;comme|essentiel|Lente loquor, ut me intellegas.|Je parle lentement pour que tu me comprennes.
+etiam||-|adv|aussi;même|essentiel|Ego etiam venio.|Moi aussi, je viens.
+tantum||-|adv|seulement|essentiel|Quinque nummos tantum habeo.|Je n'ai que cinq pièces.
+iterum||-|adv|de nouveau|essentiel|Dic iterum, quaeso.|Redis-le, s'il te plaît.
+iam||-|adv|déjà;maintenant|essentiel|Iamne finivisti?|As-tu déjà fini ?
+adhuc||-|adv|encore;jusqu'ici|essentiel|Adhuc dormit.|Il dort encore.
+valde||-|adv|très;beaucoup|essentiel|Valde bonum est.|C'est très bon.
+hic (ici)||-|adv|ici|essentiel|Hic exspecto.|J'attends ici.
+ibi||-|adv|là|essentiel|Ibi est forum.|Là, il y a le forum.
+illic||-|adv|là-bas|essentiel|Illic est templum.|Là-bas, il y a un temple.
+nunc||-|adv|maintenant|essentiel|Nunc tempus non habeo.|Je n'ai pas le temps maintenant.
+deinde||-|adv|ensuite|essentiel|Deinde quid?|Et ensuite ?
+semper||-|adv|toujours|essentiel|Semper tempestive venit.|Il arrive toujours à l'heure.
+numquam||-|adv|jamais|essentiel|Numquam vinum bibo.|Je ne bois jamais de vin.
+saepe||-|adv|souvent|essentiel|Saepe ambulamus.|Nous nous promenons souvent.
+interdum||-|adv|parfois|essentiel|Interdum coquo.|Parfois, je cuisine.
+fortasse||-|adv|peut-être|essentiel|Fortasse cras veniam.|Je viendrai peut-être demain.
+certe||-|adv|certainement;bien sûr|essentiel|Certe te adiuvabo.|Bien sûr que je t'aiderai.
+una||-|adv|ensemble|essentiel|Una cenamus.|Nous dînons ensemble.
+solus||sola, solum|adj|seul|essentiel|Solus habito.|J'habite seul.
+ad sinistram||-|adv|à gauche|essentiel|I ad sinistram.|Va à gauche.
+ad dextram||-|adv|à droite|essentiel|Taberna est ad dextram.|La boutique est à droite.
+recta via||-|adv|tout droit|essentiel|Recta via i!|Va tout droit !
+quis||quid|pron|qui|essentiel|Quis est?|Qui est-ce ?
+quid||-|pron|quoi;que|essentiel|Quid est hoc?|Qu'est-ce que c'est ?
+ubi||-|adv|où|essentiel|Ubi es?|Où es-tu ?
+quo||-|adv|où (direction)|essentiel|Quo vadis?|Où vas-tu ?
+unde||-|adv|d'où|essentiel|Unde venis?|D'où viens-tu ?
+quando||-|adv|quand|essentiel|Quando venies?|Quand viendras-tu ?
+quomodo||-|adv|comment|essentiel|Quomodo vales?|Comment vas-tu ?
+cur||-|adv|pourquoi|essentiel|Cur rides?|Pourquoi ris-tu ?
+quantum||-|adv|combien|essentiel|Quantum constat?|Combien ça coûte ?
+in||-|prep|dans;en;sur (+abl.);vers (+acc.)|essentiel|In culina sum.|Je suis dans la cuisine.
+cum (avec)||-|prep|avec (+abl.)|essentiel|Tecum venio.|Je viens avec toi.
+ad||-|prep|vers;à (+acc.)|essentiel|Ad forum eo.|Je vais au forum.
+ab||a|prep|de;par (+abl.)|essentiel|A patre venio.|Je viens de chez mon père.
+ex||e|prep|hors de;de (+abl.)|essentiel|E Gallia venio.|Je viens de Gaule.
+de||-|prep|de;au sujet de (+abl.)|essentiel|De tempestate loquimur.|Nous parlons du temps qu'il fait.
+sine||-|prep|sans (+abl.)|essentiel|Sine saccharo, quaeso.|Sans sucre, s'il te plaît.
+pro||-|prep|pour;devant (+abl.)|essentiel|Hoc pro te est.|C'est pour toi.
+per||-|prep|à travers;par (+acc.)|essentiel|Per hortum ambulamus.|Nous traversons le jardin.
+post||-|prep|après;derrière (+acc.)|essentiel|Post cenam ambulamus.|Après le dîner, nous nous promenons.
+ante||-|prep|avant;devant (+acc.)|essentiel|Ante templum exspecto.|J'attends devant le temple.
+sub||-|prep|sous|essentiel|Canis sub mensa dormit.|Le chien dort sous la table.
+inter||-|prep|entre;parmi (+acc.)|essentiel|Inter amicos sumus.|Nous sommes entre amis.
+prope||-|prep|près de (+acc.)|essentiel|Prope mare habito.|J'habite près de la mer.
+bonus||bona, bonum|adj|bon|essentiel|Cibus bonus est.|La nourriture est bonne.
+malus||mala, malum|adj|mauvais|essentiel|Tempestas mala est.|Il fait mauvais.
+magnus||magna, magnum|adj|grand|essentiel|Domus magna est.|La maison est grande.
+parvus||parva, parvum|adj|petit|essentiel|Cubiculum meum parvum est.|Ma chambre est petite.
+novus||nova, novum|adj|nouveau;neuf|essentiel|Liber novus est.|Le livre est neuf.
+vetus||veteris|adj|vieux;ancien|essentiel|Urbs vetus est.|La ville est ancienne.
+iuvenis||iuvenis|adj|jeune|essentiel|Adhuc iuvenis est.|Il est encore jeune.
+senex||senis|adj|vieux;âgé|essentiel|Avus meus senex est.|Mon grand-père est vieux.
+longus||longa, longum|adj|long|essentiel|Via longa est.|Le chemin est long.
+brevis||breve|adj|court|essentiel|Vita brevis est.|La vie est brève.
+facilis||facile|adj|facile|essentiel|Hoc facile est.|C'est facile.
+difficilis||difficile|adj|difficile|essentiel|Lingua Latina difficilis est.|Le latin est difficile.
+pulcher||pulchra, pulchrum|adj|beau|essentiel|Quam pulchra dies!|Quelle belle journée !
+gravis||grave|adj|lourd;grave;important|essentiel|Sacculus gravis est.|Le sac est lourd.
+levis||leve|adj|léger|essentiel|Haec sarcina levis est.|Ce bagage est léger.
+verus||vera, verum|adj|vrai|essentiel|Verum est.|C'est vrai.
+falsus||falsa, falsum|adj|faux|essentiel|Responsum falsum est.|La réponse est fausse.
+paratus||parata, paratum|adj|prêt|essentiel|Cena parata est.|Le dîner est prêt.
+liber (libre)||libera, liberum|adj|libre|essentiel|Estne locus liber?|La place est-elle libre ?
+alius||alia, aliud|adj|autre|essentiel|Aliud volo.|Je veux autre chose.
+idem||eadem, idem|adj|le même|essentiel|Eandem vestem habemus.|Nous avons le même vêtement.
+res|f|rei|n|chose;affaire|essentiel|Res difficilis est.|C'est une chose difficile.
+vita|f|vitae|n|vie|essentiel|Sic est vita.|C'est la vie.
+mundus|m|mundi|n|monde|essentiel|Mundus parvus est.|Le monde est petit.
+locus|m|loci|n|lieu;endroit;place|essentiel|Locus pulcher est.|C'est un bel endroit.
+causa|f|causae|n|cause;raison|essentiel|Qua de causa?|Pour quelle raison ?
+exemplum|n|exempli|n|exemple|essentiel|Exempli gratia…|Par exemple…
+pars|f|partis|n|partie|essentiel|Pars tua haec est.|Voici ta part.
+modus|m|modi|n|manière;mesure|essentiel|Hoc modo facimus.|Nous faisons de cette manière.

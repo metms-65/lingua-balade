@@ -1,0 +1,275 @@
+[
+ {
+  "id": "la_gram_cas",
+  "title": "Les six cas : à quoi servent-ils ?",
+  "level": "A1",
+  "summary_fr": "En latin, la terminaison du mot indique sa fonction dans la phrase : l'ordre des mots est donc libre. « Puella rosam amat » et « Rosam puella amat » veulent dire la même chose : la jeune fille aime la rose.",
+  "chant": "nominatif, vocatif, accusatif, génitif, datif, ablatif",
+  "table": {
+   "headers": ["Cas", "Fonction", "Exemple", "Traduction"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["fr", "fr", "target", "fr"],
+   "rows": [
+    ["Nominatif", "sujet", "Puella cantat.", "La jeune fille chante."],
+    ["Vocatif", "on appelle quelqu'un", "Salve, Marce!", "Bonjour, Marcus !"],
+    ["Accusatif", "complément direct ; direction", "Rosam amo. Romam eo.", "J'aime la rose. Je vais à Rome."],
+    ["Génitif", "complément du nom (de)", "liber pueri", "le livre du garçon"],
+    ["Datif", "attribution (à, pour)", "Do librum puero.", "Je donne le livre au garçon."],
+    ["Ablatif", "moyen, lieu, temps ; après cum, in, de, ex, sine", "cum amico; in horto", "avec un ami ; dans le jardin"]
+   ]
+  },
+  "examples": [
+   {"target": "Marcus amico librum dat.", "fr": "Marcus donne un livre à son ami."}
+  ]
+ },
+ {
+  "id": "la_gram_decl1",
+  "title": "Première déclinaison : rosa",
+  "level": "A1",
+  "summary_fr": "Les noms en -a, génitif -ae, presque tous féminins (rosa, puella, via, aqua). C'est la déclinaison la plus simple : par elle, on apprend le principe des terminaisons.",
+  "chant": "rosa, rosae, rosae, rosam, rosa — rosae, rosarum, rosis, rosas, rosis",
+  "table": {
+   "headers": ["Cas", "Singulier", "Pluriel"],
+   "column_genders": [null, "f", "f"],
+   "column_langs": ["fr", "target", "target"],
+   "rows": [
+    ["Nominatif", "rosa", "rosae"],
+    ["Génitif", "rosae", "rosarum"],
+    ["Datif", "rosae", "rosis"],
+    ["Accusatif", "rosam", "rosas"],
+    ["Ablatif", "rosa", "rosis"]
+   ]
+  },
+  "examples": [
+   {"target": "Puella rosas amat.", "fr": "La jeune fille aime les roses."},
+   {"target": "In via ambulamus.", "fr": "Nous marchons dans la rue."}
+  ]
+ },
+ {
+  "id": "la_gram_decl2",
+  "title": "Deuxième déclinaison : dominus, templum",
+  "level": "A1",
+  "summary_fr": "Les noms en -us (masculins) et en -um (neutres), génitif -i. Règle d'or des neutres : nominatif et accusatif sont toujours identiques, et le pluriel se termine en -a.",
+  "chant": "dominus, domini, domino, dominum, domino — templum, templi, templo, templum, templo",
+  "table": {
+   "headers": ["Cas", "Masc. sing.", "Masc. plur.", "Neutre sing.", "Neutre plur."],
+   "column_genders": [null, "m", "m", "n", "n"],
+   "column_langs": ["fr", "target", "target", "target", "target"],
+   "rows": [
+    ["Nominatif", "dominus", "domini", "templum", "templa"],
+    ["Génitif", "domini", "dominorum", "templi", "templorum"],
+    ["Datif", "domino", "dominis", "templo", "templis"],
+    ["Accusatif", "dominum", "dominos", "templum", "templa"],
+    ["Ablatif", "domino", "dominis", "templo", "templis"]
+   ]
+  },
+  "examples": [
+   {"target": "Amicus meus in templo est.", "fr": "Mon ami est dans le temple."}
+  ]
+ },
+ {
+  "id": "la_gram_decl3",
+  "title": "Troisième déclinaison : rex, nomen",
+  "level": "A2",
+  "summary_fr": "La plus variée : le nominatif change beaucoup (rex, pater, nomen, urbs), mais le génitif en -is donne le radical. Apprenez toujours nominatif + génitif : rex, regis ; nomen, nominis.",
+  "chant": "rex, regis, regi, regem, rege — reges, regum, regibus, reges, regibus",
+  "table": {
+   "headers": ["Cas", "Masc. sing.", "Masc. plur.", "Neutre sing.", "Neutre plur."],
+   "column_genders": [null, "m", "m", "n", "n"],
+   "column_langs": ["fr", "target", "target", "target", "target"],
+   "rows": [
+    ["Nominatif", "rex", "reges", "nomen", "nomina"],
+    ["Génitif", "regis", "regum", "nominis", "nominum"],
+    ["Datif", "regi", "regibus", "nomini", "nominibus"],
+    ["Accusatif", "regem", "reges", "nomen", "nomina"],
+    ["Ablatif", "rege", "regibus", "nomine", "nominibus"]
+   ]
+  },
+  "examples": [
+   {"target": "Pater meus in urbe habitat.", "fr": "Mon père habite en ville."}
+  ]
+ },
+ {
+  "id": "la_gram_sum",
+  "title": "« sum » (être) et « possum » (pouvoir)",
+  "level": "A1",
+  "summary_fr": "Le verbe le plus important, irrégulier. « possum » = pot- + sum : pot- devient pos- devant un s (possum, potes, potest…).",
+  "chant": "sum, es, est — sumus, estis, sunt",
+  "table": {
+   "headers": ["Personne", "sum (être)", "possum (pouvoir)", "Sens"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "target", "target", "fr"],
+   "rows": [
+    ["ego", "sum", "possum", "je suis · je peux"],
+    ["tu", "es", "potes", "tu es · tu peux"],
+    ["is / ea", "est", "potest", "il est · il peut"],
+    ["nos", "sumus", "possumus", "nous sommes · nous pouvons"],
+    ["vos", "estis", "potestis", "vous êtes · vous pouvez"],
+    ["ei / eae", "sunt", "possunt", "ils sont · ils peuvent"]
+   ]
+  },
+  "examples": [
+   {"target": "Amici sumus; te adiuvare possumus.", "fr": "Nous sommes amis ; nous pouvons t'aider."}
+  ]
+ },
+ {
+  "id": "la_gram_present",
+  "title": "Le présent : les quatre conjugaisons",
+  "level": "A1",
+  "summary_fr": "Le pronom sujet est inutile : la terminaison dit qui agit. Terminaisons communes : -o, -s, -t, -mus, -tis, -nt. La voyelle avant la terminaison change selon la conjugaison : amA-, monE-, legI-, audI-.",
+  "chant": "-o, -s, -t — -mus, -tis, -nt",
+  "table": {
+   "headers": ["Personne", "amo (aimer)", "moneo (avertir)", "lego (lire)", "audio (entendre)"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["fr", "target", "target", "target", "target"],
+   "rows": [
+    ["je", "amo", "moneo", "lego", "audio"],
+    ["tu", "amas", "mones", "legis", "audis"],
+    ["il, elle", "amat", "monet", "legit", "audit"],
+    ["nous", "amamus", "monemus", "legimus", "audimus"],
+    ["vous", "amatis", "monetis", "legitis", "auditis"],
+    ["ils, elles", "amant", "monent", "legunt", "audiunt"]
+   ]
+  },
+  "examples": [
+   {"target": "Librum legimus et musicam audimus.", "fr": "Nous lisons un livre et écoutons de la musique."}
+  ]
+ },
+ {
+  "id": "la_gram_parfait",
+  "title": "Le parfait (passé)",
+  "level": "A2",
+  "summary_fr": "Pour raconter : on prend la 3ᵉ forme du dictionnaire (amavi, vidi, veni…) et on ajoute les terminaisons du parfait : -i, -isti, -it, -imus, -istis, -erunt. Ces terminaisons sont les mêmes pour tous les verbes.",
+  "chant": "-i, -isti, -it — -imus, -istis, -erunt",
+  "table": {
+   "headers": ["Personne", "amo → amavi", "venio → veni", "video → vidi", "sum → fui"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["fr", "target", "target", "target", "target"],
+   "rows": [
+    ["j'ai…", "amavi", "veni", "vidi", "fui"],
+    ["tu as…", "amavisti", "venisti", "vidisti", "fuisti"],
+    ["il a…", "amavit", "venit", "vidit", "fuit"],
+    ["nous avons…", "amavimus", "venimus", "vidimus", "fuimus"],
+    ["vous avez…", "amavistis", "venistis", "vidistis", "fuistis"],
+    ["ils ont…", "amaverunt", "venerunt", "viderunt", "fuerunt"]
+   ]
+  },
+  "examples": [
+   {"target": "Veni, vidi, vici.", "fr": "Je suis venu, j'ai vu, j'ai vaincu."},
+   {"target": "Heri Romam venimus.", "fr": "Hier, nous sommes venus à Rome."}
+  ]
+ },
+ {
+  "id": "la_gram_imperatif",
+  "title": "L'impératif : donner un ordre",
+  "level": "A1",
+  "summary_fr": "Singulier : le radical seul (ama !, vide !, lege !, audi !). Pluriel : on ajoute -te (amate !, videte !, legite !, audite !). Pour une défense : noli / nolite + infinitif (noli timere = n'aie pas peur).",
+  "chant": "veni, vide, audi, lege — venite, videte, audite, legite",
+  "table": {
+   "headers": ["Infinitif", "À une personne", "À plusieurs", "Sens"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["target", "target", "target", "fr"],
+   "rows": [
+    ["venire", "veni!", "venite!", "viens ! venez !"],
+    ["videre", "vide!", "videte!", "regarde ! regardez !"],
+    ["audire", "audi!", "audite!", "écoute ! écoutez !"],
+    ["legere", "lege!", "legite!", "lis ! lisez !"],
+    ["timere", "noli timere!", "nolite timere!", "n'aie pas peur ! n'ayez pas peur !"]
+   ]
+  },
+  "examples": [
+   {"target": "Veni huc et audi!", "fr": "Viens ici et écoute !"}
+  ]
+ },
+ {
+  "id": "la_gram_pronoms",
+  "title": "Les pronoms personnels",
+  "level": "A1",
+  "summary_fr": "Le pronom sujet ne s'emploie que pour insister (« Ego Marcus sum » : moi, je suis Marcus). Les formes compléments sont très fréquentes. Avec cum, le pronom passe devant : mecum (avec moi), tecum (avec toi), nobiscum (avec nous).",
+  "chant": "ego, mei, mihi, me — tu, tui, tibi, te",
+  "table": {
+   "headers": ["Cas", "je", "tu", "nous", "vous"],
+   "column_genders": [null, null, null, null, null],
+   "column_langs": ["fr", "target", "target", "target", "target"],
+   "rows": [
+    ["Nominatif", "ego", "tu", "nos", "vos"],
+    ["Génitif", "mei", "tui", "nostri", "vestri"],
+    ["Datif", "mihi", "tibi", "nobis", "vobis"],
+    ["Accusatif", "me", "te", "nos", "vos"],
+    ["Ablatif", "me", "te", "nobis", "vobis"]
+   ]
+  },
+  "examples": [
+   {"target": "Venisne mecum? Librum tibi do.", "fr": "Viens-tu avec moi ? Je te donne le livre."}
+  ]
+ },
+ {
+  "id": "la_gram_adjectifs",
+  "title": "L'adjectif : bonus, bona, bonum",
+  "level": "A1",
+  "summary_fr": "L'adjectif s'accorde avec le nom en genre, en nombre et en cas. Les adjectifs en -us, -a, -um se déclinent comme dominus (masculin), rosa (féminin) et templum (neutre).",
+  "chant": "bonus, bona, bonum — boni, bonae, bona",
+  "table": {
+   "headers": ["Cas", "Masculin", "Féminin", "Neutre"],
+   "column_genders": [null, "m", "f", "n"],
+   "column_langs": ["fr", "target", "target", "target"],
+   "rows": [
+    ["Nominatif sing.", "bonus", "bona", "bonum"],
+    ["Accusatif sing.", "bonum", "bonam", "bonum"],
+    ["Ablatif sing.", "bono", "bona", "bono"],
+    ["Nominatif plur.", "boni", "bonae", "bona"],
+    ["Accusatif plur.", "bonos", "bonas", "bona"]
+   ]
+  },
+  "examples": [
+   {"target": "Amicus bonus, via longa, templum magnum.", "fr": "Un bon ami, un long chemin, un grand temple."}
+  ]
+ },
+ {
+  "id": "la_gram_prepositions",
+  "title": "Les prépositions et leur cas",
+  "level": "A2",
+  "summary_fr": "Certaines prépositions sont suivies de l'accusatif, d'autres de l'ablatif. « in » prend l'accusatif pour un mouvement (in urbem = vers la ville) et l'ablatif pour une position (in urbe = dans la ville).",
+  "chant": "ad, ante, post, per, inter + accusatif — a, de, ex, cum, sine, pro + ablatif",
+  "table": {
+   "headers": ["Groupe", "Prépositions", "Exemple", "Traduction"],
+   "column_genders": [null, null, null, null],
+   "column_langs": ["fr", "target", "target", "fr"],
+   "rows": [
+    ["+ accusatif", "ad, ante, post, per, inter, prope", "ad forum", "vers le forum"],
+    ["+ ablatif", "a, de, ex, cum, sine, pro", "cum amicis", "avec des amis"],
+    ["in + acc. (mouvement)", "in", "in urbem eo", "je vais en ville"],
+    ["in + abl. (position)", "in", "in urbe sum", "je suis en ville"]
+   ]
+  },
+  "examples": [
+   {"target": "Post cenam cum amicis ad forum imus.", "fr": "Après le dîner, nous allons au forum avec des amis."}
+  ]
+ },
+ {
+  "id": "la_gram_questions",
+  "title": "Poser des questions",
+  "level": "A1",
+  "summary_fr": "Pour une question fermée, on ajoute -ne au premier mot (Venisne? = Viens-tu ?). « Nonne » attend la réponse oui, « num » attend la réponse non. Pour répondre oui, on répète le verbe (Venisne? – Venio.) ou on dit « ita » ; pour non : « minime ».",
+  "chant": "quis, quid, ubi, quo, unde, quando, cur, quomodo",
+  "table": {
+   "headers": ["Mot", "Sens", "Exemple"],
+   "column_genders": [null, null, null],
+   "column_langs": ["target", "fr", "target"],
+   "rows": [
+    ["quis", "qui", "Quis es?"],
+    ["quid", "quoi", "Quid agis?"],
+    ["ubi", "où", "Ubi habitas?"],
+    ["quo", "où (direction)", "Quo vadis?"],
+    ["unde", "d'où", "Unde venis?"],
+    ["quando", "quand", "Quando venies?"],
+    ["cur", "pourquoi", "Cur rides?"],
+    ["quomodo", "comment", "Quomodo vales?"],
+    ["-ne", "est-ce que", "Venisne mecum?"]
+   ]
+  },
+  "examples": [
+   {"target": "Quo vadis? – Ad forum.", "fr": "Où vas-tu ? – Au forum."}
+  ]
+ }
+]

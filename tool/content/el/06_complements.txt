@@ -1,0 +1,169 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+παίρνω τηλέφωνο||πήρα τηλέφωνο|v|appeler (au téléphone)|communication|Πάρε με τηλέφωνο αύριο.|Appelle-moi demain.|pérno tiléfono|páre me tiléfono ávrio.
+φέρνω||έφερα|v|apporter|essentiel|Φέρε μου ένα ποτήρι νερό.|Apporte-moi un verre d'eau.|férno|fére mu éna potíri neró.
+βάζω||έβαλα|v|mettre|essentiel|Πού να το βάλω;|Où dois-je le mettre ?|vázo|pu na to válo?
+αφήνω||άφησα|v|laisser|essentiel|Άφησέ με ήσυχο.|Laisse-moi tranquille.|afíno|áfisé me ísiho.
+κρατάω||κράτησα|v|tenir;garder|essentiel|Κράτα το, είναι για σένα.|Garde-le, c'est pour toi.|kratáo|kráta to, íne gia séna.
+δείχνω||έδειξα|v|montrer|essentiel|Δείξε μου τον δρόμο.|Montre-moi le chemin.|díhno|díkse mu ton drómo.
+αλλάζω||άλλαξα|v|changer|essentiel|Αλλάζουμε σχέδιο.|Nous changeons de plan.|alázo|alázume shédio.
+στρίβω||έστριψα|v|tourner|transports|Στρίψτε δεξιά στο φανάρι.|Tournez à droite au feu.|strívo|strípste deksiá sto fanári.
+σταματάω||σταμάτησα|v|arrêter;s'arrêter|essentiel|Σταμάτα, σε παρακαλώ!|Arrête, s'il te plaît !|stamatáo|stamáta, se parakaló!
+συνεχίζω||συνέχισα|v|continuer|essentiel|Συνέχισε, σε ακούω.|Continue, je t'écoute.|sinehízo|sinéhise, se akúo.
+προσπαθώ||προσπάθησα|v|essayer|essentiel|Θα προσπαθήσω ξανά.|J'essaierai encore.|prospathó|tha prospathíso ksaná.
+πέφτω||έπεσα|v|tomber|essentiel|Πρόσεχε, θα πέσεις!|Attention, tu vas tomber !|péfto|prósehe, tha pésis!
+κάθομαι||κάθισα|v|s'asseoir;être assis|essentiel|Καθίστε, παρακαλώ.|Asseyez-vous, je vous en prie.|káthome|kathíste, parakaló.
+σηκώνομαι||σηκώθηκα|v|se lever|essentiel|Σηκώνομαι στις επτά.|Je me lève à sept heures.|sikónome|sikónome stis eptá.
+γυρίζω||γύρισα|v|revenir;tourner|essentiel|Γυρίζω αμέσως.|Je reviens tout de suite.|girízo|girízo amésos.
+κόβω||έκοψα|v|couper|essentiel|Κόψε το ψωμί, παρακαλώ.|Coupe le pain, s'il te plaît.|kóvo|kópse to psomí, parakaló.
+μοιάζω||έμοιαζα|v|ressembler|essentiel|Μοιάζεις με τη μητέρα σου.|Tu ressembles à ta mère.|miázo|miázis me ti mitéra su.
+φαίνεται||φάνηκε|v|il semble;ça a l'air|essentiel|Φαίνεται ωραίο!|Ça a l'air bien !|fénete|fénete oréo!
+ισχύει||-|v|c'est vrai;c'est valable|essentiel|Αυτό ισχύει.|C'est vrai.|ishíi|aftó ishíi.
+συμφωνώ||συμφώνησα|v|être d'accord|essentiel|Συμφωνώ μαζί σου.|Je suis d'accord avec toi.|simfonó|simfonó mazí su.
+ευτυχώς||-|adv|heureusement|essentiel|Ευτυχώς ήρθες!|Heureusement que tu es venu !|eftihós|eftihós írthes!
+δυστυχώς||-|adv|malheureusement|essentiel|Δυστυχώς δεν έχω χρόνο.|Malheureusement, je n'ai pas le temps.|distihós|distihós den ého hróno.
+πρώτα||-|adv|d'abord|essentiel|Πρώτα τρώμε.|D'abord, on mange.|próta|próta tróme.
+τελικά||-|adv|finalement|essentiel|Τελικά ήρθε!|Finalement, il est venu !|teliká|teliká írthe!
+ξαφνικά||-|adv|soudain|essentiel|Ξαφνικά βρέχει.|Soudain, il pleut.|ksafniká|ksafniká vréhi.
+αμέσως||-|adv|immédiatement|essentiel|Έλα εδώ αμέσως!|Viens ici tout de suite !|amésos|éla edó amésos!
+παντού||-|adv|partout|essentiel|Έψαξα παντού.|J'ai cherché partout.|pandú|épsaksa pandú.
+κάπου||-|adv|quelque part|essentiel|Το κινητό μου είναι κάπου εδώ.|Mon téléphone est quelque part ici.|kápu|to kinitó mu íne kápu edó.
+μάλλον||-|adv|probablement;plutôt|essentiel|Μάλλον θα αργήσει.|Il sera probablement en retard.|málon|málon tha argísi.
+αρκετά (κάπως)||-|adv|assez (plutôt)|essentiel|Κάνει αρκετά κρύο.|Il fait assez froid.|arketá|káni arketá krío.
+ειδικά||-|adv|surtout;particulièrement|essentiel|Μου αρέσουν τα νησιά, ειδικά η Κρήτη.|J'aime les îles, surtout la Crète.|idiká|mu arésun ta nisiá, idiká i kríti.
+πολύ (υπερβολικά)||-|adv|trop|essentiel|Είναι πολύ ακριβό για μένα.|C'est trop cher pour moi.|polí|íne polí akrivó gia ména.
+λοιπόν||-|adv|alors;donc|essentiel|Λοιπόν, πάμε!|Bon, allons-y !|lipón|lipón, páme!
+πάντως||-|adv|en tout cas;quand même|essentiel|Πάντως ευχαριστώ.|Merci quand même.|pándos|pándos efharistó.
+γι' αυτό||-|adv|c'est pourquoi|essentiel|Είμαι άρρωστος, γι' αυτό μένω σπίτι.|Je suis malade, c'est pourquoi je reste à la maison.|giaftó|íme árostos, giaftó méno spíti.
+παρόλο που||-|conj|bien que|essentiel|Παρόλο που βρέχει, βγαίνουμε.|Bien qu'il pleuve, nous sortons.|parólo pu|parólo pu vréhi, vgénume.
+πριν (να)||-|conj|avant de|essentiel|Πάρε με τηλέφωνο πριν έρθεις.|Appelle-moi avant de venir.|prin|páre me tiléfono prin érthis.
+ενώ||-|conj|pendant que;alors que|essentiel|Ενώ μαγειρεύω, αυτός διαβάζει.|Pendant que je cuisine, il lit.|enó|enó magirévo, aftós diavázi.
+τελευταίος||-|adj|dernier|essentiel|Είναι το τελευταίο λεωφορείο.|C'est le dernier bus.|teleftéos|íne to teleftéo leoforío.
+επόμενος||-|adj|prochain;suivant|essentiel|Την επόμενη εβδομάδα φεύγω.|La semaine prochaine, je pars.|epómenos|tin epómeni evdomáda févgo.
+όλος||-|adj|tout;entier|essentiel|Βρέχει όλη μέρα.|Il pleut toute la journée.|ólos|vréhi óli méra.
+διαφορετικός||-|adj|différent|essentiel|Είμαστε πολύ διαφορετικοί.|Nous sommes très différents.|diaforetikós|ímaste polí diaforetikí.
+ίδιος||-|adj|même;pareil|essentiel|Έχουμε το ίδιο μπουφάν.|Nous avons le même blouson.|ídios|éhume to ídio bufán.
+γνωστός||-|adj|connu|essentiel|Η πόλη είναι πολύ γνωστή.|La ville est très connue.|gnostós|i póli íne polí gností.
+ξένος||-|adj|étranger|essentiel|Είμαι ξένος εδώ.|Je ne suis pas d'ici.|ksénos|íme ksénos edó.
+ψηλός||-|adj|grand;haut|essentiel|Ο πύργος είναι ψηλός.|La tour est haute.|psilós|o pírgos íne psilós.
+κοντός||-|adj|court;petit (taille)|essentiel|Ο δρόμος είναι κοντός.|Le chemin est court.|kondós|o drómos íne kondós.
+μακρύς||-|adj|long|essentiel|Το ταξίδι είναι μακρύ.|Le voyage est long.|makrís|to taksídi íne makrí.
+βαρύς||-|adj|lourd|essentiel|Η τσάντα είναι βαριά.|Le sac est lourd.|varís|i tsánda íne variá.
+ελαφρύς||-|adj|léger|essentiel|Το μπουφάν είναι ελαφρύ.|Le blouson est léger.|elafrís|to bufán íne elafrí.
+θορυβώδης||-|adj|bruyant|essentiel|Ο δρόμος είναι θορυβώδης.|La rue est bruyante.|thorivódis|o drómos íne thorivódis.
+πλούσιος||-|adj|riche|essentiel|Είναι πολύ πλούσιος.|Il est très riche.|plúsios|íne polí plúsios.
+φτωχός||-|adj|pauvre|essentiel|Η οικογένεια είναι φτωχή.|La famille est pauvre.|ftohós|i ikogénia íne ftohí.
+έξυπνος||-|adj|intelligent;malin|essentiel|Είναι πολύ έξυπνο παιδί.|C'est un enfant très intelligent.|éksipnos|íne polí éksipno pedí.
+περίεργος||-|adj|bizarre;curieux|essentiel|Αυτό είναι περίεργο.|C'est bizarre.|períergos|aftó íne períergo.
+επικίνδυνος||-|adj|dangereux|essentiel|Ο δρόμος είναι επικίνδυνος.|La route est dangereuse.|epikíndinos|o drómos íne epikíndinos.
+όμορφος||-|adj|beau;joli|essentiel|Τι όμορφο νησί!|Quelle belle île !|ómorfos|ti ómorfo nisí!
+άσχημος||-|adj|laid;mauvais|essentiel|Ο καιρός είναι άσχημος.|Il fait un sale temps.|áshimos|o kerós íne áshimos.
+απαγορεύεται||-|v|il est interdit|essentiel|Απαγορεύεται το κάπνισμα.|Il est interdit de fumer.|apagorévete|apagorévete to kápnisma.
+επιτρέπεται||-|v|il est permis|essentiel|Επιτρέπεται να μπω;|Puis-je entrer ?|epitrépete|epitrépete na bo?
+υπάρχει||υπήρχε|v|il y a;il existe|essentiel|Υπάρχει φαρμακείο εδώ κοντά;|Y a-t-il une pharmacie près d'ici ?|ipárhi|ipárhi farmakío edó kondá?
+έχει||είχε|v|il y a|essentiel|Έχει πολύ κόσμο.|Il y a beaucoup de monde.|éhi|éhi polí kósmo.
+αξίζει||άξιζε|v|ça vaut la peine|essentiel|Αξίζει να το δεις.|Ça vaut la peine de le voir.|aksízi|aksízi na to dis.
+χαίρω πολύ||-|intj|enchanté|personnes|Είμαι η Μαρία. – Χαίρω πολύ!|Je suis Maria. – Enchanté !|héro polí|íme i maría. – héro polí!
+ηλικία|η|ηλικίες|n|âge|personnes|Στην ηλικία μου είναι φυσικό.|À mon âge, c'est normal.|ilikía|stin ilikía mu íne fisikó.
+νέος||-|adj|jeune;nouveau|personnes|Είναι ακόμα νέα.|Elle est encore jeune.|néos|íne akóma néa.
+ηλικιωμένος||-|adj|âgé|personnes|Βοηθάει έναν ηλικιωμένο κύριο.|Il aide un monsieur âgé.|ilikioménos|voithái énan ilikioméno kírio.
+ξάδερφος|ο|ξαδέρφια|n|cousin|personnes|Ο ξάδερφός μου μένει στην Κρήτη.|Mon cousin habite en Crète.|ksáderfos|o ksáderfós mu méni stin kríti.
+σύζυγος|ο/η|σύζυγοι|n|époux;épouse|personnes|Η σύζυγός μου είναι Ελληνίδα.|Ma femme est grecque.|sízigos|i sízigós mu íne elinída.
+Έλληνας|ο|Έλληνες|n|Grec (homme)|personnes|Ο Νίκος είναι Έλληνας.|Nikos est grec.|élinas|o níkos íne élinas.
+Γάλλος|ο|Γάλλοι|n|Français (homme)|personnes|Είμαι Γάλλος.|Je suis français.|gálos|íme gálos.
+σκέψη|η|σκέψεις|n|pensée;idée|sentiments|Καλή σκέψη!|Bonne idée !|sképsi|kalí sképsi!
+αγάπη|η|-|n|amour|sentiments|Η αγάπη είναι σημαντική.|L'amour est important.|agápi|i agápi íne simandikí.
+τύχη|η|-|n|chance|sentiments|Καλή τύχη!|Bonne chance !|tíhi|kalí tíhi!
+ευχαριστημένος||-|adj|satisfait|sentiments|Είμαι πολύ ευχαριστημένος.|Je suis très satisfait.|efharistiménos|íme polí efharistiménos.
+νευριασμένος||-|adj|énervé;fâché|sentiments|Γιατί είσαι νευριασμένος;|Pourquoi es-tu énervé ?|nevriasménos|giatí íse nevriasménos?
+ανησυχώ||ανησύχησα|v|s'inquiéter|sentiments|Μην ανησυχείς!|Ne t'inquiète pas !|anisihó|min anisihís!
+βαριέμαι||βαρέθηκα|v|s'ennuyer;avoir la flemme|sentiments|Βαριέμαι να μαγειρέψω.|J'ai la flemme de cuisiner.|variéme|variéme na magirépso.
+χαίρομαι||χάρηκα|v|être content|sentiments|Χαίρομαι που σε βλέπω!|Je suis content de te voir !|hérome|hérome pu se vlépo!
+φοβάμαι||φοβήθηκα|v|avoir peur|sentiments|Φοβάμαι το σκοτάδι.|J'ai peur du noir.|fováme|fováme to skotádi.
+ιστορία|η|ιστορίες|n|histoire|communication|Είναι μεγάλη ιστορία.|C'est une longue histoire.|istoría|íne megáli istoría.
+ίντερνετ|το|-|n|internet|communication|Έχει ίντερνετ εδώ;|Il y a internet ici ?|índernet|éhi índernet edó?
+κωδικός|ο|κωδικοί|n|code;mot de passe|communication|Ποιος είναι ο κωδικός του WiFi;|Quel est le mot de passe du wifi ?|kodikós|pios íne o kodikós tu wifi?
+νούμερο|το|νούμερα|n|numéro;pointure|communication|Δώσε μου το νούμερό σου.|Donne-moi ton numéro.|número|dóse mu to númeró su.
+γράμμα|το|γράμματα|n|lettre|communication|Γράφω ένα γράμμα.|J'écris une lettre.|gráma|gráfo éna gráma.
+συζητάω||συζήτησα|v|discuter|communication|Πρέπει να συζητήσουμε.|Il faut qu'on parle.|sizitáo|prépi na sizitísume.
+διηγούμαι||διηγήθηκα|v|raconter|communication|Διηγήσου μου τι έγινε.|Raconte-moi ce qui s'est passé.|diigúme|diigísu mu ti égine.
+τηλεκοντρόλ|το|-|n|télécommande|maison|Πού είναι το τηλεκοντρόλ;|Où est la télécommande ?|tilekondról|pu íne to tilekondról?
+κουβέρτα|η|κουβέρτες|n|couverture|maison|Κρυώνω, φέρε μια κουβέρτα.|J'ai froid, apporte une couverture.|kuvérta|krióno, fére mia kuvérta.
+μαξιλάρι|το|μαξιλάρια|n|oreiller;coussin|maison|Το μαξιλάρι είναι μαλακό.|L'oreiller est moelleux.|maksilári|to maksilári íne malakó.
+πετσέτα|η|πετσέτες|n|serviette|maison|Πάρε μια καθαρή πετσέτα.|Prends une serviette propre.|petséta|páre mia katharí petséta.
+σαπούνι|το|σαπούνια|n|savon|maison|Πλύνε τα χέρια με σαπούνι.|Lave-toi les mains avec du savon.|sapúni|plíne ta héria me sapúni.
+ντους|το|-|n|douche|maison|Κάνω ντους το πρωί.|Je prends une douche le matin.|dus|káno dus to proí.
+καθρέφτης|ο|καθρέφτες|n|miroir|maison|Ο καθρέφτης είναι στο μπάνιο.|Le miroir est dans la salle de bains.|kathréftis|o kathréftis íne sto bánio.
+ρεύμα|το|ρεύματα|n|électricité;courant d'air|maison|Δεν έχουμε ρεύμα.|Nous n'avons pas d'électricité.|révma|den éhume révma.
+κλιματιστικό|το|κλιματιστικά|n|climatisation|maison|Άνοιξε το κλιματιστικό, κάνει ζέστη.|Allume la clim, il fait chaud.|klimatistikó|ánikse to klimatistikó, káni zésti.
+θέρμανση|η|-|n|chauffage|maison|Η θέρμανση δεν δουλεύει.|Le chauffage ne marche pas.|thérmansi|i thérmansi den dulévi.
+ταράτσα|η|ταράτσες|n|toit-terrasse|maison|Τρώμε στην ταράτσα.|Nous mangeons sur le toit-terrasse.|tarátsa|tróme stin tarátsa.
+γείτονες|οι|-|n|voisins;voisinage|maison|Οι γείτονες είναι ήσυχοι.|Les voisins sont calmes.|gítones|i gítones íne ísihi.
+μεζές|ο|μεζέδες|n|mezzé (petit plat)|cafe|Φέρτε μας μερικούς μεζέδες.|Apportez-nous quelques mezzés.|mezés|férte mas merikús mezédes.
+τζατζίκι|το|-|n|tzatziki|cafe|Ένα τζατζίκι και ψωμί, παρακαλώ.|Un tzatziki et du pain, s'il vous plaît.|dzadzíki|éna dzadzíki ke psomí, parakaló.
+σουβλάκι|το|σουβλάκια|n|souvlaki (brochette)|cafe|Δύο σουβλάκια με πίτα.|Deux souvlakis dans une pita.|suvláki|dío suvlákia me píta.
+χωριάτικη|η|-|n|salade grecque|cafe|Μια χωριάτικη για δύο.|Une salade grecque pour deux.|horiátiki|mia horiátiki gia dío.
+φέτα|η|φέτες|n|feta;tranche|cafe|Μια φέτα με λάδι και ρίγανη.|Une feta à l'huile et à l'origan.|féta|mia féta me ládi ke rígani.
+μουσακάς|ο|-|n|moussaka|cafe|Ο μουσακάς είναι υπέροχος.|La moussaka est délicieuse.|musakás|o musakás íne ipérohos.
+καφές φραπέ|ο|-|n|frappé (café glacé)|cafe|Ένα φραπέ μέτριο με γάλα.|Un frappé moyennement sucré avec du lait.|frapé|éna frapé métrio me gála.
+μέτριος||-|adj|moyen (sucre du café)|cafe|Έναν καφέ μέτριο, παρακαλώ.|Un café moyennement sucré, s'il vous plaît.|métrios|énan kafé métrio, parakaló.
+σκέτος||-|adj|nature;sans sucre|cafe|Τον καφέ τον πίνω σκέτο.|Je bois le café sans sucre.|skétos|ton kafé ton píno skéto.
+χορτοφάγος||-|adj|végétarien|cafe|Είμαι χορτοφάγος.|Je suis végétarien.|hortofágos|íme hortofágos.
+ρίγανη|η|-|n|origan|courses|Βάλε λίγη ρίγανη στη σαλάτα.|Mets un peu d'origan dans la salade.|rígani|vále lígi rígani sti saláta.
+μπαχαρικά|τα|-|n|épices|courses|Μου αρέσουν τα μπαχαρικά.|J'aime les épices.|bahariká|mu arésun ta bahariká.
+σκόρδο|το|σκόρδα|n|ail|courses|Το τζατζίκι έχει σκόρδο.|Le tzatziki contient de l'ail.|skórdo|to dzadzíki éhi skórdo.
+πιπεριά|η|πιπεριές|n|poivron|courses|Γεμιστές πιπεριές.|Des poivrons farcis.|piperiá|gemistés piperiés.
+μελιτζάνα|η|μελιτζάνες|n|aubergine|courses|Ο μουσακάς έχει μελιτζάνες.|La moussaka contient des aubergines.|melidzána|o musakás éhi melidzánes.
+καρπούζι|το|καρπούζια|n|pastèque|courses|Το καλοκαίρι τρώμε καρπούζι.|L'été, on mange de la pastèque.|karpúzi|to kalokéri tróme karpúzi.
+σταφύλι|το|σταφύλια|n|raisin|courses|Τα σταφύλια είναι γλυκά.|Le raisin est sucré.|stafíli|ta stafília íne gliká.
+βούτυρο|το|-|n|beurre|courses|Ψωμί με βούτυρο και μέλι.|Du pain avec du beurre et du miel.|vútiro|psomí me vútiro ke méli.
+λουκάνικο|το|λουκάνικα|n|saucisse|courses|Λουκάνικο με πατάτες.|Saucisse-frites.|lukániko|lukániko me patátes.
+κουτί|το|κουτιά|n|boîte|courses|Ένα κουτί σπίρτα.|Une boîte d'allumettes.|kutí|éna kutí spírta.
+πακέτο|το|πακέτα|n|paquet|courses|Ένα πακέτο μακαρόνια.|Un paquet de pâtes.|pakéto|éna pakéto makarónia.
+περίπτερο|το|περίπτερα|n|kiosque|ville|Αγοράζω νερό στο περίπτερο.|J'achète de l'eau au kiosque.|períptero|agorázo neró sto períptero.
+κομμωτήριο|το|κομμωτήρια|n|coiffeur (salon)|ville|Πάω στο κομμωτήριο.|Je vais chez le coiffeur.|komotírio|páo sto komotírio.
+πεζοδρόμιο|το|πεζοδρόμια|n|trottoir|ville|Περπάτα στο πεζοδρόμιο!|Marche sur le trottoir !|pezodrómio|perpáta sto pezodrómio!
+γειτονιά|η|γειτονιές|n|quartier|ville|Σε ποια γειτονιά μένεις;|Dans quel quartier habites-tu ?|gitoniá|se pia gitoniá ménis?
+τουρίστας|ο|τουρίστες|n|touriste|ville|Το καλοκαίρι έχει πολλούς τουρίστες.|L'été, il y a beaucoup de touristes.|turístas|to kalokéri éhi polús turístes.
+πληροφορίες|οι|-|n|informations|ville|Πού μπορώ να βρω πληροφορίες;|Où puis-je trouver des informations ?|pliroforíes|pu boró na vro pliroforíes?
+ακρόπολη|η|-|n|acropole|ville|Ανεβαίνουμε στην Ακρόπολη.|Nous montons à l'Acropole.|akrópoli|anevénume stin akrópoli.
+μοναστήρι|το|μοναστήρια|n|monastère|ville|Επισκεπτόμαστε ένα μοναστήρι.|Nous visitons un monastère.|monastíri|episkeptómaste éna monastíri.
+ενοικίαση|η|-|n|location|transports|Ενοικίαση αυτοκινήτων.|Location de voitures.|enikíasi|enikíasi aftokiníton.
+νοικιάζω||νοίκιασα|v|louer|transports|Νοικιάζουμε ένα μηχανάκι.|Nous louons un scooter.|nikiázo|nikiázume éna mihanáki.
+μηχανάκι|το|μηχανάκια|n|scooter|transports|Στο νησί πάμε με μηχανάκι.|Sur l'île, nous circulons en scooter.|mihanáki|sto nisí páme me mihanáki.
+κατεύθυνση|η|κατευθύνσεις|n|direction|transports|Προς ποια κατεύθυνση;|Dans quelle direction ?|katéfthinsi|pros pia katéfthinsi?
+βορράς|ο|-|n|nord|transports|Η Θεσσαλονίκη είναι στον βορρά.|Thessalonique est au nord.|vorás|i thesaloníki íne ston vorá.
+νότος|ο|-|n|sud|transports|Η Κρήτη είναι στον νότο.|La Crète est au sud.|nótos|i kríti íne ston nóto.
+ανατολή|η|-|n|est;lever du soleil|transports|Ο ήλιος βγαίνει στην ανατολή.|Le soleil se lève à l'est.|anatolí|o ílios vgéni stin anatolí.
+δύση|η|-|n|ouest;coucher du soleil|transports|Η δύση στη Σαντορίνη είναι μαγική.|Le coucher de soleil à Santorin est magique.|dísi|i dísi sti sandoríni íne magikí.
+εξωτερικό|το|-|n|étranger|transports|Δουλεύει στο εξωτερικό.|Il travaille à l'étranger.|eksoterikó|dulévi sto eksoterikó.
+οδηγός|ο|οδηγοί|n|conducteur;guide|transports|Ο οδηγός είναι πολύ ευγενικός.|Le chauffeur est très aimable.|odigós|o odigós íne polí evgenikós.
+υπάλληλος|ο/η|υπάλληλοι|n|employé|travail|Ο υπάλληλος της τράπεζας με βοήθησε.|L'employé de la banque m'a aidé.|ipálilos|o ipálilos tis trápezas me voíthise.
+συμβόλαιο|το|συμβόλαια|n|contrat|travail|Υπέγραψα το συμβόλαιο.|J'ai signé le contrat.|simvóleo|ipégrapsa to simvóleo.
+υπογράφω||υπέγραψα|v|signer|travail|Υπογράψτε εδώ.|Signez ici.|ipográfo|ipográpste edó.
+εργάτης|ο|εργάτες|n|ouvrier|travail|Οι εργάτες χτίζουν ένα σπίτι.|Les ouvriers construisent une maison.|ergátis|i ergátes htízun éna spíti.
+αγρότης|ο|αγρότες|n|agriculteur|travail|Ο αγρότης μαζεύει ελιές.|L'agriculteur récolte les olives.|agrótis|o agrótis mazévi eliés.
+ψαράς|ο|ψαράδες|n|pêcheur|travail|Ο ψαράς φέρνει φρέσκο ψάρι.|Le pêcheur apporte du poisson frais.|psarás|o psarás férni frésko psári.
+άνεργος||-|adj|au chômage|travail|Είναι άνεργος εδώ και έναν μήνα.|Il est au chômage depuis un mois.|ánergos|íne ánergos edó ke énan mína.
+οδοντίατρος|ο/η|οδοντίατροι|n|dentiste|sante|Φοβάμαι τον οδοντίατρο.|J'ai peur du dentiste.|odondíatros|fováme ton odondíatro.
+αλλεργία|η|αλλεργίες|n|allergie|sante|Έχω αλλεργία στα φιστίκια.|Je suis allergique aux cacahuètes.|alergía|ého alergía sta fistíkia.
+τσίμπημα|το|τσιμπήματα|n|piqûre (d'insecte)|sante|Είναι τσίμπημα κουνουπιού.|C'est une piqûre de moustique.|tsímbima|íne tsímbima kunupiú.
+ηλιακό έγκαυμα|το|-|n|coup de soleil|sante|Έπαθα ηλιακό έγκαυμα.|J'ai attrapé un coup de soleil.|iliakó éngavma|épatha iliakó éngavma.
+αντηλιακό|το|αντηλιακά|n|crème solaire|sante|Βάλε αντηλιακό!|Mets de la crème solaire !|andiliakó|vále andiliakó!
+ζαλίζομαι||ζαλίστηκα|v|avoir le vertige|sante|Ζαλίζομαι λίγο.|J'ai un peu le vertige.|zalízome|zalízome lígo.
+κουνούπι|το|κουνούπια|n|moustique|nature|Έχει πολλά κουνούπια απόψε.|Il y a beaucoup de moustiques ce soir.|kunúpi|éhi polá kunúpia apópse.
+κύμα|το|κύματα|n|vague|nature|Τα κύματα είναι μεγάλα σήμερα.|Les vagues sont grosses aujourd'hui.|kíma|ta kímata íne megála símera.
+άμμος|η|-|n|sable|nature|Η άμμος είναι ζεστή.|Le sable est chaud.|ámos|i ámos íne zestí.
+σπηλιά|η|σπηλιές|n|grotte|nature|Εξερευνούμε μια σπηλιά.|Nous explorons une grotte.|spiliá|ekserevnúme mia spiliá.
+ηλιοβασίλεμα|το|ηλιοβασιλέματα|n|coucher de soleil|nature|Τι ωραίο ηλιοβασίλεμα!|Quel beau coucher de soleil !|iliovasílema|ti oréo iliovasílema!
+κατσίκα|η|κατσίκες|n|chèvre|nature|Στο βουνό βλέπουμε κατσίκες.|En montagne, nous voyons des chèvres.|katsíka|sto vunó vlépume katsíkes.
+γαϊδούρι|το|γαϊδούρια|n|âne|nature|Στην Ύδρα δεν έχει αυτοκίνητα, μόνο γαϊδούρια.|À Hydra, il n'y a pas de voitures, seulement des ânes.|gaidúri|stin ídra den éhi aftokínita, móno gaidúria.
+σανδάλι|το|σανδάλια|n|sandale|vetements|Το καλοκαίρι φοράω σανδάλια.|L'été, je porte des sandales.|sandáli|to kalokéri foráo sandália.
+ζώνη|η|ζώνες|n|ceinture|vetements|Η ζώνη είναι πολύ κοντή.|La ceinture est trop courte.|zóni|i zóni íne polí kondí.
+γάντι|το|γάντια|n|gant|vetements|Φόρα γάντια, κάνει κρύο!|Mets des gants, il fait froid !|gándi|fóra gándia, káni krío!
+ρολόι|το|ρολόγια|n|montre;horloge|vetements|Το ρολόι μου πάει πίσω.|Ma montre retarde.|rolói|to rolói mu pái píso.
+δαχτυλίδι|το|δαχτυλίδια|n|bague|vetements|Φοράει ένα χρυσό δαχτυλίδι.|Elle porte une bague en or.|dahtilídi|forái éna hrisó dahtilídi.
+ροζ||-|adj|rose|vetements|Το μωρό φοράει ροζ φόρεμα.|Le bébé porte une robe rose.|roz|to moró forái roz fórema.
+πορτοκαλί||-|adj|orange (couleur)|vetements|Το μπουφάν είναι πορτοκαλί.|Le blouson est orange.|portokalí|to bufán íne portokalí.
+πολύχρωμος||-|adj|multicolore|vetements|Τα λουλούδια είναι πολύχρωμα.|Les fleurs sont multicolores.|políhromos|ta lulúdia íne políhroma.
+στενός||-|adj|étroit;serré|vetements|Το παντελόνι είναι στενό.|Le pantalon est serré.|stenós|to pandelóni íne stenó.
+φαρδύς||-|adj|large|vetements|Η μπλούζα είναι πολύ φαρδιά.|Le haut est trop large.|fardís|i blúza íne polí fardiá.

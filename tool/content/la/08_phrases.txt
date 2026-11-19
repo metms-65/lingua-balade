@@ -1,0 +1,89 @@
+# Phrases toutes faites : la phrase est le « mot », l'exemple est une petite réplique en contexte.
+# mot|genre|formes|nature|traductions (;)|situation|exemple|exemple FR
+Salve!||-|phr|Bonjour ! (à une personne)|phrases|Salve, Marce! Quid agis?|Bonjour, Marcus ! Comment vas-tu ?
+Salvete!||-|phr|Bonjour ! (à plusieurs)|phrases|Salvete, amici!|Bonjour, mes amis !
+Bonum mane!||-|phr|Bonjour ! (le matin)|phrases|Bonum mane! Bene dormivisti?|Bonjour ! Tu as bien dormi ?
+Bonum vesperum!||-|phr|Bonsoir !|phrases|Bonum vesperum, domina!|Bonsoir, madame !
+Bonam noctem!||-|phr|Bonne nuit !|phrases|Bonam noctem et somnia dulcia!|Bonne nuit et doux rêves !
+Quid agis?||-|phr|Comment vas-tu ? (Que fais-tu ?)|phrases|Salve, Iulia! Quid agis?|Bonjour Julia ! Comment vas-tu ?
+Quomodo vales?||-|phr|Comment te portes-tu ?|phrases|Salve, avuncule! Quomodo vales?|Bonjour, mon oncle ! Comment te portes-tu ?
+Bene valeo, gratias. Et tu?||-|phr|Je vais bien, merci. Et toi ?|phrases|Quomodo vales? – Bene valeo, gratias. Et tu?|Comment vas-tu ? – Bien, merci. Et toi ?
+Quod nomen tibi est?||-|phr|Comment t'appelles-tu ?|phrases|Salve! Quod nomen tibi est?|Bonjour ! Comment t'appelles-tu ?
+Nomen mihi est …||-|phr|Je m'appelle…|phrases|Nomen mihi est Michael.|Je m'appelle Michel.
+Gaudeo te cognoscere.||-|phr|Ravi de faire ta connaissance.|phrases|Marcus sum. – Gaudeo te cognoscere!|Je suis Marcus. – Ravi de faire ta connaissance !
+Unde es?||-|phr|D'où es-tu ?|phrases|Unde es? – E Gallia sum.|D'où es-tu ? – Je suis de France.
+E Gallia venio.||-|phr|Je viens de France.|phrases|E Gallia venio, Lugduno.|Je viens de France, de Lyon.
+Latine disco.||-|phr|J'apprends le latin.|phrases|Latine disco iam annum.|J'apprends le latin depuis un an.
+Paulum Latine loquor.||-|phr|Je parle un peu latin.|phrases|Ignosce, paulum Latine loquor.|Pardon, je parle un peu latin.
+Loquerisne Gallice?||-|phr|Parles-tu français ?|phrases|Ignosce, loquerisne Gallice?|Pardon, parles-tu français ?
+Non intellego.||-|phr|Je ne comprends pas.|phrases|Ignosce, non intellego.|Pardon, je ne comprends pas.
+Repete, quaeso.||-|phr|Répète, s'il te plaît.|phrases|Repete, quaeso, lentius.|Répète, s'il te plaît, plus lentement.
+Lentius, quaeso.||-|phr|Plus lentement, s'il te plaît.|phrases|Celeriter loqueris. Lentius, quaeso.|Tu parles vite. Plus lentement, s'il te plaît.
+Quid hoc significat?||-|phr|Qu'est-ce que cela signifie ?|phrases|« Carpe diem »? Quid hoc significat?|« Carpe diem » ? Qu'est-ce que cela signifie ?
+Quomodo dicitur … Latine?||-|phr|Comment dit-on… en latin ?|phrases|Quomodo dicitur « parapluie » Latine?|Comment dit-on « parapluie » en latin ?
+Potesne me adiuvare?||-|phr|Peux-tu m'aider ?|phrases|Ignosce, potesne me adiuvare?|Pardon, peux-tu m'aider ?
+Ignosce mihi.||-|phr|Pardonne-moi. Excuse-moi.|phrases|Ignosce mihi, sero veni.|Excuse-moi, je suis en retard.
+Nihil est.||-|phr|Ce n'est rien.|phrases|Poculum fregi! – Nihil est.|J'ai cassé le verre ! – Ce n'est rien.
+Gratias maximas!||-|phr|Merci beaucoup !|phrases|Gratias maximas pro auxilio!|Merci beaucoup pour l'aide !
+Libenter.||-|phr|Volontiers. Avec plaisir.|phrases|Venisne mecum? – Libenter!|Tu viens avec moi ? – Volontiers !
+Placet.||-|phr|D'accord. Ça me va.|phrases|Cras hora decima? – Placet.|Demain à la dixième heure ? – D'accord.
+Optime!||-|phr|Excellent ! Très bien !|phrases|Examen superavi! – Optime!|J'ai réussi l'examen ! – Excellent !
+Nescio.||-|phr|Je ne sais pas.|phrases|Ubi est statio? – Nescio.|Où est la gare ? – Je ne sais pas.
+Vere?||-|phr|Vraiment ?|phrases|Sortitionem vici! – Vere?|J'ai gagné à la loterie ! – Vraiment ?
+Quam miserum!||-|phr|Quel dommage ! Comme c'est triste !|phrases|Venire non possum. – Quam miserum!|Je ne peux pas venir. – Quel dommage !
+Bene vale!||-|phr|Porte-toi bien ! Au revoir !|phrases|Iam abeo. Bene vale!|Je m'en vais. Porte-toi bien !
+Cura ut valeas!||-|phr|Prends soin de toi !|phrases|Vale, amice, et cura ut valeas!|Au revoir, mon ami, et prends soin de toi !
+Usque ad crastinum!||-|phr|À demain !|phrases|Usque ad crastinum, Marce!|À demain, Marcus !
+Felicem diem natalem!||-|phr|Joyeux anniversaire !|phrases|Felicem diem natalem, mater!|Joyeux anniversaire, maman !
+Gratulor!||-|phr|Félicitations !|phrases|Examen superavisti? Gratulor!|Tu as réussi l'examen ? Félicitations !
+Bonum iter!||-|phr|Bon voyage !|phrases|Cras proficisceris? Bonum iter!|Tu pars demain ? Bon voyage !
+Bene sapiat!||-|phr|Bon appétit !|phrases|Cena parata est. Bene sapiat!|Le dîner est prêt. Bon appétit !
+Ubi est latrina?||-|phr|Où sont les toilettes ?|phrases|Ignosce, ubi est latrina?|Pardon, où sont les toilettes ?
+Quomodo ad stationem pervenio?||-|phr|Comment aller à la gare ?|phrases|Ignosce, quomodo ad stationem pervenio?|Pardon, comment aller à la gare ?
+Longene abest?||-|phr|C'est loin ?|phrases|Museum – longene abest?|Le musée, c'est loin ?
+Recta via i.||-|phr|Va tout droit.|phrases|Recta via i, deinde ad sinistram.|Va tout droit, puis à gauche.
+Erravi.||-|phr|Je me suis perdu.|phrases|Ignosce, erravi. Ubi est forum?|Pardon, je me suis perdu. Où est le forum ?
+Quota hora est?||-|phr|Quelle heure est-il ?|phrases|Ignosce, quota hora est?|Pardon, quelle heure est-il ?
+Mensam duobus, quaeso.||-|phr|Une table pour deux, s'il te plaît.|phrases|Bonum vesperum! Mensam duobus, quaeso.|Bonsoir ! Une table pour deux, s'il te plaît.
+Quid commendas?||-|phr|Que me conseilles-tu ?|phrases|Nescio quid sumam. Quid commendas?|Je ne sais pas quoi prendre. Que me conseilles-tu ?
+Velim …||-|phr|Je voudrais…|phrases|Velim poculum vini rubri.|Je voudrais un verre de vin rouge.
+Rationem, quaeso.||-|phr|L'addition, s'il te plaît.|phrases|Solvere volumus. Rationem, quaeso.|Nous voudrions payer. L'addition, s'il te plaît.
+Suavissimum erat!||-|phr|C'était délicieux !|phrases|Gratias, suavissimum erat!|Merci, c'était délicieux !
+Quanti constat?||-|phr|Combien ça coûte ?|phrases|Pulchrum focale! Quanti constat?|Belle écharpe ! Combien ça coûte ?
+Nimis carum est.||-|phr|C'est trop cher.|phrases|Centum nummi? Nimis carum est.|Cent pièces ? C'est trop cher.
+Hoc emam.||-|phr|J'achète ceci.|phrases|Bene, hoc emam.|Bien, j'achète ceci.
+Estne cubiculum liberum?||-|phr|Y a-t-il une chambre libre ?|phrases|Bonum vesperum, estne cubiculum liberum?|Bonsoir, y a-t-il une chambre libre ?
+Esurio.||-|phr|J'ai faim.|phrases|Esurio. Edamusne aliquid?|J'ai faim. On mange quelque chose ?
+Sitio.||-|phr|J'ai soif.|phrases|Sitio. Estne aqua?|J'ai soif. Y a-t-il de l'eau ?
+Frigeo.||-|phr|J'ai froid.|phrases|Frigeo. Claude fenestram, quaeso.|J'ai froid. Ferme la fenêtre, s'il te plaît.
+Non bene me habeo.||-|phr|Je ne me sens pas bien.|phrases|Non bene me habeo, sedere debeo.|Je ne me sens pas bien, je dois m'asseoir.
+Medicum voca!||-|phr|Appelle un médecin !|phrases|Celeriter, medicum voca!|Vite, appelle un médecin !
+Habesne tempus?||-|phr|As-tu le temps ?|phrases|Habesne tempus hodie vesperi?|As-tu le temps ce soir ?
+Visne …?||-|phr|Veux-tu… ?|phrases|Visne in thermas ire?|Veux-tu aller aux thermes ?
+Quid de hoc sentis?||-|phr|Qu'en penses-tu ?|phrases|Novum consilium habeo. Quid de hoc sentis?|J'ai une nouvelle idée. Qu'en penses-tu ?
+Mea sententia …||-|phr|À mon avis…|phrases|Mea sententia hoc bonum consilium est.|À mon avis, c'est une bonne idée.
+Recte dicis.||-|phr|Tu as raison.|phrases|Sero est. – Recte dicis.|Il est tard. – Tu as raison.
+Mihi placet.||-|phr|Ça me plaît.|phrases|Urbs pulchra est, mihi placet.|La ville est belle, elle me plaît.
+Exspecta paulisper.||-|phr|Attends un instant.|phrases|Exspecta paulisper, clavem quaero.|Attends un instant, je cherche la clé.
+Cave!||-|phr|Attention ! Prends garde !|phrases|Cave, raeda!|Attention, la voiture !
+Eamus!||-|phr|Allons-y !|phrases|Omnes adsumus? Eamus!|Tout le monde est là ? Allons-y !
+Bene tibi!||-|phr|À ta santé !|phrases|Ad amicitiam nostram – bene tibi!|À notre amitié – à ta santé !
+Carpe diem.||-|phr|Cueille le jour (profite du présent).|phrases|Sol lucet – carpe diem!|Le soleil brille – profite du jour !
+Festina lente.||-|phr|Hâte-toi lentement.|phrases|Noli properare: festina lente.|Ne te précipite pas : hâte-toi lentement.
+Errare humanum est.||-|phr|L'erreur est humaine.|phrases|Erravi? Errare humanum est!|Je me suis trompé ? L'erreur est humaine !
+Tempus fugit.||-|phr|Le temps s'enfuit.|phrases|Iam vesper est! Tempus fugit.|C'est déjà le soir ! Le temps file.
+Veni, vidi, vici.||-|phr|Je suis venu, j'ai vu, j'ai vaincu.|phrases|Examen superavi: veni, vidi, vici!|J'ai réussi l'examen : je suis venu, j'ai vu, j'ai vaincu !
+Alea iacta est.||-|phr|Le sort en est jeté.|phrases|Epistulam misi: alea iacta est.|J'ai envoyé la lettre : le sort en est jeté.
+Mens sana in corpore sano.||-|phr|Un esprit sain dans un corps sain.|phrases|Cotidie ambulo: mens sana in corpore sano.|Je marche chaque jour : un esprit sain dans un corps sain.
+Dum spiro, spero.||-|phr|Tant que je respire, j'espère.|phrases|Numquam desperabo: dum spiro, spero.|Je ne désespérerai jamais : tant que je respire, j'espère.
+Repetitio mater studiorum.||-|phr|La répétition est la mère des études.|phrases|Iterum verba repeto: repetitio mater studiorum.|Je répète encore les mots : la répétition est la mère des études.
+Per aspera ad astra.||-|phr|Par des chemins ardus jusqu'aux étoiles.|phrases|Latinum difficile est, sed per aspera ad astra!|Le latin est difficile, mais par des chemins ardus jusqu'aux étoiles !
+Solvitur ambulando.||-|phr|Cela se résout en marchant.|phrases|Problema magnum? Solvitur ambulando.|Un gros problème ? Ça se résout en marchant.
+Nulla dies sine linea.||-|phr|Pas un jour sans une ligne (sans pratique).|phrases|Cotidie Latine disco: nulla dies sine linea.|J'apprends le latin chaque jour : pas un jour sans pratique.
+Mirabile dictu!||-|phr|Chose étonnante à dire !|phrases|Mirabile dictu, laophorum tempestive venit!|Chose étonnante, le bus est arrivé à l'heure !
+Ita vero!||-|phr|Oui, vraiment ! Tout à fait !|phrases|Pulchra est Roma? – Ita vero!|Rome est belle ? – Oui, vraiment !
+Minime vero!||-|phr|Pas du tout !|phrases|Defessus es? – Minime vero!|Tu es fatigué ? – Pas du tout !
+Quid novi?||-|phr|Quoi de neuf ?|phrases|Salve, Marce! Quid novi?|Bonjour Marcus ! Quoi de neuf ?
+Nihil novi.||-|phr|Rien de neuf.|phrases|Quid novi? – Nihil novi.|Quoi de neuf ? – Rien de neuf.
+Sit tibi terra levis.||-|phr|Que la terre te soit légère (épitaphe).|phrases|In sepulcro scriptum est: sit tibi terra levis.|Sur la tombe, il est écrit : que la terre te soit légère.
+Pax tecum.||-|phr|La paix soit avec toi.|phrases|Vale, amice, pax tecum.|Au revoir, mon ami, la paix soit avec toi.

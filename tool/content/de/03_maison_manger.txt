@@ -1,0 +1,172 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+Haus|das|Häuser|n|maison|maison|Das Haus hat einen Garten.|La maison a un jardin.
+Wohnung|die|Wohnungen|n|appartement|maison|Unsere Wohnung ist hell.|Notre appartement est lumineux.
+Zimmer|das|Zimmer|n|pièce;chambre|maison|Die Wohnung hat drei Zimmer.|L'appartement a trois pièces.
+Küche|die|Küchen|n|cuisine|maison|Die Küche ist klein.|La cuisine est petite.
+Bad|das|Bäder|n|salle de bains|maison|Das Bad ist oben.|La salle de bains est en haut.
+Schlafzimmer|das|Schlafzimmer|n|chambre à coucher|maison|Das Schlafzimmer ist ruhig.|La chambre est calme.
+Wohnzimmer|das|Wohnzimmer|n|salon|maison|Wir sitzen im Wohnzimmer.|Nous sommes assis au salon.
+Toilette|die|Toiletten|n|toilettes|maison|Wo ist die Toilette?|Où sont les toilettes ?
+Garten|der|Gärten|n|jardin|maison|Im Garten wachsen Tomaten.|Dans le jardin poussent des tomates.
+Balkon|der|Balkone|n|balcon|maison|Wir frühstücken auf dem Balkon.|Nous prenons le petit-déjeuner sur le balcon.
+Tür|die|Türen|n|porte|maison|Mach bitte die Tür zu.|Ferme la porte, s'il te plaît.
+Fenster|das|Fenster|n|fenêtre|maison|Das Fenster ist offen.|La fenêtre est ouverte.
+Wand|die|Wände|n|mur|maison|An der Wand hängt ein Bild.|Il y a un tableau au mur.
+Boden|der|Böden|n|sol;plancher|maison|Die Schuhe stehen auf dem Boden.|Les chaussures sont par terre.
+Treppe|die|Treppen|n|escalier|maison|Die Treppe ist steil.|L'escalier est raide.
+Stock|der|-|n|étage|maison|Ich wohne im dritten Stock.|J'habite au troisième étage.
+Aufzug|der|Aufzüge|n|ascenseur|maison|Der Aufzug ist kaputt.|L'ascenseur est en panne.
+Schlüssel|der|Schlüssel|n|clé|maison|Wo ist mein Schlüssel?|Où est ma clé ?
+Tisch|der|Tische|n|table|maison|Der Tisch ist groß.|La table est grande.
+Stuhl|der|Stühle|n|chaise|maison|Nimm dir einen Stuhl.|Prends une chaise.
+Sofa|das|Sofas|n|canapé|maison|Das Sofa ist bequem.|Le canapé est confortable.
+Bett|das|Betten|n|lit|maison|Ich gehe ins Bett.|Je vais me coucher.
+Schrank|der|Schränke|n|armoire;placard|maison|Die Kleider sind im Schrank.|Les vêtements sont dans l'armoire.
+Lampe|die|Lampen|n|lampe|maison|Mach die Lampe an.|Allume la lampe.
+Licht|das|Lichter|n|lumière|maison|Mach bitte das Licht aus.|Éteins la lumière, s'il te plaît.
+Bild|das|Bilder|n|image;tableau|maison|Das Bild ist schön.|Le tableau est beau.
+Spiegel|der|Spiegel|n|miroir|maison|Der Spiegel hängt im Bad.|Le miroir est dans la salle de bains.
+Dusche|die|Duschen|n|douche|maison|Ich gehe unter die Dusche.|Je vais prendre une douche.
+Handtuch|das|Handtücher|n|serviette (de bain)|maison|Hier ist ein sauberes Handtuch.|Voici une serviette propre.
+Seife|die|Seifen|n|savon|maison|Wasch dir die Hände mit Seife.|Lave-toi les mains avec du savon.
+Kühlschrank|der|Kühlschränke|n|réfrigérateur|maison|Die Milch ist im Kühlschrank.|Le lait est au frigo.
+Herd|der|Herde|n|cuisinière|maison|Der Topf steht auf dem Herd.|La casserole est sur la cuisinière.
+Ofen|der|Öfen|n|four;poêle|maison|Der Kuchen ist im Ofen.|Le gâteau est au four.
+Waschmaschine|die|Waschmaschinen|n|lave-linge|maison|Die Waschmaschine läuft.|La machine à laver tourne.
+Fernseher|der|Fernseher|n|télévision (appareil)|maison|Der Fernseher ist zu laut.|La télé est trop forte.
+Computer|der|Computer|n|ordinateur|maison|Mein Computer ist langsam.|Mon ordinateur est lent.
+Heizung|die|Heizungen|n|chauffage|maison|Die Heizung ist an.|Le chauffage est allumé.
+Miete|die|Mieten|n|loyer|maison|Die Miete ist hoch.|Le loyer est élevé.
+Müll|der|-|n|ordures;poubelle|maison|Bring bitte den Müll raus.|Sors la poubelle, s'il te plaît.
+putzen||putzte, hat geputzt|v|nettoyer|maison|Ich putze die Küche.|Je nettoie la cuisine.
+waschen||wusch, hat gewaschen|v|laver|maison|Ich wasche meine Hände.|Je me lave les mains.
+aufräumen||räumte auf, hat aufgeräumt|v|ranger|maison|Räum dein Zimmer auf!|Range ta chambre !
+schlafen||schlief, hat geschlafen|v|dormir|maison|Hast du gut geschlafen?|Tu as bien dormi ?
+aufstehen||stand auf, ist aufgestanden|v|se lever|maison|Ich stehe um sieben auf.|Je me lève à sept heures.
+aufwachen||wachte auf, ist aufgewacht|v|se réveiller|maison|Ich wache früh auf.|Je me réveille tôt.
+sich anziehen||zog sich an, hat sich angezogen|v|s'habiller|maison|Ich ziehe mich schnell an.|Je m'habille vite.
+duschen||duschte, hat geduscht|v|se doucher|maison|Ich dusche morgens.|Je me douche le matin.
+umziehen||zog um, ist umgezogen|v|déménager|maison|Wir ziehen nächsten Monat um.|Nous déménageons le mois prochain.
+anmachen||machte an, hat angemacht|v|allumer|maison|Mach das Radio an.|Allume la radio.
+ausmachen||machte aus, hat ausgemacht|v|éteindre|maison|Mach den Fernseher aus.|Éteins la télé.
+sauber||-|adj|propre|maison|Die Wohnung ist sauber.|L'appartement est propre.
+schmutzig||-|adj|sale|maison|Die Schuhe sind schmutzig.|Les chaussures sont sales.
+bequem||-|adj|confortable|maison|Das Bett ist bequem.|Le lit est confortable.
+hell||-|adj|clair;lumineux|maison|Das Zimmer ist hell.|La chambre est lumineuse.
+dunkel||-|adj|sombre|maison|Im Winter ist es früh dunkel.|En hiver, il fait nuit tôt.
+offen||-|adj|ouvert|maison|Die Tür ist offen.|La porte est ouverte.
+zu||-|adj|fermé|maison|Das Fenster ist zu.|La fenêtre est fermée.
+kaputt||-|adj|cassé;en panne|maison|Die Lampe ist kaputt.|La lampe est cassée.
+Essen|das|-|n|nourriture;repas|cafe|Das Essen ist fertig.|Le repas est prêt.
+essen||aß, hat gegessen|v|manger|cafe|Was essen wir heute?|Qu'est-ce qu'on mange aujourd'hui ?
+trinken||trank, hat getrunken|v|boire|cafe|Ich trinke gern Tee.|J'aime boire du thé.
+kochen||kochte, hat gekocht|v|cuisiner;faire bouillir|cafe|Heute koche ich Suppe.|Aujourd'hui, je fais de la soupe.
+backen||backte, hat gebacken|v|faire cuire au four|cafe|Wir backen einen Kuchen.|Nous faisons un gâteau.
+bestellen||bestellte, hat bestellt|v|commander|cafe|Ich möchte bestellen.|Je voudrais commander.
+bezahlen||bezahlte, hat bezahlt|v|payer|cafe|Wir möchten bitte bezahlen.|Nous voudrions payer, s'il vous plaît.
+schmecken||schmeckte, hat geschmeckt|v|avoir bon goût|cafe|Schmeckt es dir?|C'est bon ?
+Hunger|der|-|n|faim|cafe|Ich habe Hunger.|J'ai faim.
+Durst|der|-|n|soif|cafe|Hast du Durst?|Tu as soif ?
+Frühstück|das|Frühstücke|n|petit-déjeuner|cafe|Das Frühstück ist um acht.|Le petit-déjeuner est à huit heures.
+frühstücken||frühstückte, hat gefrühstückt|v|prendre le petit-déjeuner|cafe|Wir frühstücken zusammen.|Nous prenons le petit-déjeuner ensemble.
+Mittagessen|das|Mittagessen|n|déjeuner|cafe|Was gibt es zum Mittagessen?|Qu'y a-t-il pour le déjeuner ?
+Abendessen|das|Abendessen|n|dîner|cafe|Das Abendessen ist um sieben.|Le dîner est à sept heures.
+Café|das|Cafés|n|café (lieu)|cafe|Treffen wir uns im Café?|On se retrouve au café ?
+Restaurant|das|Restaurants|n|restaurant|cafe|Das Restaurant ist voll.|Le restaurant est plein.
+Kellner|der|Kellner|n|serveur|cafe|Der Kellner bringt die Karte.|Le serveur apporte la carte.
+Speisekarte|die|Speisekarten|n|menu (carte)|cafe|Die Speisekarte, bitte.|La carte, s'il vous plaît.
+Rechnung|die|Rechnungen|n|addition;facture|cafe|Die Rechnung, bitte.|L'addition, s'il vous plaît.
+Trinkgeld|das|-|n|pourboire|cafe|Das Trinkgeld ist für Sie.|Le pourboire est pour vous.
+Tisch reservieren||-|v|réserver une table|cafe|Ich möchte einen Tisch reservieren.|Je voudrais réserver une table.
+Kaffee|der|-|n|café (boisson)|cafe|Einen Kaffee mit Milch, bitte.|Un café au lait, s'il vous plaît.
+Tee|der|Tees|n|thé|cafe|Möchtest du einen Tee?|Tu veux un thé ?
+Wasser|das|-|n|eau|cafe|Ein Glas Wasser, bitte.|Un verre d'eau, s'il vous plaît.
+Saft|der|Säfte|n|jus|cafe|Ich trinke einen Orangensaft.|Je bois un jus d'orange.
+Milch|die|-|n|lait|cafe|Die Milch ist alle.|Il n'y a plus de lait.
+Bier|das|Biere|n|bière|cafe|Ein Bier, bitte!|Une bière, s'il vous plaît !
+Wein|der|Weine|n|vin|cafe|Ein Glas Rotwein, bitte.|Un verre de vin rouge, s'il vous plaît.
+Brot|das|Brote|n|pain|cafe|Das Brot ist frisch.|Le pain est frais.
+Brötchen|das|Brötchen|n|petit pain|cafe|Ich kaufe Brötchen beim Bäcker.|J'achète des petits pains chez le boulanger.
+Butter|die|-|n|beurre|cafe|Brot mit Butter, bitte.|Du pain avec du beurre, s'il vous plaît.
+Käse|der|-|n|fromage|cafe|Der Käse kommt aus der Schweiz.|Le fromage vient de Suisse.
+Wurst|die|Würste|n|saucisse;charcuterie|cafe|Eine Bratwurst mit Senf, bitte.|Une saucisse grillée avec de la moutarde, s'il vous plaît.
+Fleisch|das|-|n|viande|cafe|Ich esse kein Fleisch.|Je ne mange pas de viande.
+Fisch|der|Fische|n|poisson|cafe|Heute gibt es Fisch.|Aujourd'hui, il y a du poisson.
+Hähnchen|das|Hähnchen|n|poulet|cafe|Ich nehme das Hähnchen.|Je prends le poulet.
+Ei|das|Eier|n|œuf|cafe|Zum Frühstück esse ich ein Ei.|Au petit-déjeuner, je mange un œuf.
+Suppe|die|Suppen|n|soupe|cafe|Die Suppe ist heiß.|La soupe est chaude.
+Salat|der|Salate|n|salade|cafe|Einen grünen Salat, bitte.|Une salade verte, s'il vous plaît.
+Kartoffel|die|Kartoffeln|n|pomme de terre|cafe|Ich esse gern Kartoffeln.|J'aime les pommes de terre.
+Reis|der|-|n|riz|cafe|Fisch mit Reis, bitte.|Du poisson avec du riz, s'il vous plaît.
+Nudeln||-|n|pâtes|cafe|Die Kinder essen gern Nudeln.|Les enfants aiment les pâtes.
+Gemüse|das|-|n|légumes|cafe|Ich esse viel Gemüse.|Je mange beaucoup de légumes.
+Obst|das|-|n|fruits|cafe|Obst ist gesund.|Les fruits sont bons pour la santé.
+Kuchen|der|Kuchen|n|gâteau|cafe|Der Kuchen schmeckt lecker.|Le gâteau est délicieux.
+Eis|das|-|n|glace|cafe|Ein Eis mit Schokolade, bitte.|Une glace au chocolat, s'il vous plaît.
+Zucker|der|-|n|sucre|cafe|Nimmst du Zucker?|Tu prends du sucre ?
+Salz|das|-|n|sel|cafe|Gib mir bitte das Salz.|Passe-moi le sel, s'il te plaît.
+Pfeffer|der|-|n|poivre|cafe|Salz und Pfeffer, bitte.|Du sel et du poivre, s'il vous plaît.
+Glas|das|Gläser|n|verre|cafe|Ein Glas Wein, bitte.|Un verre de vin, s'il vous plaît.
+Tasse|die|Tassen|n|tasse|cafe|Eine Tasse Tee, bitte.|Une tasse de thé, s'il vous plaît.
+Teller|der|Teller|n|assiette|cafe|Der Teller ist leer.|L'assiette est vide.
+Gabel|die|Gabeln|n|fourchette|cafe|Ich brauche eine Gabel.|J'ai besoin d'une fourchette.
+Messer|das|Messer|n|couteau|cafe|Das Messer ist scharf.|Le couteau est aiguisé.
+Löffel|der|Löffel|n|cuillère|cafe|Einen Löffel, bitte.|Une cuillère, s'il vous plaît.
+Flasche|die|Flaschen|n|bouteille|cafe|Eine Flasche Wasser, bitte.|Une bouteille d'eau, s'il vous plaît.
+lecker||-|adj|délicieux|cafe|Das ist lecker!|C'est délicieux !
+warm||wärmer, am wärmsten|adj|chaud (tiède)|cafe|Das Essen ist noch warm.|Le repas est encore chaud.
+kalt||kälter, am kältesten|adj|froid|cafe|Das Bier ist schön kalt.|La bière est bien fraîche.
+heiß||-|adj|très chaud;brûlant|cafe|Vorsicht, der Tee ist heiß!|Attention, le thé est brûlant !
+süß||-|adj|sucré;mignon|cafe|Der Kuchen ist sehr süß.|Le gâteau est très sucré.
+salzig||-|adj|salé|cafe|Die Suppe ist zu salzig.|La soupe est trop salée.
+scharf||-|adj|épicé;tranchant|cafe|Ist das Essen scharf?|Le plat est épicé ?
+frisch||-|adj|frais|cafe|Der Fisch ist frisch.|Le poisson est frais.
+satt||-|adj|rassasié|cafe|Danke, ich bin satt.|Merci, je n'ai plus faim.
+vegetarisch||-|adj|végétarien|cafe|Haben Sie etwas Vegetarisches?|Avez-vous quelque chose de végétarien ?
+Guten Appetit||-|intj|bon appétit|cafe|Guten Appetit!|Bon appétit !
+Prost||-|intj|santé ! (trinquer)|cafe|Prost, auf dich!|Santé, à toi !
+einkaufen||kaufte ein, hat eingekauft|v|faire les courses|courses|Ich gehe heute einkaufen.|Je vais faire les courses aujourd'hui.
+kaufen||kaufte, hat gekauft|v|acheter|courses|Ich kaufe ein Geschenk.|J'achète un cadeau.
+verkaufen||verkaufte, hat verkauft|v|vendre|courses|Er verkauft sein Auto.|Il vend sa voiture.
+kosten||kostete, hat gekostet|v|coûter|courses|Was kostet das?|Combien ça coûte ?
+zahlen||zahlte, hat gezahlt|v|payer|courses|Kann ich mit Karte zahlen?|Je peux payer par carte ?
+Geschäft|das|Geschäfte|n|magasin;affaire|courses|Das Geschäft ist geschlossen.|Le magasin est fermé.
+Laden|der|Läden|n|boutique|courses|Der Laden an der Ecke ist billig.|La boutique au coin est bon marché.
+Supermarkt|der|Supermärkte|n|supermarché|courses|Ich gehe zum Supermarkt.|Je vais au supermarché.
+Markt|der|Märkte|n|marché|courses|Am Samstag ist Markt.|Le samedi, il y a le marché.
+Bäckerei|die|Bäckereien|n|boulangerie|courses|Die Bäckerei öffnet um sechs.|La boulangerie ouvre à six heures.
+Metzgerei|die|Metzgereien|n|boucherie|courses|Die Metzgerei hat gute Wurst.|La boucherie a de la bonne charcuterie.
+Kasse|die|Kassen|n|caisse|courses|Bitte zahlen Sie an der Kasse.|Veuillez payer à la caisse.
+Geld|das|-|n|argent|courses|Ich habe kein Geld dabei.|Je n'ai pas d'argent sur moi.
+Euro|der|Euros|n|euro|courses|Das kostet zehn Euro.|Ça coûte dix euros.
+Cent|der|Cents|n|centime|courses|Das macht zwei Euro fünfzig Cent.|Ça fait deux euros cinquante.
+Preis|der|Preise|n|prix|courses|Der Preis ist gut.|Le prix est intéressant.
+Karte|die|Karten|n|carte|courses|Nehmen Sie Karte?|Vous acceptez la carte ?
+Bargeld|das|-|n|espèces|courses|Ich zahle bar.|Je paie en espèces.
+Tüte|die|Tüten|n|sac (plastique, papier)|courses|Brauchen Sie eine Tüte?|Vous avez besoin d'un sac ?
+Tasche|die|Taschen|n|sac;poche|courses|Meine Tasche ist voll.|Mon sac est plein.
+Angebot|das|Angebote|n|offre;promotion|courses|Die Äpfel sind im Angebot.|Les pommes sont en promotion.
+Apfel|der|Äpfel|n|pomme|courses|Ein Kilo Äpfel, bitte.|Un kilo de pommes, s'il vous plaît.
+Banane|die|Bananen|n|banane|courses|Die Bananen sind reif.|Les bananes sont mûres.
+Orange|die|Orangen|n|orange|courses|Ich presse Orangen.|Je presse des oranges.
+Erdbeere|die|Erdbeeren|n|fraise|courses|Die Erdbeeren sind süß.|Les fraises sont sucrées.
+Zitrone|die|Zitronen|n|citron|courses|Tee mit Zitrone, bitte.|Un thé au citron, s'il vous plaît.
+Tomate|die|Tomaten|n|tomate|courses|Die Tomaten kommen aus Spanien.|Les tomates viennent d'Espagne.
+Zwiebel|die|Zwiebeln|n|oignon|courses|Ich schneide eine Zwiebel.|Je coupe un oignon.
+Karotte|die|Karotten|n|carotte|courses|Kaninchen essen Karotten.|Les lapins mangent des carottes.
+Gurke|die|Gurken|n|concombre|courses|Ein Salat mit Gurke.|Une salade avec du concombre.
+Mehl|das|-|n|farine|courses|Für den Kuchen brauche ich Mehl.|Pour le gâteau, j'ai besoin de farine.
+Öl|das|Öle|n|huile|courses|Ich koche mit Olivenöl.|Je cuisine à l'huile d'olive.
+Schokolade|die|Schokoladen|n|chocolat|courses|Ich liebe Schokolade.|J'adore le chocolat.
+Joghurt|der|Joghurts|n|yaourt|courses|Ein Joghurt mit Obst.|Un yaourt aux fruits.
+Packung|die|Packungen|n|paquet|courses|Eine Packung Nudeln, bitte.|Un paquet de pâtes, s'il vous plaît.
+Dose|die|Dosen|n|boîte (conserve)|courses|Eine Dose Tomaten.|Une boîte de tomates.
+teuer||-|adj|cher|courses|Das ist zu teuer.|C'est trop cher.
+billig||-|adj|bon marché|courses|Der Markt ist billig.|Le marché est bon marché.
+günstig||-|adj|avantageux;pas cher|courses|Das Angebot ist günstig.|L'offre est avantageuse.
+voll||-|adj|plein|courses|Der Kühlschrank ist voll.|Le frigo est plein.
+leer||-|adj|vide|courses|Die Flasche ist leer.|La bouteille est vide.
+geöffnet||-|adj|ouvert (magasin)|courses|Der Supermarkt ist bis zehn geöffnet.|Le supermarché est ouvert jusqu'à dix heures.
+geschlossen||-|adj|fermé (magasin)|courses|Sonntags ist alles geschlossen.|Le dimanche, tout est fermé.
+Ich hätte gern||-|v|je voudrais (commande)|courses|Ich hätte gern ein Brot.|Je voudrais un pain.
+Sonst noch etwas?||-|intj|et avec ceci ?|courses|Sonst noch etwas? – Nein, danke.|Et avec ceci ? – Non, merci.

@@ -1,0 +1,199 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+Mensch|der|Menschen|n|être humain;personne|personnes|Er ist ein guter Mensch.|C'est quelqu'un de bien.
+Mann|der|Männer|n|homme;mari|personnes|Der Mann trägt einen Hut.|L'homme porte un chapeau.
+Frau|die|Frauen|n|femme;madame|personnes|Die Frau liest ein Buch.|La femme lit un livre.
+Kind|das|Kinder|n|enfant|personnes|Das Kind spielt im Garten.|L'enfant joue dans le jardin.
+Leute||-|n|gens|personnes|Hier sind viele Leute.|Il y a beaucoup de monde ici.
+Familie|die|Familien|n|famille|personnes|Meine Familie wohnt in Lyon.|Ma famille habite à Lyon.
+Eltern||-|n|parents|personnes|Meine Eltern sind im Urlaub.|Mes parents sont en vacances.
+Vater|der|Väter|n|père|personnes|Mein Vater kocht gern.|Mon père aime cuisiner.
+Mutter|die|Mütter|n|mère|personnes|Meine Mutter ist Lehrerin.|Ma mère est enseignante.
+Sohn|der|Söhne|n|fils|personnes|Unser Sohn ist zehn.|Notre fils a dix ans.
+Tochter|die|Töchter|n|fille (enfant)|personnes|Ihre Tochter studiert Medizin.|Sa fille fait médecine.
+Bruder|der|Brüder|n|frère|personnes|Ich habe einen Bruder.|J'ai un frère.
+Schwester|die|Schwestern|n|sœur|personnes|Meine Schwester wohnt in Berlin.|Ma sœur habite à Berlin.
+Großvater|der|Großväter|n|grand-père|personnes|Mein Großvater ist achtzig.|Mon grand-père a quatre-vingts ans.
+Großmutter|die|Großmütter|n|grand-mère|personnes|Die Großmutter backt einen Kuchen.|La grand-mère fait un gâteau.
+Oma|die|Omas|n|mamie|personnes|Wir besuchen Oma.|Nous rendons visite à mamie.
+Opa|der|Opas|n|papi|personnes|Opa erzählt eine Geschichte.|Papi raconte une histoire.
+Onkel|der|Onkel|n|oncle|personnes|Mein Onkel wohnt auf dem Land.|Mon oncle habite à la campagne.
+Tante|die|Tanten|n|tante|personnes|Meine Tante ist sehr lustig.|Ma tante est très drôle.
+Freund|der|Freunde|n|ami;petit ami|personnes|Das ist mein Freund Max.|C'est mon ami Max.
+Freundin|die|Freundinnen|n|amie;petite amie|personnes|Meine Freundin heißt Anna.|Mon amie s'appelle Anna.
+Nachbar|der|Nachbarn|n|voisin|personnes|Unser Nachbar ist sehr nett.|Notre voisin est très gentil.
+Baby|das|Babys|n|bébé|personnes|Das Baby schläft.|Le bébé dort.
+Junge|der|Jungen|n|garçon|personnes|Der Junge spielt Fußball.|Le garçon joue au foot.
+Mädchen|das|Mädchen|n|fille (jeune)|personnes|Das Mädchen singt ein Lied.|La fille chante une chanson.
+Herr|der|Herren|n|monsieur|personnes|Guten Tag, Herr Müller!|Bonjour, monsieur Müller !
+Gast|der|Gäste|n|invité;client|personnes|Wir haben heute Gäste.|Nous avons des invités aujourd'hui.
+Name|der|Namen|n|nom|personnes|Wie ist Ihr Name?|Quel est votre nom ?
+Vorname|der|Vornamen|n|prénom|personnes|Mein Vorname ist Michel.|Mon prénom est Michel.
+Alter|das|-|n|âge|personnes|In meinem Alter ist das normal.|À mon âge, c'est normal.
+Geburtstag|der|Geburtstage|n|anniversaire|personnes|Alles Gute zum Geburtstag!|Joyeux anniversaire !
+Hochzeit|die|Hochzeiten|n|mariage|personnes|Die Hochzeit ist im Juni.|Le mariage est en juin.
+verheiratet||-|adj|marié|personnes|Bist du verheiratet?|Es-tu marié ?
+ledig||-|adj|célibataire|personnes|Ich bin ledig.|Je suis célibataire.
+heiraten||heiratete, hat geheiratet|v|se marier|personnes|Sie heiraten nächstes Jahr.|Ils se marient l'année prochaine.
+besuchen||besuchte, hat besucht|v|rendre visite;visiter|personnes|Ich besuche meine Eltern.|Je rends visite à mes parents.
+treffen||traf, hat getroffen|v|rencontrer;retrouver|personnes|Wir treffen uns am Bahnhof.|On se retrouve à la gare.
+kennenlernen||lernte kennen, hat kennengelernt|v|faire la connaissance de|personnes|Freut mich, Sie kennenzulernen.|Ravi de faire votre connaissance.
+lieben||liebte, hat geliebt|v|aimer (d'amour)|personnes|Ich liebe meine Kinder.|J'aime mes enfants.
+Liebe|die|-|n|amour|personnes|Liebe ist wichtig.|L'amour est important.
+Land|das|Länder|n|pays;campagne|personnes|Deutschland ist ein schönes Land.|L'Allemagne est un beau pays.
+Deutschland|das|-|n|Allemagne|personnes|Ich fahre nach Deutschland.|Je vais en Allemagne.
+Frankreich|das|-|n|France|personnes|Ich komme aus Frankreich.|Je viens de France.
+deutsch||-|adj|allemand|personnes|Ich lerne Deutsch.|J'apprends l'allemand.
+französisch||-|adj|français|personnes|Er spricht Französisch.|Il parle français.
+Sprache|die|Sprachen|n|langue|personnes|Wie viele Sprachen sprichst du?|Combien de langues parles-tu ?
+Glück|das|-|n|chance;bonheur|sentiments|Viel Glück!|Bonne chance !
+froh||-|adj|content;heureux|sentiments|Ich bin froh, dass du da bist.|Je suis content que tu sois là.
+glücklich||-|adj|heureux|sentiments|Sie sieht glücklich aus.|Elle a l'air heureuse.
+traurig||-|adj|triste|sentiments|Warum bist du traurig?|Pourquoi es-tu triste ?
+müde||-|adj|fatigué|sentiments|Ich bin sehr müde.|Je suis très fatigué.
+nett||-|adj|gentil;sympathique|sentiments|Das ist sehr nett von dir.|C'est très gentil de ta part.
+freundlich||-|adj|aimable|sentiments|Die Verkäuferin ist freundlich.|La vendeuse est aimable.
+lustig||-|adj|drôle|sentiments|Der Film ist lustig.|Le film est drôle.
+böse||-|adj|méchant;fâché|sentiments|Bist du mir böse?|Tu es fâché contre moi ?
+ruhig||-|adj|calme|sentiments|Hier ist es schön ruhig.|C'est bien calme ici.
+nervös||-|adj|nerveux|sentiments|Vor der Prüfung bin ich nervös.|Avant l'examen, je suis nerveux.
+Angst|die|Ängste|n|peur|sentiments|Ich habe Angst vor Hunden.|J'ai peur des chiens.
+Spaß|der|-|n|plaisir;amusement|sentiments|Das macht Spaß!|C'est amusant !
+Freude|die|Freuden|n|joie|sentiments|Mit Freude!|Avec plaisir !
+sich freuen||freute sich, hat sich gefreut|v|se réjouir|sentiments|Ich freue mich auf das Wochenende.|J'ai hâte d'être au week-end.
+lachen||lachte, hat gelacht|v|rire|sentiments|Wir lachen viel zusammen.|Nous rions beaucoup ensemble.
+weinen||weinte, hat geweint|v|pleurer|sentiments|Das Baby weint.|Le bébé pleure.
+hoffen||hoffte, hat gehofft|v|espérer|sentiments|Ich hoffe, es geht dir gut.|J'espère que tu vas bien.
+fühlen||fühlte, hat gefühlt|v|sentir;ressentir|sentiments|Ich fühle mich gut.|Je me sens bien.
+interessant||-|adj|intéressant|sentiments|Das Buch ist interessant.|Le livre est intéressant.
+langweilig||-|adj|ennuyeux|sentiments|Der Film war langweilig.|Le film était ennuyeux.
+toll||-|adj|génial|sentiments|Das ist eine tolle Idee!|C'est une super idée !
+super||-|adj|super|sentiments|Super, danke!|Super, merci !
+klar||-|adj|clair;bien sûr|sentiments|Alles klar!|Tout est clair ! / D'accord !
+sicher||-|adj|sûr;certain|sentiments|Bist du sicher?|Tu es sûr ?
+zufrieden||-|adj|satisfait|sentiments|Ich bin sehr zufrieden.|Je suis très satisfait.
+Problem|das|Probleme|n|problème|sentiments|Kein Problem!|Pas de problème !
+Idee|die|Ideen|n|idée|sentiments|Gute Idee!|Bonne idée !
+sprechen||sprach, hat gesprochen|v|parler|communication|Sprichst du Deutsch?|Tu parles allemand ?
+reden||redete, hat geredet|v|parler;discuter|communication|Wir müssen reden.|Il faut qu'on parle.
+erzählen||erzählte, hat erzählt|v|raconter|communication|Erzähl mal!|Raconte !
+hören||hörte, hat gehört|v|entendre;écouter|communication|Ich höre Musik.|J'écoute de la musique.
+zuhören||hörte zu, hat zugehört|v|écouter (quelqu'un)|communication|Hör mir bitte zu.|Écoute-moi, s'il te plaît.
+rufen||rief, hat gerufen|v|appeler;crier|communication|Ruf ein Taxi!|Appelle un taxi !
+anrufen||rief an, hat angerufen|v|téléphoner|communication|Ich rufe dich morgen an.|Je t'appelle demain.
+schreiben||schrieb, hat geschrieben|v|écrire|communication|Schreib mir eine Nachricht.|Écris-moi un message.
+lesen||las, hat gelesen|v|lire|communication|Ich lese die Zeitung.|Je lis le journal.
+lernen||lernte, hat gelernt|v|apprendre|communication|Ich lerne jeden Tag Deutsch.|J'apprends l'allemand tous les jours.
+erklären||erklärte, hat erklärt|v|expliquer|communication|Kannst du das erklären?|Peux-tu expliquer ça ?
+wiederholen||wiederholte, hat wiederholt|v|répéter|communication|Können Sie das bitte wiederholen?|Pouvez-vous répéter, s'il vous plaît ?
+übersetzen||übersetzte, hat übersetzt|v|traduire|communication|Kannst du das übersetzen?|Peux-tu traduire ça ?
+bedeuten||bedeutete, hat bedeutet|v|signifier|communication|Was bedeutet dieses Wort?|Que signifie ce mot ?
+meinen||meinte, hat gemeint|v|penser;vouloir dire|communication|Was meinst du?|Qu'en penses-tu ?
+danken||dankte, hat gedankt|v|remercier|communication|Ich danke Ihnen.|Je vous remercie.
+grüßen||grüßte, hat gegrüßt|v|saluer|communication|Grüß deine Mutter von mir!|Salue ta mère de ma part !
+Wort|das|Wörter|n|mot|communication|Ich kenne das Wort nicht.|Je ne connais pas ce mot.
+Satz|der|Sätze|n|phrase|communication|Sag den Satz noch einmal.|Redis la phrase.
+Frage|die|Fragen|n|question|communication|Ich habe eine Frage.|J'ai une question.
+Antwort|die|Antworten|n|réponse|communication|Danke für die Antwort.|Merci pour la réponse.
+Nachricht|die|Nachrichten|n|message;nouvelle|communication|Ich habe deine Nachricht bekommen.|J'ai reçu ton message.
+Brief|der|Briefe|n|lettre|communication|Ich schreibe einen Brief.|J'écris une lettre.
+Handy|das|Handys|n|téléphone portable|communication|Mein Handy ist leer.|Mon téléphone n'a plus de batterie.
+Telefon|das|Telefone|n|téléphone|communication|Das Telefon klingelt.|Le téléphone sonne.
+Nummer|die|Nummern|n|numéro|communication|Gib mir deine Nummer.|Donne-moi ton numéro.
+E-Mail|die|E-Mails|n|e-mail|communication|Ich schicke dir eine E-Mail.|Je t'envoie un e-mail.
+Internet|das|-|n|internet|communication|Gibt es hier Internet?|Il y a internet ici ?
+Geschichte|die|Geschichten|n|histoire|communication|Das ist eine lange Geschichte.|C'est une longue histoire.
+Zeit|die|Zeiten|n|temps;heure|temps|Hast du Zeit?|Tu as le temps ?
+Uhr|die|Uhren|n|heure;montre|temps|Wie viel Uhr ist es?|Quelle heure est-il ?
+Stunde|die|Stunden|n|heure (durée)|temps|Der Film dauert zwei Stunden.|Le film dure deux heures.
+Minute|die|Minuten|n|minute|temps|Warte fünf Minuten.|Attends cinq minutes.
+Sekunde|die|Sekunden|n|seconde|temps|Eine Sekunde, bitte!|Une seconde, s'il vous plaît !
+Tag|der|Tage|n|jour;journée|temps|Guten Tag!|Bonjour !
+Woche|die|Wochen|n|semaine|temps|Nächste Woche habe ich Urlaub.|La semaine prochaine, je suis en vacances.
+Monat|der|Monate|n|mois|temps|Ich bleibe einen Monat.|Je reste un mois.
+Jahr|das|Jahre|n|année;an|temps|Frohes neues Jahr!|Bonne année !
+Morgen|der|Morgen|n|matin|temps|Guten Morgen!|Bonjour ! (le matin)
+Vormittag|der|Vormittage|n|matinée|temps|Am Vormittag arbeite ich.|Le matin, je travaille.
+Mittag|der|Mittage|n|midi|temps|Wir essen zu Mittag.|Nous déjeunons.
+Nachmittag|der|Nachmittage|n|après-midi|temps|Am Nachmittag gehen wir schwimmen.|L'après-midi, nous allons nager.
+Abend|der|Abende|n|soir;soirée|temps|Guten Abend!|Bonsoir !
+Nacht|die|Nächte|n|nuit|temps|Gute Nacht!|Bonne nuit !
+heute||-|adv|aujourd'hui|temps|Heute ist Montag.|Aujourd'hui, c'est lundi.
+morgen||-|adv|demain|temps|Bis morgen!|À demain !
+gestern||-|adv|hier|temps|Gestern war ich im Kino.|Hier, j'étais au cinéma.
+übermorgen||-|adv|après-demain|temps|Übermorgen fliege ich nach Rom.|Après-demain, je prends l'avion pour Rome.
+bald||-|adv|bientôt|temps|Bis bald!|À bientôt !
+früh||-|adj|tôt|temps|Ich stehe früh auf.|Je me lève tôt.
+spät||-|adj|tard;en retard|temps|Es ist schon spät.|Il est déjà tard.
+pünktlich||-|adj|ponctuel;à l'heure|temps|Der Zug ist pünktlich.|Le train est à l'heure.
+vorher||-|adv|avant;auparavant|temps|Ruf mich vorher an.|Appelle-moi avant.
+nachher||-|adv|après;tout à l'heure|temps|Bis nachher!|À tout à l'heure !
+Montag|der|Montage|n|lundi|temps|Am Montag arbeite ich.|Le lundi, je travaille.
+Dienstag|der|Dienstage|n|mardi|temps|Am Dienstag habe ich Sport.|Le mardi, j'ai sport.
+Mittwoch|der|Mittwoche|n|mercredi|temps|Am Mittwoch gehe ich einkaufen.|Mercredi, je vais faire les courses.
+Donnerstag|der|Donnerstage|n|jeudi|temps|Wir sehen uns am Donnerstag.|On se voit jeudi.
+Freitag|der|Freitage|n|vendredi|temps|Am Freitag gehen wir aus.|Vendredi, nous sortons.
+Samstag|der|Samstage|n|samedi|temps|Am Samstag schlafe ich lange.|Le samedi, je fais la grasse matinée.
+Sonntag|der|Sonntage|n|dimanche|temps|Am Sonntag sind die Geschäfte zu.|Le dimanche, les magasins sont fermés.
+Wochenende|das|Wochenenden|n|week-end|temps|Schönes Wochenende!|Bon week-end !
+Januar|der|-|n|janvier|temps|Im Januar ist es kalt.|En janvier, il fait froid.
+Februar|der|-|n|février|temps|Im Februar fahren wir Ski.|En février, nous faisons du ski.
+März|der|-|n|mars|temps|Im März kommt der Frühling.|En mars, le printemps arrive.
+April|der|-|n|avril|temps|Im April regnet es oft.|En avril, il pleut souvent.
+Mai|der|-|n|mai|temps|Im Mai blühen die Blumen.|En mai, les fleurs éclosent.
+Juni|der|-|n|juin|temps|Im Juni beginnt der Sommer.|En juin, l'été commence.
+Juli|der|-|n|juillet|temps|Im Juli haben wir Urlaub.|En juillet, nous sommes en vacances.
+August|der|-|n|août|temps|Im August ist es heiß.|En août, il fait chaud.
+September|der|-|n|septembre|temps|Im September beginnt die Schule.|En septembre, l'école commence.
+Oktober|der|-|n|octobre|temps|Im Oktober fallen die Blätter.|En octobre, les feuilles tombent.
+November|der|-|n|novembre|temps|Im November ist es oft grau.|En novembre, il fait souvent gris.
+Dezember|der|-|n|décembre|temps|Im Dezember ist Weihnachten.|En décembre, c'est Noël.
+Frühling|der|Frühlinge|n|printemps|temps|Im Frühling ist es mild.|Au printemps, il fait doux.
+Sommer|der|Sommer|n|été|temps|Im Sommer gehen wir an den Strand.|L'été, nous allons à la plage.
+Herbst|der|Herbste|n|automne|temps|Im Herbst sammeln wir Pilze.|En automne, nous ramassons des champignons.
+Winter|der|Winter|n|hiver|temps|Im Winter schneit es.|L'hiver, il neige.
+Weihnachten|das|-|n|Noël|temps|Frohe Weihnachten!|Joyeux Noël !
+Ostern|das|-|n|Pâques|temps|Frohe Ostern!|Joyeuses Pâques !
+Urlaub|der|Urlaube|n|vacances (congé)|temps|Wir machen Urlaub in Italien.|Nous partons en vacances en Italie.
+Ferien||-|n|vacances (scolaires)|temps|Die Kinder haben Ferien.|Les enfants sont en vacances.
+Termin|der|Termine|n|rendez-vous|temps|Ich habe einen Termin beim Arzt.|J'ai rendez-vous chez le médecin.
+Datum|das|Daten|n|date|temps|Welches Datum ist heute?|Quelle est la date aujourd'hui ?
+Anfang|der|Anfänge|n|début|temps|Am Anfang war es schwer.|Au début, c'était difficile.
+Ende|das|Enden|n|fin|temps|Ende gut, alles gut.|Tout est bien qui finit bien.
+dauern||dauerte, hat gedauert|v|durer|temps|Wie lange dauert die Fahrt?|Combien de temps dure le trajet ?
+eins||-|num|un|nombres|Ich habe nur eins.|Je n'en ai qu'un.
+zwei||-|num|deux|nombres|Zwei Kaffee, bitte.|Deux cafés, s'il vous plaît.
+drei||-|num|trois|nombres|Wir sind drei Personen.|Nous sommes trois.
+vier||-|num|quatre|nombres|Das Kind ist vier Jahre alt.|L'enfant a quatre ans.
+fünf||-|num|cinq|nombres|Das kostet fünf Euro.|Ça coûte cinq euros.
+sechs||-|num|six|nombres|Ich stehe um sechs Uhr auf.|Je me lève à six heures.
+sieben||-|num|sept|nombres|Die Woche hat sieben Tage.|La semaine a sept jours.
+acht||-|num|huit|nombres|Der Film beginnt um acht.|Le film commence à huit heures.
+neun||-|num|neuf|nombres|Wir haben neun Stunden geschlafen.|Nous avons dormi neuf heures.
+zehn||-|num|dix|nombres|In zehn Minuten bin ich da.|Je suis là dans dix minutes.
+elf||-|num|onze|nombres|Die Mannschaft hat elf Spieler.|L'équipe a onze joueurs.
+zwölf||-|num|douze|nombres|Um zwölf essen wir.|À midi, nous mangeons.
+zwanzig||-|num|vingt|nombres|Sie ist zwanzig Jahre alt.|Elle a vingt ans.
+dreißig||-|num|trente|nombres|Der Bus kommt in dreißig Minuten.|Le bus arrive dans trente minutes.
+fünfzig||-|num|cinquante|nombres|Das Ticket kostet fünfzig Euro.|Le billet coûte cinquante euros.
+hundert||-|num|cent|nombres|Das sind hundert Meter.|C'est à cent mètres.
+tausend||-|num|mille|nombres|Tausend Dank!|Mille mercis !
+Million|die|Millionen|n|million|nombres|Berlin hat fast vier Millionen Einwohner.|Berlin compte presque quatre millions d'habitants.
+erste||-|adj|premier|nombres|Das ist mein erster Tag hier.|C'est mon premier jour ici.
+zweite||-|adj|deuxième|nombres|Die zweite Straße links.|La deuxième rue à gauche.
+Hälfte|die|Hälften|n|moitié|nombres|Die Hälfte ist für dich.|La moitié est pour toi.
+halb||-|adj|demi|nombres|Es ist halb drei.|Il est deux heures et demie.
+Viertel|das|Viertel|n|quart;quartier|nombres|Es ist Viertel nach acht.|Il est huit heures et quart.
+Zahl|die|Zahlen|n|nombre;chiffre|nombres|Schreib die Zahl auf.|Note le nombre.
+mal||-|adv|fois|nombres|Ich war zweimal in Wien.|Je suis allé deux fois à Vienne.
+Prozent|das|Prozente|n|pour cent|nombres|Heute gibt es zwanzig Prozent Rabatt.|Aujourd'hui, il y a vingt pour cent de remise.
+Meter|der|Meter|n|mètre|nombres|Es sind nur hundert Meter.|Ce n'est qu'à cent mètres.
+Kilometer|der|Kilometer|n|kilomètre|nombres|Wir sind zehn Kilometer gelaufen.|Nous avons marché dix kilomètres.
+Kilo|das|Kilos|n|kilo|nombres|Ein Kilo Äpfel, bitte.|Un kilo de pommes, s'il vous plaît.
+Gramm|das|Gramm|n|gramme|nombres|Zweihundert Gramm Käse, bitte.|Deux cents grammes de fromage, s'il vous plaît.
+Liter|der|Liter|n|litre|nombres|Ich trinke zwei Liter Wasser am Tag.|Je bois deux litres d'eau par jour.
+Stück|das|Stücke|n|morceau;pièce|nombres|Ein Stück Kuchen, bitte.|Une part de gâteau, s'il vous plaît.
+Paar|das|Paare|n|paire;couple|nombres|Ich brauche ein Paar Schuhe.|J'ai besoin d'une paire de chaussures.
+ein paar||-|det|quelques|nombres|Ich bleibe ein paar Tage.|Je reste quelques jours.
+mehr||-|adv|plus;davantage|nombres|Ich möchte mehr Zeit.|Je voudrais plus de temps.
+genug||-|adv|assez|nombres|Ich habe genug gegessen.|J'ai assez mangé.
+jeder||-|det|chaque|nombres|Ich laufe jeden Tag.|Je cours tous les jours.

@@ -1,0 +1,126 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+fahren||fuhr, ist gefahren|v|aller (en véhicule);conduire|transports|Ich fahre mit dem Bus.|Je prends le bus.
+fliegen||flog, ist geflogen|v|voler;prendre l'avion|transports|Wir fliegen nach Berlin.|Nous prenons l'avion pour Berlin.
+laufen||lief, ist gelaufen|v|courir;marcher|transports|Ich laufe zur Arbeit.|Je vais au travail à pied.
+ankommen||kam an, ist angekommen|v|arriver|transports|Der Zug kommt um neun an.|Le train arrive à neuf heures.
+abfahren||fuhr ab, ist abgefahren|v|partir (véhicule)|transports|Der Bus fährt gleich ab.|Le bus part tout de suite.
+einsteigen||stieg ein, ist eingestiegen|v|monter (dans un véhicule)|transports|Bitte einsteigen!|Montez, s'il vous plaît !
+aussteigen||stieg aus, ist ausgestiegen|v|descendre (d'un véhicule)|transports|Ich steige hier aus.|Je descends ici.
+umsteigen||stieg um, ist umgestiegen|v|changer (de train, bus)|transports|Sie müssen in Köln umsteigen.|Vous devez changer à Cologne.
+verpassen||verpasste, hat verpasst|v|rater (un train)|transports|Ich habe den Zug verpasst.|J'ai raté le train.
+parken||parkte, hat geparkt|v|se garer|transports|Wo kann ich parken?|Où puis-je me garer ?
+Auto|das|Autos|n|voiture|transports|Mein Auto ist rot.|Ma voiture est rouge.
+Bus|der|Busse|n|bus|transports|Der Bus kommt zu spät.|Le bus est en retard.
+Zug|der|Züge|n|train|transports|Der Zug nach München hat Verspätung.|Le train pour Munich a du retard.
+Bahn|die|Bahnen|n|train;chemin de fer|transports|Ich fahre mit der Bahn.|Je voyage en train.
+U-Bahn|die|U-Bahnen|n|métro|transports|Die U-Bahn ist schneller.|Le métro est plus rapide.
+Straßenbahn|die|Straßenbahnen|n|tramway|transports|Nimm die Straßenbahn Nummer drei.|Prends le tram numéro trois.
+Taxi|das|Taxis|n|taxi|transports|Ich nehme ein Taxi.|Je prends un taxi.
+Fahrrad|das|Fahrräder|n|vélo|transports|Ich fahre gern Fahrrad.|J'aime faire du vélo.
+Flugzeug|das|Flugzeuge|n|avion|transports|Das Flugzeug landet pünktlich.|L'avion atterrit à l'heure.
+Schiff|das|Schiffe|n|bateau|transports|Wir fahren mit dem Schiff.|Nous prenons le bateau.
+Bahnhof|der|Bahnhöfe|n|gare|transports|Wie komme ich zum Bahnhof?|Comment aller à la gare ?
+Flughafen|der|Flughäfen|n|aéroport|transports|Der Flughafen ist weit weg.|L'aéroport est loin.
+Haltestelle|die|Haltestellen|n|arrêt (bus, tram)|transports|Die Haltestelle ist da vorne.|L'arrêt est juste devant.
+Gleis|das|Gleise|n|voie;quai|transports|Der Zug fährt von Gleis vier.|Le train part de la voie quatre.
+Fahrkarte|die|Fahrkarten|n|billet (transport)|transports|Eine Fahrkarte nach Hamburg, bitte.|Un billet pour Hambourg, s'il vous plaît.
+Ticket|das|Tickets|n|ticket;billet|transports|Wo kann ich ein Ticket kaufen?|Où puis-je acheter un ticket ?
+Fahrplan|der|Fahrpläne|n|horaires|transports|Schau mal auf den Fahrplan.|Regarde les horaires.
+Abfahrt|die|Abfahrten|n|départ|transports|Die Abfahrt ist um zehn.|Le départ est à dix heures.
+Ankunft|die|Ankünfte|n|arrivée|transports|Die Ankunft ist um zwölf.|L'arrivée est à midi.
+Verspätung|die|Verspätungen|n|retard|transports|Der Zug hat zehn Minuten Verspätung.|Le train a dix minutes de retard.
+Reise|die|Reisen|n|voyage|transports|Gute Reise!|Bon voyage !
+reisen||reiste, ist gereist|v|voyager|transports|Ich reise gern.|J'aime voyager.
+Koffer|der|Koffer|n|valise|transports|Mein Koffer ist schwer.|Ma valise est lourde.
+Gepäck|das|-|n|bagages|transports|Wo ist das Gepäck?|Où sont les bagages ?
+Pass|der|Pässe|n|passeport|transports|Ihren Pass, bitte.|Votre passeport, s'il vous plaît.
+Weg|der|Wege|n|chemin|transports|Kennst du den Weg?|Tu connais le chemin ?
+Straße|die|Straßen|n|rue;route|transports|Ich wohne in der Goethestraße.|J'habite rue Goethe.
+Autobahn|die|Autobahnen|n|autoroute|transports|Auf der Autobahn ist Stau.|Il y a un bouchon sur l'autoroute.
+Stau|der|Staus|n|embouteillage|transports|Wir stehen im Stau.|Nous sommes dans les bouchons.
+Ampel|die|Ampeln|n|feu (de circulation)|transports|Die Ampel ist rot.|Le feu est rouge.
+Kreuzung|die|Kreuzungen|n|carrefour|transports|An der Kreuzung links.|Au carrefour, à gauche.
+Ecke|die|Ecken|n|coin|transports|Das Café ist an der Ecke.|Le café est au coin.
+Tankstelle|die|Tankstellen|n|station-service|transports|Wir müssen zur Tankstelle.|Nous devons aller à la station-service.
+Führerschein|der|Führerscheine|n|permis de conduire|transports|Hast du einen Führerschein?|Tu as le permis ?
+weit||-|adj|loin;large|transports|Ist es weit?|C'est loin ?
+nah||näher, am nächsten|adj|proche|transports|Der Bahnhof ist ganz nah.|La gare est toute proche.
+schnell||-|adj|rapide;vite|transports|Der Zug ist schnell.|Le train est rapide.
+langsam||-|adj|lent;lentement|transports|Bitte sprechen Sie langsam.|Parlez lentement, s'il vous plaît.
+Stadt|die|Städte|n|ville|ville|Die Stadt ist sehr alt.|La ville est très ancienne.
+Dorf|das|Dörfer|n|village|ville|Ich komme aus einem kleinen Dorf.|Je viens d'un petit village.
+Zentrum|das|Zentren|n|centre|ville|Wie komme ich ins Zentrum?|Comment aller au centre ?
+Platz|der|Plätze|n|place|ville|Wir treffen uns auf dem Marktplatz.|On se retrouve sur la place du marché.
+Park|der|Parks|n|parc|ville|Wir gehen im Park spazieren.|Nous nous promenons dans le parc.
+Kirche|die|Kirchen|n|église|ville|Die Kirche ist sehr schön.|L'église est très belle.
+Museum|das|Museen|n|musée|ville|Das Museum ist montags geschlossen.|Le musée est fermé le lundi.
+Kino|das|Kinos|n|cinéma|ville|Gehen wir heute ins Kino?|On va au cinéma ce soir ?
+Theater|das|Theater|n|théâtre|ville|Das Theater ist ausverkauft.|Le théâtre affiche complet.
+Bank|die|Banken|n|banque;banc|ville|Die Bank ist um die Ecke.|La banque est au coin de la rue.
+Post|die|-|n|poste|ville|Ich bringe den Brief zur Post.|J'apporte la lettre à la poste.
+Apotheke|die|Apotheken|n|pharmacie|ville|Wo ist die nächste Apotheke?|Où est la pharmacie la plus proche ?
+Krankenhaus|das|Krankenhäuser|n|hôpital|ville|Er liegt im Krankenhaus.|Il est à l'hôpital.
+Polizei|die|-|n|police|ville|Ruf die Polizei!|Appelle la police !
+Hotel|das|Hotels|n|hôtel|ville|Das Hotel ist im Zentrum.|L'hôtel est dans le centre.
+Brücke|die|Brücken|n|pont|ville|Wir gehen über die Brücke.|Nous traversons le pont.
+Gebäude|das|Gebäude|n|bâtiment|ville|Das Gebäude ist sehr hoch.|Le bâtiment est très haut.
+Turm|der|Türme|n|tour|ville|Vom Turm sieht man die ganze Stadt.|Depuis la tour, on voit toute la ville.
+Rathaus|das|Rathäuser|n|mairie|ville|Das Rathaus ist am Marktplatz.|La mairie est sur la place du marché.
+Bibliothek|die|Bibliotheken|n|bibliothèque|ville|Ich lerne in der Bibliothek.|J'étudie à la bibliothèque.
+Schule|die|Schulen|n|école|ville|Die Kinder gehen zur Schule.|Les enfants vont à l'école.
+Universität|die|Universitäten|n|université|ville|Sie studiert an der Universität.|Elle étudie à l'université.
+Kneipe|die|Kneipen|n|bistrot;bar|ville|Wir gehen in die Kneipe.|On va au bistrot.
+Eingang|der|Eingänge|n|entrée|ville|Der Eingang ist rechts.|L'entrée est à droite.
+Ausgang|der|Ausgänge|n|sortie|ville|Wo ist der Ausgang?|Où est la sortie ?
+Adresse|die|Adressen|n|adresse|ville|Wie ist deine Adresse?|Quelle est ton adresse ?
+Plan|der|Pläne|n|plan|ville|Hast du einen Stadtplan?|Tu as un plan de la ville ?
+Nähe|die|-|n|proximité;environs|ville|Gibt es hier in der Nähe ein Café?|Y a-t-il un café près d'ici ?
+spazieren gehen||ging spazieren, ist spazieren gegangen|v|se promener|ville|Wir gehen im Park spazieren.|Nous nous promenons dans le parc.
+besichtigen||besichtigte, hat besichtigt|v|visiter (un lieu)|ville|Wir besichtigen das Schloss.|Nous visitons le château.
+Schloss|das|Schlösser|n|château;serrure|ville|Das Schloss ist sehr alt.|Le château est très ancien.
+Arbeit|die|Arbeiten|n|travail|travail|Ich gehe zur Arbeit.|Je vais au travail.
+arbeiten||arbeitete, hat gearbeitet|v|travailler|travail|Ich arbeite in einem Büro.|Je travaille dans un bureau.
+Beruf|der|Berufe|n|métier;profession|travail|Was sind Sie von Beruf?|Quel est votre métier ?
+Büro|das|Büros|n|bureau (lieu)|travail|Das Büro ist im ersten Stock.|Le bureau est au premier étage.
+Firma|die|Firmen|n|entreprise|travail|Die Firma hat hundert Mitarbeiter.|L'entreprise a cent employés.
+Chef|der|Chefs|n|chef;patron|travail|Mein Chef ist im Urlaub.|Mon chef est en vacances.
+Kollege|der|Kollegen|n|collègue|travail|Mein Kollege hilft mir.|Mon collègue m'aide.
+Kollegin|die|Kolleginnen|n|collègue (femme)|travail|Meine Kollegin ist krank.|Ma collègue est malade.
+Kunde|der|Kunden|n|client|travail|Der Kunde wartet.|Le client attend.
+Termin vereinbaren||-|v|prendre rendez-vous|travail|Ich möchte einen Termin vereinbaren.|Je voudrais prendre rendez-vous.
+Besprechung|die|Besprechungen|n|réunion|travail|Die Besprechung beginnt um zehn.|La réunion commence à dix heures.
+Pause|die|Pausen|n|pause|travail|Machen wir eine Pause!|Faisons une pause !
+Feierabend|der|Feierabende|n|fin de journée de travail|travail|Endlich Feierabend!|Enfin la fin de la journée !
+Gehalt|das|Gehälter|n|salaire|travail|Das Gehalt ist gut.|Le salaire est bon.
+Stelle|die|Stellen|n|poste;endroit|travail|Ich suche eine neue Stelle.|Je cherche un nouveau poste.
+Projekt|das|Projekte|n|projet|travail|Das Projekt ist fertig.|Le projet est terminé.
+Aufgabe|die|Aufgaben|n|tâche;exercice|travail|Das ist eine schwierige Aufgabe.|C'est une tâche difficile.
+Erfahrung|die|Erfahrungen|n|expérience|travail|Ich habe viel Erfahrung.|J'ai beaucoup d'expérience.
+Lehrer|der|Lehrer|n|enseignant|travail|Der Lehrer erklärt die Regel.|L'enseignant explique la règle.
+Arzt|der|Ärzte|n|médecin|travail|Ich muss zum Arzt.|Je dois aller chez le médecin.
+Ärztin|die|Ärztinnen|n|médecin (femme)|travail|Die Ärztin ist sehr nett.|La médecin est très gentille.
+Ingenieur|der|Ingenieure|n|ingénieur|travail|Mein Bruder ist Ingenieur.|Mon frère est ingénieur.
+Verkäufer|der|Verkäufer|n|vendeur|travail|Der Verkäufer berät mich.|Le vendeur me conseille.
+Koch|der|Köche|n|cuisinier|travail|Der Koch ist sehr gut.|Le cuisinier est très bon.
+Student|der|Studenten|n|étudiant|travail|Er ist Student in Berlin.|Il est étudiant à Berlin.
+Rentner|der|Rentner|n|retraité|travail|Mein Vater ist Rentner.|Mon père est retraité.
+studieren||studierte, hat studiert|v|faire des études|travail|Ich studiere Informatik.|J'étudie l'informatique.
+verdienen||verdiente, hat verdient|v|gagner (argent);mériter|travail|Er verdient gut.|Il gagne bien sa vie.
+schicken||schickte, hat geschickt|v|envoyer|travail|Ich schicke dir die Datei.|Je t'envoie le fichier.
+drucken||druckte, hat gedruckt|v|imprimer|travail|Kannst du das drucken?|Peux-tu imprimer ça ?
+benutzen||benutzte, hat benutzt|v|utiliser|travail|Darf ich deinen Stift benutzen?|Je peux utiliser ton stylo ?
+planen||plante, hat geplant|v|planifier|travail|Wir planen eine Reise.|Nous préparons un voyage.
+erledigen||erledigte, hat erledigt|v|régler;accomplir|travail|Ich muss noch etwas erledigen.|J'ai encore quelque chose à faire.
+vergessen||vergaß, hat vergessen|v|oublier|travail|Ich habe es vergessen.|Je l'ai oublié.
+sich erinnern||erinnerte sich, hat sich erinnert|v|se souvenir|travail|Erinnerst du dich an mich?|Tu te souviens de moi ?
+entscheiden||entschied, hat entschieden|v|décider|travail|Du musst dich entscheiden.|Tu dois te décider.
+Papier|das|Papiere|n|papier|travail|Hast du ein Blatt Papier?|Tu as une feuille de papier ?
+Stift|der|Stifte|n|stylo;crayon|travail|Hast du einen Stift?|Tu as un stylo ?
+Formular|das|Formulare|n|formulaire|travail|Füllen Sie bitte das Formular aus.|Remplissez le formulaire, s'il vous plaît.
+Unterschrift|die|Unterschriften|n|signature|travail|Hier fehlt Ihre Unterschrift.|Il manque votre signature ici.
+Ausweis|der|Ausweise|n|carte d'identité|travail|Zeigen Sie bitte Ihren Ausweis.|Montrez votre pièce d'identité, s'il vous plaît.
+beschäftigt||-|adj|occupé|travail|Ich bin heute sehr beschäftigt.|Je suis très occupé aujourd'hui.
+fleißig||-|adj|travailleur;appliqué|travail|Sie ist sehr fleißig.|Elle est très travailleuse.
+schwierig||-|adj|difficile|travail|Die Prüfung war schwierig.|L'examen était difficile.
+Prüfung|die|Prüfungen|n|examen|travail|Ich habe die Prüfung bestanden.|J'ai réussi l'examen.
+Kurs|der|Kurse|n|cours;stage|travail|Ich mache einen Deutschkurs.|Je suis un cours d'allemand.

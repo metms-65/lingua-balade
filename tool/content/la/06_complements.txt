@@ -1,0 +1,156 @@
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+fero||ferre, tuli, latum|v|porter;apporter;supporter|essentiel|Fer mihi aquam.|Apporte-moi de l'eau.
+pono||ponere, posui, positum|v|poser;placer|essentiel|Pone librum in mensa.|Pose le livre sur la table.
+relinquo||relinquere, reliqui, relictum|v|laisser;abandonner|essentiel|Relinque me!|Laisse-moi !
+teneo||tenere, tenui, tentum|v|tenir|essentiel|Tene hoc, quaeso.|Tiens ceci, s'il te plaît.
+ostendo||ostendere, ostendi, ostentum|v|montrer|essentiel|Ostende mihi viam.|Montre-moi le chemin.
+muto||mutare, mutavi, mutatum|v|changer|essentiel|Consilium mutamus.|Nous changeons de plan.
+consisto||consistere, constiti|v|s'arrêter|essentiel|Consiste, quaeso!|Arrête-toi, s'il te plaît !
+pergo||pergere, perrexi, perrectum|v|continuer;poursuivre|essentiel|Perge, audio.|Continue, j'écoute.
+conor||conari, conatus sum|v|essayer;tenter|essentiel|Iterum conabor.|J'essaierai encore.
+cado||cadere, cecidi, casum|v|tomber|essentiel|Cave, cades!|Attention, tu vas tomber !
+sedeo||sedere, sedi, sessum|v|être assis|essentiel|In horto sedeo.|Je suis assis dans le jardin.
+sto||stare, steti, statum|v|être debout;se tenir|essentiel|Hic sto.|Je me tiens ici.
+iaceo||iacere, iacui|v|être couché;se trouver|essentiel|Liber in mensa iacet.|Le livre est sur la table.
+seco||secare, secui, sectum|v|couper|essentiel|Seca panem, quaeso.|Coupe le pain, s'il te plaît.
+videor||videri, visus sum|v|sembler;paraître|essentiel|Bene vales, ut videtur.|Tu vas bien, à ce qu'il semble.
+licet||licere, licuit|v|il est permis|essentiel|Licetne intrare?|Puis-je entrer ?
+oportet||oportere, oportuit|v|il faut|essentiel|Oportet discere.|Il faut apprendre.
+est (il y a)||-|v|il y a|essentiel|Estne taberna medicamentaria prope?|Y a-t-il une pharmacie près d'ici ?
+assentior||assentiri, assensus sum|v|être d'accord|essentiel|Tibi assentior.|Je suis d'accord avec toi.
+feliciter||-|adv|heureusement;avec succès|essentiel|Feliciter!|Bonne chance ! Bravo !
+infeliciter||-|adv|malheureusement|essentiel|Infeliciter tempus non habeo.|Malheureusement, je n'ai pas le temps.
+primum||-|adv|d'abord|essentiel|Primum edimus.|D'abord, nous mangeons.
+denique||-|adv|enfin;finalement|essentiel|Denique venisti!|Enfin tu es venu !
+subito||-|adv|soudain|essentiel|Subito pluit.|Soudain, il pleut.
+statim||-|adv|immédiatement|essentiel|Veni huc statim!|Viens ici immédiatement !
+ubique||-|adv|partout|essentiel|Ubique quaesivi.|J'ai cherché partout.
+alicubi||-|adv|quelque part|essentiel|Telephonum alicubi hic est.|Le téléphone est quelque part ici.
+probabiliter||-|adv|probablement|essentiel|Probabiliter sero veniet.|Il viendra probablement en retard.
+satis (plutôt)||-|adv|assez;plutôt|essentiel|Satis frigidum est.|Il fait assez froid.
+praesertim||-|adv|surtout;particulièrement|essentiel|Insulae mihi placent, praesertim Sicilia.|Les îles me plaisent, surtout la Sicile.
+nimis||-|adv|trop|essentiel|Nimis carum est.|C'est trop cher.
+igitur||-|conj|donc|essentiel|Eamus igitur!|Allons-y donc !
+ergo||-|conj|donc|essentiel|Cogito, ergo sum.|Je pense, donc je suis.
+tamen||-|adv|cependant;quand même|essentiel|Pluit, tamen eo.|Il pleut, j'y vais quand même.
+itaque||-|conj|c'est pourquoi|essentiel|Aegrotus sum, itaque domi maneo.|Je suis malade, c'est pourquoi je reste à la maison.
+quamquam||-|conj|bien que|essentiel|Quamquam pluit, ambulamus.|Bien qu'il pleuve, nous nous promenons.
+antequam||-|conj|avant que|essentiel|Voca me antequam venis.|Appelle-moi avant de venir.
+postquam||-|conj|après que|essentiel|Postquam cenavimus, abiimus.|Après avoir dîné, nous sommes partis.
+dum||-|conj|pendant que|essentiel|Dum coquo, ille legit.|Pendant que je cuisine, il lit.
+ultimus||ultima, ultimum|adj|dernier|essentiel|Hoc laophorum ultimum est.|C'est le dernier bus.
+proximus||proxima, proximum|adj|prochain;le plus proche|essentiel|Proxima hebdomade abeo.|La semaine prochaine, je pars.
+totus||tota, totum|adj|tout entier|essentiel|Totum diem pluit.|Il pleut toute la journée.
+diversus||diversa, diversum|adj|différent|essentiel|Valde diversi sumus.|Nous sommes très différents.
+notus||nota, notum|adj|connu|essentiel|Urbs nota est.|La ville est connue.
+peregrinus||peregrina, peregrinum|adj|étranger|essentiel|Peregrinus hic sum.|Je suis étranger ici.
+altus||alta, altum|adj|haut;profond|essentiel|Turris alta est.|La tour est haute.
+latus||lata, latum|adj|large|essentiel|Via lata est.|La rue est large.
+crassus||crassa, crassum|adj|épais;gros|essentiel|Liber crassus est.|Le livre est épais.
+tenuis||tenue|adj|mince;fin|essentiel|Paries tenuis est.|Le mur est fin.
+clamosus||clamosa, clamosum|adj|bruyant|essentiel|Via clamosa est.|La rue est bruyante.
+mollis||molle|adj|mou;doux|essentiel|Pulvinus mollis est.|Le coussin est moelleux.
+durus||dura, durum|adj|dur|essentiel|Panis durus est.|Le pain est dur.
+dives||divitis|adj|riche|essentiel|Valde dives est.|Il est très riche.
+pauper||pauperis|adj|pauvre|essentiel|Familia pauper est.|La famille est pauvre.
+prudens||prudentis|adj|sage;avisé|essentiel|Consilium prudens est.|Le conseil est sage.
+stultus||stulta, stultum|adj|sot;bête|essentiel|Stultum erat.|C'était bête.
+mirus||mira, mirum|adj|étonnant;merveilleux|essentiel|Mirum est!|C'est étonnant !
+similis||simile|adj|semblable|essentiel|Fratres similes sunt.|Les frères se ressemblent.
+periculosus||periculosa, periculosum|adj|dangereux|essentiel|Via periculosa est.|La route est dangereuse.
+vetitus||vetita, vetitum|adj|interdit|essentiel|Fumare vetitum est.|Il est interdit de fumer.
+cognosco||cognoscere, cognovi, cognitum|v|apprendre à connaître;reconnaître|personnes|Gaudeo te cognoscere.|Je suis ravi de faire ta connaissance.
+nubo||nubere, nupsi, nuptum|v|épouser (pour une femme)|personnes|Iulia Marco nubit.|Julia épouse Marcus.
+nascor||nasci, natus sum|v|naître|personnes|Lugduni natus sum.|Je suis né à Lyon.
+morior||mori, mortuus sum|v|mourir|personnes|Avus anno priore mortuus est.|Grand-père est mort l'an dernier.
+consobrinus|m|consobrini|n|cousin|personnes|Consobrinus meus in Sicilia habitat.|Mon cousin habite en Sicile.
+civis|m|civis|n|citoyen|personnes|Civis Romanus sum.|Je suis citoyen romain.
+Graecus||Graeca, Graecum|adj|grec|personnes|Amica mea Graeca est.|Mon amie est grecque.
+Gallus||Galla, Gallum|adj|gaulois;français|personnes|Gallus sum.|Je suis français.
+patientia|f|patientiae|n|patience|sentiments|Paulum patientiae!|Un peu de patience !
+pudor|m|pudoris|n|honte;pudeur|sentiments|Pro pudor!|Quelle honte !
+admiratio|f|admirationis|n|étonnement;admiration|sentiments|Quanta admiratio!|Quelle surprise !
+ira|f|irae|n|colère|sentiments|Ira furor brevis est.|La colère est une courte folie.
+verecundus||verecunda, verecundum|adj|timide;réservé|sentiments|Puer verecundus est.|L'enfant est timide.
+piger||pigra, pigrum|adj|paresseux|sentiments|Hodie piger sum.|Aujourd'hui, je suis paresseux.
+sollicitus||sollicita, sollicitum|adj|inquiet|sentiments|Noli sollicitus esse!|Ne t'inquiète pas !
+historia|f|historiae|n|histoire|communication|Historia Romana me delectat.|L'histoire romaine me plaît.
+interrete|n|interretis|n|internet|communication|Estne hic interrete?|Y a-t-il internet ici ?
+inscriptio electronica|f|inscriptionis electronicae|n|adresse e-mail|communication|Quae est inscriptio tua electronica?|Quelle est ton adresse e-mail ?
+colloquor||colloqui, collocutus sum|v|s'entretenir;converser|communication|Colloqui debemus.|Il faut qu'on parle.
+pulvinus|m|pulvini|n|coussin;oreiller|maison|Pulvinus mollis est.|Le coussin est moelleux.
+stragulum|n|straguli|n|couverture|maison|Frigeo, da mihi stragulum.|J'ai froid, donne-moi une couverture.
+pluteus|m|plutei|n|étagère|maison|Libri in pluteo sunt.|Les livres sont sur l'étagère.
+cella|f|cellae|n|cellier;cave;petite pièce|maison|Vinum in cella est.|Le vin est à la cave.
+calefactio|f|calefactionis|n|chauffage|maison|Calefactio non fungitur.|Le chauffage ne marche pas.
+olla|f|ollae|n|marmite;pot|maison|Olla in foco est.|La marmite est sur le feu.
+sartago|f|sartaginis|n|poêle|maison|Pisces in sartagine frigo.|Je fais frire les poissons à la poêle.
+mappa|f|mappae|n|serviette de table|cafe|Licetne mappam habere?|Puis-je avoir une serviette ?
+puls|f|pultis|n|bouillie (d'épeautre)|cafe|Romani pultem edebant.|Les Romains mangeaient de la bouillie.
+garum|n|gari|n|garum (sauce de poisson)|cafe|Romani garum amabant.|Les Romains adoraient le garum.
+agnus|m|agni|n|agneau|cafe|Paschate agnum edimus.|À Pâques, nous mangeons de l'agneau.
+bubula|f|bubulae|n|viande de bœuf|cafe|Bubula cum pomis terrestribus.|Du bœuf aux pommes de terre.
+pomum terrestre|n|pomi terrestris|n|pomme de terre|cafe|Poma terrestria libenter edo.|J'aime les pommes de terre.
+pasta|f|pastae|n|pâtes|cafe|Liberi pastam amant.|Les enfants adorent les pâtes.
+faba|f|fabae|n|fève;haricot|cafe|Ius cum fabis.|Une soupe aux fèves.
+vegetarianus||vegetariana, vegetarianum|adj|végétarien|cafe|Vegetarianus sum.|Je suis végétarien.
+melo|m|melonis|n|melon|courses|Melo dulcis est.|Le melon est sucré.
+persicum|n|persici|n|pêche (fruit)|courses|Persica matura sunt.|Les pêches sont mûres.
+lactuca|f|lactucae|n|laitue|courses|Acetaria ex lactuca.|Une salade de laitue.
+cinnamomum|n|cinnamomi|n|cannelle|courses|Placenta cum cinnamomo.|Un gâteau à la cannelle.
+acetum|n|aceti|n|vinaigre|courses|Oleum et acetum ad acetaria.|De l'huile et du vinaigre pour la salade.
+pistor|m|pistoris|n|boulanger|courses|Pistor panem coquit.|Le boulanger cuit le pain.
+lanius|m|lanii|n|boucher|courses|Lanius carnem bonam vendit.|Le boucher vend de la bonne viande.
+apocha|f|apochae|n|reçu;quittance|courses|Visne apocham?|Veux-tu le reçu ?
+deductio|f|deductionis|n|réduction|courses|Deductio est vicesima pars.|La réduction est d'un vingtième.
+reditus|m|reditus|n|retour|transports|Tesseram itus et reditus, quaeso.|Un billet aller-retour, s'il te plaît.
+sedes|f|sedis|n|siège;place|transports|Estne haec sedes libera?|Cette place est-elle libre ?
+volatus|m|volatus|n|vol (avion)|transports|Volatus moram habet.|Le vol a du retard.
+transeo||transire, transii, transitum|v|traverser;passer|transports|Viam hic transi.|Traverse la rue ici.
+erro||errare, erravi, erratum|v|errer;se tromper;se perdre|transports|Erravi; potesne me adiuvare?|Je me suis perdu, peux-tu m'aider ?
+septentrio|m|septentrionis|n|nord|transports|Mediolanum ad septentrionem est.|Milan est au nord.
+meridies (sud)|m|meridiei|n|sud|transports|Sicilia ad meridiem est.|La Sicile est au sud.
+oriens|m|orientis|n|est;orient|transports|Sol ab oriente surgit.|Le soleil se lève à l'est.
+occidens|m|occidentis|n|ouest;occident|transports|Sol in occidente occidit.|Le soleil se couche à l'ouest.
+finis (frontière)|m|finis|n|frontière;limite|transports|Ad fines venimus.|Nous arrivons à la frontière.
+peregre||-|adv|à l'étranger|transports|Peregre laborat.|Il travaille à l'étranger.
+auriga|m|aurigae|n|cocher;conducteur|transports|Auriga benignus est.|Le conducteur est aimable.
+incola|m|incolae|n|habitant|ville|Insula paucos incolas habet.|L'île a peu d'habitants.
+amphitheatrum|n|amphitheatri|n|amphithéâtre|ville|Amphitheatrum Flavium est Colosseum.|L'amphithéâtre flavien, c'est le Colisée.
+thermae|f|thermarum|n|thermes;bains publics|ville|In thermas imus.|Nous allons aux thermes.
+basilica|f|basilicae|n|basilique|ville|Basilica magna est.|La basilique est grande.
+castellum|n|castelli|n|château fort;fortin|ville|In castellum ascendimus.|Nous montons au château fort.
+arcus|m|arcus|n|arc;arc de triomphe|ville|Arcus Titi in foro est.|L'arc de Titus est sur le forum.
+fons|m|fontis|n|fontaine;source|ville|Nummum in fontem iacio.|Je jette une pièce dans la fontaine.
+via publica|f|viae publicae|n|voie publique;route|ville|Via Appia via publica clara est.|La voie Appienne est une route célèbre.
+peregrinator|m|peregrinatoris|n|voyageur;touriste|ville|Aestate multi peregrinatores veniunt.|L'été, beaucoup de touristes viennent.
+operarius|m|operarii|n|ouvrier;employé|travail|Operarii domum aedificant.|Les ouvriers construisent une maison.
+pactum|n|pacti|n|accord;contrat|travail|Pactum subscripsi.|J'ai signé l'accord.
+subscribo||subscribere, subscripsi, subscriptum|v|signer|travail|Hic subscribe, quaeso.|Signe ici, s'il te plaît.
+piscator|m|piscatoris|n|pêcheur|travail|Piscator pisces recentes affert.|Le pêcheur apporte des poissons frais.
+scriba|m|scribae|n|secrétaire;scribe|travail|Scriba epistulam scribit.|Le secrétaire écrit une lettre.
+otiosus||otiosa, otiosum|adj|inoccupé;au chômage;oisif|travail|Mensem iam otiosus est.|Il est sans travail depuis un mois.
+dentista|m|dentistae|n|dentiste|sante|Dentistam timeo.|J'ai peur du dentiste.
+aegrotans|m|aegrotantis|n|malade;patient|sante|Aegrotans exspectat.|Le patient attend.
+sanguis|m|sanguinis|n|sang|sante|Sanguis in manu est.|Il y a du sang sur la main.
+cutis|f|cutis|n|peau|sante|Sol cutem urit.|Le soleil brûle la peau.
+umerus|m|umeri|n|épaule|sante|Umerus mihi dolet.|J'ai mal à l'épaule.
+stomachus|m|stomachi|n|estomac|sante|Stomachus mihi dolet.|J'ai mal à l'estomac.
+vertigo|f|vertiginis|n|vertige|sante|Vertigine laboro.|J'ai des vertiges.
+fluctus|m|fluctus|n|vague;flot|nature|Fluctus hodie magni sunt.|Les vagues sont grosses aujourd'hui.
+harena|f|harenae|n|sable;arène|nature|Harena calida est.|Le sable est chaud.
+spelunca|f|speluncae|n|grotte|nature|Speluncam exploramus.|Nous explorons une grotte.
+occasus solis|m|occasus solis|n|coucher de soleil|nature|Quam pulcher occasus solis!|Quel beau coucher de soleil !
+capra|f|caprae|n|chèvre|nature|In monte capras videmus.|En montagne, nous voyons des chèvres.
+asinus|m|asini|n|âne|nature|Asinus sarcinas portat.|L'âne porte les bagages.
+herba|f|herbae|n|herbe|nature|In herba sedemus.|Nous sommes assis dans l'herbe.
+folium|n|folii|n|feuille|nature|Folia flava sunt.|Les feuilles sont jaunes.
+caliga|f|caligae|n|botte|vetements|Hieme caligas gero.|L'hiver, je porte des bottes.
+focale|n|focalis|n|écharpe|vetements|Sume focale!|Prends une écharpe !
+chirotheca|f|chirothecae|n|gant|vetements|Chirothecas indue, frigus est!|Mets des gants, il fait froid !
+cingulum|n|cinguli|n|ceinture|vetements|Cingulum nimis breve est.|La ceinture est trop courte.
+horologium|n|horologii|n|horloge;montre|vetements|Horologium meum tardat.|Ma montre retarde.
+purpureus||purpurea, purpureum|adj|pourpre;violet|vetements|Imperator purpuream vestem gerit.|L'empereur porte un vêtement pourpre.
+fuscus||fusca, fuscum|adj|brun;foncé|vetements|Oculos fuscos habet.|Il a les yeux bruns.
+canus||cana, canum|adj|gris;blanc (cheveux)|vetements|Avus capillos canos habet.|Grand-père a les cheveux gris.
+elegans||elegantis|adj|élégant|vetements|Hodie elegans es.|Tu es élégant aujourd'hui.

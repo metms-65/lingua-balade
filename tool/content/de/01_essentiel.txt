@@ -1,0 +1,185 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+sein||war, ist gewesen|v|être|essentiel|Ich bin müde.|Je suis fatigué.
+haben||hatte, hat gehabt|v|avoir|essentiel|Wir haben Zeit.|Nous avons le temps.
+werden||wurde, ist geworden|v|devenir|essentiel|Es wird kalt.|Il commence à faire froid.
+können||konnte, hat gekonnt|v|pouvoir;savoir faire|essentiel|Kannst du mir helfen?|Peux-tu m'aider ?
+müssen||musste, hat gemusst|v|devoir;falloir|essentiel|Ich muss jetzt gehen.|Je dois partir maintenant.
+wollen||wollte, hat gewollt|v|vouloir|essentiel|Willst du mitkommen?|Tu veux venir avec nous ?
+sollen||sollte, hat gesollt|v|devoir (conseil, ordre)|essentiel|Was soll ich machen?|Que dois-je faire ?
+dürfen||durfte, hat gedurft|v|avoir le droit de|essentiel|Darf ich hier sitzen?|Puis-je m'asseoir ici ?
+mögen||mochte, hat gemocht|v|aimer bien|essentiel|Ich mag Kaffee.|J'aime bien le café.
+möchten||-|v|aimerais;voudrais|essentiel|Ich möchte ein Wasser.|Je voudrais une eau.
+machen||machte, hat gemacht|v|faire|essentiel|Was machst du heute?|Que fais-tu aujourd'hui ?
+gehen||ging, ist gegangen|v|aller (à pied);marcher|essentiel|Wir gehen nach Hause.|Nous rentrons à la maison.
+kommen||kam, ist gekommen|v|venir|essentiel|Woher kommst du?|D'où viens-tu ?
+sagen||sagte, hat gesagt|v|dire|essentiel|Was hast du gesagt?|Qu'as-tu dit ?
+geben||gab, hat gegeben|v|donner|essentiel|Gib mir bitte das Buch.|Donne-moi le livre, s'il te plaît.
+es gibt||-|v|il y a|essentiel|Hier gibt es ein Café.|Il y a un café ici.
+sehen||sah, hat gesehen|v|voir|essentiel|Ich sehe den Bus.|Je vois le bus.
+wissen||wusste, hat gewusst|v|savoir|essentiel|Ich weiß es nicht.|Je ne sais pas.
+nehmen||nahm, hat genommen|v|prendre|essentiel|Ich nehme den Zug.|Je prends le train.
+finden||fand, hat gefunden|v|trouver|essentiel|Ich finde meinen Schlüssel nicht.|Je ne trouve pas ma clé.
+denken||dachte, hat gedacht|v|penser|essentiel|Ich denke an dich.|Je pense à toi.
+bleiben||blieb, ist geblieben|v|rester|essentiel|Wir bleiben hier.|Nous restons ici.
+stehen||stand, hat gestanden|v|être debout;se trouver|essentiel|Das Auto steht vor dem Haus.|La voiture est devant la maison.
+liegen||lag, hat gelegen|v|être couché;se trouver|essentiel|Das Buch liegt auf dem Tisch.|Le livre est sur la table.
+lassen||ließ, hat gelassen|v|laisser|essentiel|Lass mich bitte in Ruhe.|Laisse-moi tranquille, s'il te plaît.
+heißen||hieß, hat geheißen|v|s'appeler|essentiel|Wie heißt du?|Comment t'appelles-tu ?
+tun||tat, hat getan|v|faire|essentiel|Das tut mir leid.|Je suis désolé.
+glauben||glaubte, hat geglaubt|v|croire|essentiel|Ich glaube dir.|Je te crois.
+brauchen||brauchte, hat gebraucht|v|avoir besoin de|essentiel|Ich brauche Hilfe.|J'ai besoin d'aide.
+kennen||kannte, hat gekannt|v|connaître|essentiel|Kennst du diesen Mann?|Connais-tu cet homme ?
+halten||hielt, hat gehalten|v|tenir;s'arrêter|essentiel|Der Bus hält hier.|Le bus s'arrête ici.
+zeigen||zeigte, hat gezeigt|v|montrer|essentiel|Zeig mir den Weg.|Montre-moi le chemin.
+bringen||brachte, hat gebracht|v|apporter|essentiel|Bringen Sie mir die Rechnung, bitte.|Apportez-moi l'addition, s'il vous plaît.
+fragen||fragte, hat gefragt|v|demander|essentiel|Darf ich etwas fragen?|Puis-je demander quelque chose ?
+antworten||antwortete, hat geantwortet|v|répondre|essentiel|Er antwortet nicht.|Il ne répond pas.
+leben||lebte, hat gelebt|v|vivre|essentiel|Ich lebe in Paris.|Je vis à Paris.
+wohnen||wohnte, hat gewohnt|v|habiter|essentiel|Wo wohnst du?|Où habites-tu ?
+setzen||setzte, hat gesetzt|v|poser;asseoir|essentiel|Setz dich bitte.|Assieds-toi, s'il te plaît.
+legen||legte, hat gelegt|v|poser (à plat)|essentiel|Leg das Handy weg.|Pose le téléphone.
+stellen||stellte, hat gestellt|v|poser (debout);placer|essentiel|Stell die Flasche in den Kühlschrank.|Mets la bouteille au frigo.
+beginnen||begann, hat begonnen|v|commencer|essentiel|Der Film beginnt um acht.|Le film commence à huit heures.
+anfangen||fing an, hat angefangen|v|commencer|essentiel|Wann fängst du an?|Quand commences-tu ?
+aufhören||hörte auf, hat aufgehört|v|arrêter;cesser|essentiel|Hör bitte auf!|Arrête, s'il te plaît !
+versuchen||versuchte, hat versucht|v|essayer|essentiel|Ich versuche es noch einmal.|J'essaie encore une fois.
+verstehen||verstand, hat verstanden|v|comprendre|essentiel|Ich verstehe dich nicht.|Je ne te comprends pas.
+helfen||half, hat geholfen|v|aider|essentiel|Kann ich Ihnen helfen?|Puis-je vous aider ?
+suchen||suchte, hat gesucht|v|chercher|essentiel|Ich suche den Bahnhof.|Je cherche la gare.
+warten||wartete, hat gewartet|v|attendre|essentiel|Warte auf mich!|Attends-moi !
+öffnen||öffnete, hat geöffnet|v|ouvrir|essentiel|Kannst du das Fenster öffnen?|Peux-tu ouvrir la fenêtre ?
+schließen||schloss, hat geschlossen|v|fermer|essentiel|Der Laden schließt um sechs.|Le magasin ferme à six heures.
+gefallen||gefiel, hat gefallen|v|plaire|essentiel|Die Stadt gefällt mir.|La ville me plaît.
+gehören||gehörte, hat gehört|v|appartenir|essentiel|Wem gehört die Tasche?|À qui est ce sac ?
+passieren||passierte, ist passiert|v|se passer;arriver|essentiel|Was ist passiert?|Que s'est-il passé ?
+ich||-|pron|je|essentiel|Ich bin Paul.|Je suis Paul.
+du||-|pron|tu|essentiel|Du bist nett.|Tu es gentil.
+er||-|pron|il|essentiel|Er ist mein Bruder.|C'est mon frère.
+sie||-|pron|elle;ils;elles|essentiel|Sie kommt morgen.|Elle vient demain.
+es||-|pron|il (neutre);ça|essentiel|Es regnet.|Il pleut.
+wir||-|pron|nous|essentiel|Wir sind Freunde.|Nous sommes amis.
+ihr||-|pron|vous (pluriel familier)|essentiel|Kommt ihr auch?|Vous venez aussi ?
+Sie||-|pron|vous (politesse)|essentiel|Sprechen Sie Französisch?|Parlez-vous français ?
+man||-|pron|on|essentiel|Hier darf man nicht rauchen.|On n'a pas le droit de fumer ici.
+mich||-|pron|me (accusatif)|essentiel|Ruf mich an!|Appelle-moi !
+mir||-|pron|me;à moi (datif)|essentiel|Gib mir das.|Donne-moi ça.
+dich||-|pron|te (accusatif)|essentiel|Ich liebe dich.|Je t'aime.
+dir||-|pron|te;à toi (datif)|essentiel|Wie geht es dir?|Comment vas-tu ?
+uns||-|pron|nous (complément)|essentiel|Besuch uns bald!|Viens nous voir bientôt !
+mein||-|det|mon;ma|essentiel|Das ist mein Auto.|C'est ma voiture.
+dein||-|det|ton;ta|essentiel|Ist das dein Hund?|C'est ton chien ?
+sein (possessif)||-|det|son;sa (à lui)|essentiel|Sein Haus ist groß.|Sa maison est grande.
+ihr (possessif)||-|det|son;sa (à elle);leur|essentiel|Ihre Tochter ist Ärztin.|Sa fille est médecin.
+unser||-|det|notre|essentiel|Unser Zug kommt.|Notre train arrive.
+dieser||-|det|ce;cet;celui-ci|essentiel|Dieser Stuhl ist frei.|Cette chaise est libre.
+alle||-|pron|tous;toutes|essentiel|Alle sind da.|Tout le monde est là.
+etwas||-|pron|quelque chose;un peu|essentiel|Möchtest du etwas trinken?|Veux-tu boire quelque chose ?
+nichts||-|pron|rien|essentiel|Ich habe nichts gesehen.|Je n'ai rien vu.
+jemand||-|pron|quelqu'un|essentiel|Ist jemand zu Hause?|Il y a quelqu'un à la maison ?
+niemand||-|pron|personne|essentiel|Niemand weiß es.|Personne ne le sait.
+kein||-|det|aucun;pas de|essentiel|Ich habe kein Geld.|Je n'ai pas d'argent.
+viel||-|adj|beaucoup|essentiel|Ich habe viel Arbeit.|J'ai beaucoup de travail.
+wenig||-|adj|peu|essentiel|Wir haben wenig Zeit.|Nous avons peu de temps.
+ja||-|intj|oui|essentiel|Ja, gern!|Oui, volontiers !
+nein||-|intj|non|essentiel|Nein, danke.|Non, merci.
+doch||-|adv|si (réponse);quand même|essentiel|Doch, ich komme mit!|Si, je viens !
+nicht||-|adv|ne... pas|essentiel|Ich rauche nicht.|Je ne fume pas.
+bitte||-|intj|s'il vous plaît;je vous en prie|essentiel|Einen Kaffee, bitte.|Un café, s'il vous plaît.
+danke||-|intj|merci|essentiel|Danke schön!|Merci beaucoup !
+hallo||-|intj|salut;bonjour|essentiel|Hallo, wie geht's?|Salut, ça va ?
+tschüss||-|intj|salut (au revoir)|essentiel|Tschüss, bis morgen!|Salut, à demain !
+Entschuldigung|die|Entschuldigungen|n|pardon;excuse|essentiel|Entschuldigung, wo ist die Toilette?|Pardon, où sont les toilettes ?
+und||-|conj|et|essentiel|Brot und Butter|du pain et du beurre
+oder||-|conj|ou|essentiel|Tee oder Kaffee?|Thé ou café ?
+aber||-|conj|mais|essentiel|Das ist schön, aber teuer.|C'est beau, mais cher.
+weil||-|conj|parce que|essentiel|Ich bleibe zu Hause, weil ich krank bin.|Je reste à la maison parce que je suis malade.
+dass||-|conj|que|essentiel|Ich weiß, dass du recht hast.|Je sais que tu as raison.
+wenn||-|conj|si;quand|essentiel|Wenn es regnet, bleibe ich hier.|S'il pleut, je reste ici.
+als||-|conj|quand (passé);que (comparaison)|essentiel|Er ist größer als ich.|Il est plus grand que moi.
+ob||-|conj|si (question indirecte)|essentiel|Weißt du, ob er kommt?|Sais-tu s'il vient ?
+denn||-|conj|car|essentiel|Ich gehe, denn es ist spät.|Je pars, car il est tard.
+auch||-|adv|aussi|essentiel|Ich komme auch.|Je viens aussi.
+nur||-|adv|seulement|essentiel|Ich habe nur fünf Euro.|Je n'ai que cinq euros.
+noch||-|adv|encore|essentiel|Noch ein Bier, bitte.|Encore une bière, s'il vous plaît.
+schon||-|adv|déjà|essentiel|Bist du schon fertig?|Tu as déjà fini ?
+sehr||-|adv|très|essentiel|Das ist sehr gut.|C'est très bien.
+so||-|adv|ainsi;si;tellement|essentiel|Das ist so schön!|C'est tellement beau !
+hier||-|adv|ici|essentiel|Ich warte hier.|J'attends ici.
+da||-|adv|là|essentiel|Da ist der Bahnhof.|Voilà la gare.
+dort||-|adv|là-bas|essentiel|Dort drüben ist ein Park.|Là-bas, il y a un parc.
+jetzt||-|adv|maintenant|essentiel|Ich habe jetzt keine Zeit.|Je n'ai pas le temps maintenant.
+dann||-|adv|ensuite;alors|essentiel|Und dann?|Et ensuite ?
+immer||-|adv|toujours|essentiel|Er ist immer pünktlich.|Il est toujours à l'heure.
+nie||-|adv|jamais|essentiel|Ich trinke nie Alkohol.|Je ne bois jamais d'alcool.
+oft||-|adv|souvent|essentiel|Wir gehen oft spazieren.|Nous nous promenons souvent.
+manchmal||-|adv|parfois|essentiel|Manchmal koche ich.|Parfois, je cuisine.
+wieder||-|adv|de nouveau|essentiel|Er ist wieder da.|Il est de retour.
+gern||-|adv|volontiers;aimer faire|essentiel|Ich lese gern.|J'aime lire.
+vielleicht||-|adv|peut-être|essentiel|Vielleicht komme ich morgen.|Je viendrai peut-être demain.
+wirklich||-|adv|vraiment|essentiel|Das ist wirklich gut.|C'est vraiment bon.
+natürlich||-|adv|naturellement;bien sûr|essentiel|Natürlich helfe ich dir.|Bien sûr que je t'aide.
+genau||-|adv|exactement|essentiel|Genau, das stimmt.|Exactement, c'est vrai.
+ganz||-|adv|tout à fait;entier|essentiel|Das ist ganz einfach.|C'est tout à fait simple.
+zusammen||-|adv|ensemble|essentiel|Wir essen zusammen.|Nous mangeons ensemble.
+allein||-|adv|seul|essentiel|Ich wohne allein.|J'habite seul.
+fast||-|adv|presque|essentiel|Ich bin fast fertig.|J'ai presque fini.
+etwa||-|adv|environ|essentiel|Das dauert etwa zehn Minuten.|Ça dure environ dix minutes.
+links||-|adv|à gauche|essentiel|Gehen Sie nach links.|Allez à gauche.
+rechts||-|adv|à droite|essentiel|Die Apotheke ist rechts.|La pharmacie est à droite.
+geradeaus||-|adv|tout droit|essentiel|Immer geradeaus!|Toujours tout droit !
+oben||-|adv|en haut|essentiel|Das Zimmer ist oben.|La chambre est en haut.
+unten||-|adv|en bas|essentiel|Ich warte unten.|J'attends en bas.
+draußen||-|adv|dehors|essentiel|Die Kinder spielen draußen.|Les enfants jouent dehors.
+wer||-|pron|qui|essentiel|Wer ist das?|Qui est-ce ?
+was||-|pron|quoi;que|essentiel|Was ist das?|Qu'est-ce que c'est ?
+wo||-|adv|où|essentiel|Wo bist du?|Où es-tu ?
+wohin||-|adv|où (direction)|essentiel|Wohin fährst du?|Où vas-tu ?
+woher||-|adv|d'où|essentiel|Woher kommen Sie?|D'où venez-vous ?
+wann||-|adv|quand|essentiel|Wann kommst du?|Quand viens-tu ?
+wie||-|adv|comment|essentiel|Wie geht es Ihnen?|Comment allez-vous ?
+warum||-|adv|pourquoi|essentiel|Warum lachst du?|Pourquoi ris-tu ?
+wie viel||-|adv|combien|essentiel|Wie viel kostet das?|Combien ça coûte ?
+welcher||-|det|quel;lequel|essentiel|Welcher Bus fährt zum Zentrum?|Quel bus va au centre ?
+in||-|prep|dans;en|essentiel|Ich bin in der Küche.|Je suis dans la cuisine.
+an||-|prep|à;contre;au bord de|essentiel|Das Bild hängt an der Wand.|Le tableau est accroché au mur.
+auf||-|prep|sur|essentiel|Die Katze liegt auf dem Sofa.|Le chat est couché sur le canapé.
+mit||-|prep|avec|essentiel|Ich komme mit dir.|Je viens avec toi.
+für||-|prep|pour|essentiel|Das ist für dich.|C'est pour toi.
+von||-|prep|de;par|essentiel|Ein Geschenk von meiner Mutter.|Un cadeau de ma mère.
+zu||-|prep|chez;à;vers|essentiel|Ich gehe zum Arzt.|Je vais chez le médecin.
+bei||-|prep|chez;près de|essentiel|Ich wohne bei meinen Eltern.|J'habite chez mes parents.
+nach||-|prep|après;vers (lieu)|essentiel|Nach dem Essen gehen wir spazieren.|Après le repas, nous allons nous promener.
+aus||-|prep|de;hors de|essentiel|Ich komme aus Frankreich.|Je viens de France.
+ohne||-|prep|sans|essentiel|Kaffee ohne Zucker, bitte.|Un café sans sucre, s'il vous plaît.
+über||-|prep|au-dessus de;sur (sujet)|essentiel|Wir sprechen über das Wetter.|Nous parlons du temps qu'il fait.
+unter||-|prep|sous|essentiel|Der Hund schläft unter dem Tisch.|Le chien dort sous la table.
+vor||-|prep|devant;avant;il y a|essentiel|Ich warte vor dem Kino.|J'attends devant le cinéma.
+hinter||-|prep|derrière|essentiel|Der Garten ist hinter dem Haus.|Le jardin est derrière la maison.
+neben||-|prep|à côté de|essentiel|Setz dich neben mich.|Assieds-toi à côté de moi.
+zwischen||-|prep|entre|essentiel|Zwischen den Bäumen steht eine Bank.|Il y a un banc entre les arbres.
+bis||-|prep|jusqu'à|essentiel|Bis morgen!|À demain !
+seit||-|prep|depuis|essentiel|Ich lerne seit einem Jahr Deutsch.|J'apprends l'allemand depuis un an.
+gegen||-|prep|contre;vers (heure)|essentiel|Ich komme gegen acht Uhr.|Je viens vers huit heures.
+durch||-|prep|à travers;par|essentiel|Wir gehen durch den Park.|Nous traversons le parc.
+um||-|prep|à (heure);autour de|essentiel|Der Kurs beginnt um neun.|Le cours commence à neuf heures.
+gut||besser, am besten|adj|bon;bien|essentiel|Das Essen ist gut.|Le repas est bon.
+schlecht||-|adj|mauvais;mal|essentiel|Das Wetter ist schlecht.|Il fait mauvais.
+groß||größer, am größten|adj|grand|essentiel|Das Haus ist groß.|La maison est grande.
+klein||-|adj|petit|essentiel|Mein Zimmer ist klein.|Ma chambre est petite.
+neu||-|adj|nouveau;neuf|essentiel|Ich habe ein neues Handy.|J'ai un nouveau téléphone.
+alt||älter, am ältesten|adj|vieux;âgé|essentiel|Wie alt bist du?|Quel âge as-tu ?
+jung||jünger, am jüngsten|adj|jeune|essentiel|Sie ist noch jung.|Elle est encore jeune.
+lang||länger, am längsten|adj|long|essentiel|Der Weg ist lang.|Le chemin est long.
+kurz||kürzer, am kürzesten|adj|court|essentiel|Die Pause ist kurz.|La pause est courte.
+richtig||-|adj|juste;correct|essentiel|Das ist richtig.|C'est juste.
+falsch||-|adj|faux|essentiel|Die Antwort ist falsch.|La réponse est fausse.
+einfach||-|adj|simple;facile|essentiel|Das ist ganz einfach.|C'est très simple.
+schwer||-|adj|lourd;difficile|essentiel|Die Tasche ist schwer.|Le sac est lourd.
+leicht||-|adj|léger;facile|essentiel|Die Übung ist leicht.|L'exercice est facile.
+schön||-|adj|beau;joli|essentiel|Was für ein schöner Tag!|Quelle belle journée !
+wichtig||-|adj|important|essentiel|Das ist sehr wichtig.|C'est très important.
+möglich||-|adj|possible|essentiel|Ist das möglich?|Est-ce possible ?
+fertig||-|adj|prêt;fini|essentiel|Das Essen ist fertig.|Le repas est prêt.
+frei||-|adj|libre|essentiel|Ist der Platz frei?|La place est libre ?
+anderer||-|adj|autre|essentiel|Ich nehme die andere Tasche.|Je prends l'autre sac.
+gleich||-|adv|tout de suite;pareil|essentiel|Ich komme gleich.|J'arrive tout de suite.

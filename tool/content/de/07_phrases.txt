@@ -1,0 +1,106 @@
+# IMPORTANT : les identifiants des mots (de_0001…) suivent l'ordre des fichiers et des lignes.
+# Ajouter du contenu seulement dans un NOUVEAU fichier en fin d'ordre alphabétique, sinon la progression
+# des utilisateurs serait attachée aux mauvais mots.
+# Phrases toutes faites : la phrase est le « mot », l'exemple est une petite réplique en contexte.
+# mot|article|formes|nature|traductions (;)|situation|exemple DE|exemple FR
+Guten Morgen!||-|phr|Bonjour ! (le matin)|phrases|Guten Morgen! Gut geschlafen?|Bonjour ! Bien dormi ?
+Wie geht es dir?||-|phr|Comment vas-tu ?|phrases|Hallo Anna, wie geht es dir?|Salut Anna, comment vas-tu ?
+Wie geht es Ihnen?||-|phr|Comment allez-vous ?|phrases|Guten Tag, Frau Weber, wie geht es Ihnen?|Bonjour Madame Weber, comment allez-vous ?
+Mir geht es gut, danke.||-|phr|Je vais bien, merci.|phrases|Mir geht es gut, danke. Und dir?|Je vais bien, merci. Et toi ?
+Und dir?||-|phr|Et toi ?|phrases|Gut, danke. Und dir?|Bien, merci. Et toi ?
+Ich heiße …||-|phr|Je m'appelle…|phrases|Ich heiße Michel. Und du?|Je m'appelle Michel. Et toi ?
+Freut mich!||-|phr|Enchanté !|phrases|Ich bin Paul. – Freut mich!|Je suis Paul. – Enchanté !
+Ich komme aus Frankreich.||-|phr|Je viens de France.|phrases|Ich komme aus Frankreich, aus Lyon.|Je viens de France, de Lyon.
+Ich lerne Deutsch.||-|phr|J'apprends l'allemand.|phrases|Ich lerne Deutsch, seit einem Jahr.|J'apprends l'allemand depuis un an.
+Ich spreche ein bisschen Deutsch.||-|phr|Je parle un peu allemand.|phrases|Entschuldigung, ich spreche nur ein bisschen Deutsch.|Pardon, je ne parle qu'un peu allemand.
+Sprechen Sie Französisch?||-|phr|Parlez-vous français ?|phrases|Entschuldigung, sprechen Sie Französisch?|Pardon, parlez-vous français ?
+Ich verstehe nicht.||-|phr|Je ne comprends pas.|phrases|Tut mir leid, ich verstehe nicht.|Désolé, je ne comprends pas.
+Können Sie das bitte wiederholen?||-|phr|Pouvez-vous répéter, s'il vous plaît ?|phrases|Können Sie das bitte wiederholen? Langsamer, bitte.|Pouvez-vous répéter ? Plus lentement, s'il vous plaît.
+Langsamer, bitte.||-|phr|Plus lentement, s'il vous plaît.|phrases|Sie sprechen zu schnell. Langsamer, bitte.|Vous parlez trop vite. Plus lentement, s'il vous plaît.
+Was bedeutet das?||-|phr|Qu'est-ce que ça veut dire ?|phrases|„Feierabend“? Was bedeutet das?|« Feierabend » ? Qu'est-ce que ça veut dire ?
+Wie sagt man … auf Deutsch?||-|phr|Comment dit-on… en allemand ?|phrases|Wie sagt man „parapluie“ auf Deutsch?|Comment dit-on « parapluie » en allemand ?
+Können Sie mir helfen?||-|phr|Pouvez-vous m'aider ?|phrases|Entschuldigung, können Sie mir helfen?|Pardon, pouvez-vous m'aider ?
+Entschuldigung!||-|phr|Pardon ! Excusez-moi !|phrases|Entschuldigung, ist der Platz frei?|Excusez-moi, la place est libre ?
+Es tut mir leid.||-|phr|Je suis désolé.|phrases|Es tut mir leid, ich bin zu spät.|Je suis désolé, je suis en retard.
+Kein Problem!||-|phr|Pas de problème !|phrases|Danke! – Kein Problem!|Merci ! – Pas de problème !
+Vielen Dank!||-|phr|Merci beaucoup !|phrases|Vielen Dank für Ihre Hilfe!|Merci beaucoup pour votre aide !
+Gern geschehen.||-|phr|Je vous en prie. De rien.|phrases|Danke schön! – Gern geschehen.|Merci beaucoup ! – Je vous en prie.
+Bitte schön.||-|phr|Voilà. Je vous en prie.|phrases|Ihr Kaffee, bitte schön.|Votre café, voilà.
+Alles klar!||-|phr|D'accord ! Compris !|phrases|Wir treffen uns um acht. – Alles klar!|On se retrouve à huit heures. – D'accord !
+Einverstanden.||-|phr|D'accord. Entendu.|phrases|Morgen um zehn? – Einverstanden.|Demain à dix heures ? – D'accord.
+Das ist eine gute Idee.||-|phr|C'est une bonne idée.|phrases|Gehen wir ins Kino? – Das ist eine gute Idee!|On va au cinéma ? – Bonne idée !
+Ich weiß nicht.||-|phr|Je ne sais pas.|phrases|Wo ist der Bahnhof? – Ich weiß nicht.|Où est la gare ? – Je ne sais pas.
+Keine Ahnung.||-|phr|Aucune idée.|phrases|Wann kommt der Bus? – Keine Ahnung.|Quand arrive le bus ? – Aucune idée.
+Ich glaube schon.||-|phr|Je crois que oui.|phrases|Ist das Museum heute offen? – Ich glaube schon.|Le musée est ouvert aujourd'hui ? – Je crois que oui.
+Wirklich?||-|phr|Vraiment ?|phrases|Ich habe im Lotto gewonnen! – Wirklich?|J'ai gagné au loto ! – Vraiment ?
+Das ist schade.||-|phr|C'est dommage.|phrases|Ich kann nicht kommen. – Das ist schade!|Je ne peux pas venir. – C'est dommage !
+Das macht nichts.||-|phr|Ce n'est pas grave.|phrases|Ich habe dein Glas kaputt gemacht. – Das macht nichts.|J'ai cassé ton verre. – Ce n'est pas grave.
+Viel Spaß!||-|phr|Amuse-toi bien !|phrases|Ich gehe heute zum Konzert. – Viel Spaß!|Je vais au concert ce soir. – Amuse-toi bien !
+Gute Besserung!||-|phr|Bon rétablissement !|phrases|Ich bin krank. – Oh, gute Besserung!|Je suis malade. – Oh, bon rétablissement !
+Herzlichen Glückwunsch!||-|phr|Félicitations !|phrases|Herzlichen Glückwunsch zum Geburtstag!|Joyeux anniversaire !
+Schönen Tag noch!||-|phr|Bonne journée !|phrases|Danke und schönen Tag noch!|Merci et bonne journée !
+Bis später!||-|phr|À plus tard !|phrases|Ich gehe jetzt. Bis später!|Je pars. À plus tard !
+Auf Wiedersehen!||-|phr|Au revoir !|phrases|Vielen Dank, auf Wiedersehen!|Merci beaucoup, au revoir !
+Wo ist die Toilette?||-|phr|Où sont les toilettes ?|phrases|Entschuldigung, wo ist die Toilette?|Pardon, où sont les toilettes ?
+Wie komme ich zum Bahnhof?||-|phr|Comment aller à la gare ?|phrases|Entschuldigung, wie komme ich zum Bahnhof?|Pardon, comment aller à la gare ?
+Ist es weit von hier?||-|phr|C'est loin d'ici ?|phrases|Das Museum – ist es weit von hier?|Le musée, c'est loin d'ici ?
+Gehen Sie geradeaus.||-|phr|Allez tout droit.|phrases|Gehen Sie geradeaus und dann links.|Allez tout droit, puis à gauche.
+Ich habe mich verlaufen.||-|phr|Je me suis perdu.|phrases|Entschuldigung, ich habe mich verlaufen.|Pardon, je me suis perdu.
+Wann fährt der nächste Zug nach …?||-|phr|Quand part le prochain train pour… ?|phrases|Wann fährt der nächste Zug nach Köln?|Quand part le prochain train pour Cologne ?
+Eine Fahrkarte nach …, bitte.||-|phr|Un billet pour…, s'il vous plaît.|phrases|Eine Fahrkarte nach Berlin, bitte. Hin und zurück.|Un billet pour Berlin, s'il vous plaît. Aller-retour.
+Ist dieser Platz frei?||-|phr|Cette place est-elle libre ?|phrases|Entschuldigung, ist dieser Platz frei?|Excusez-moi, cette place est libre ?
+Wo muss ich aussteigen?||-|phr|Où dois-je descendre ?|phrases|Ich will zum Museum. Wo muss ich aussteigen?|Je veux aller au musée. Où dois-je descendre ?
+Einen Tisch für zwei, bitte.||-|phr|Une table pour deux, s'il vous plaît.|phrases|Guten Abend! Einen Tisch für zwei, bitte.|Bonsoir ! Une table pour deux, s'il vous plaît.
+Die Speisekarte, bitte.||-|phr|La carte, s'il vous plaît.|phrases|Entschuldigung, die Speisekarte, bitte.|Excusez-moi, la carte, s'il vous plaît.
+Was können Sie empfehlen?||-|phr|Que me conseillez-vous ?|phrases|Ich weiß nicht, was ich nehme. Was können Sie empfehlen?|Je ne sais pas quoi prendre. Que me conseillez-vous ?
+Ich hätte gern …||-|phr|Je voudrais…|phrases|Ich hätte gern ein Schnitzel mit Salat.|Je voudrais une escalope avec de la salade.
+Ich nehme …||-|phr|Je prends…|phrases|Ich nehme die Suppe, bitte.|Je prends la soupe, s'il vous plaît.
+Noch ein Bier, bitte.||-|phr|Encore une bière, s'il vous plaît.|phrases|Das war lecker. Noch ein Bier, bitte.|C'était délicieux. Encore une bière, s'il vous plaît.
+Die Rechnung, bitte.||-|phr|L'addition, s'il vous plaît.|phrases|Wir möchten zahlen. Die Rechnung, bitte.|Nous voudrions payer. L'addition, s'il vous plaît.
+Zusammen oder getrennt?||-|phr|Ensemble ou séparément ?|phrases|Zahlen Sie zusammen oder getrennt?|Vous payez ensemble ou séparément ?
+Stimmt so.||-|phr|Gardez la monnaie.|phrases|Das macht 18 Euro. – Hier sind 20. Stimmt so.|Ça fait 18 euros. – Voici 20, gardez la monnaie.
+Es hat sehr gut geschmeckt.||-|phr|C'était très bon.|phrases|Danke, es hat sehr gut geschmeckt!|Merci, c'était très bon !
+Ich bin Vegetarier.||-|phr|Je suis végétarien.|phrases|Ich esse kein Fleisch, ich bin Vegetarier.|Je ne mange pas de viande, je suis végétarien.
+Ich bin allergisch gegen …||-|phr|Je suis allergique à…|phrases|Ich bin allergisch gegen Nüsse.|Je suis allergique aux noix.
+Was kostet das?||-|phr|Combien ça coûte ?|phrases|Die Jacke ist schön. Was kostet das?|La veste est belle. Combien ça coûte ?
+Kann ich mit Karte zahlen?||-|phr|Puis-je payer par carte ?|phrases|Kann ich mit Karte zahlen, oder nur bar?|Puis-je payer par carte, ou seulement en espèces ?
+Ich schaue nur.||-|phr|Je regarde seulement.|phrases|Kann ich Ihnen helfen? – Danke, ich schaue nur.|Je peux vous aider ? – Merci, je regarde seulement.
+Haben Sie das in einer anderen Größe?||-|phr|L'avez-vous dans une autre taille ?|phrases|Die Hose ist zu klein. Haben Sie das in einer anderen Größe?|Le pantalon est trop petit. L'avez-vous dans une autre taille ?
+Das ist zu teuer.||-|phr|C'est trop cher.|phrases|Hundert Euro? Das ist zu teuer.|Cent euros ? C'est trop cher.
+Ich nehme es.||-|phr|Je le prends.|phrases|Gut, ich nehme es.|Bien, je le prends.
+Haben Sie ein Zimmer frei?||-|phr|Avez-vous une chambre libre ?|phrases|Guten Abend, haben Sie ein Zimmer frei?|Bonsoir, avez-vous une chambre libre ?
+Ich habe reserviert.||-|phr|J'ai réservé.|phrases|Guten Tag, ich habe reserviert, auf den Namen Martin.|Bonjour, j'ai réservé, au nom de Martin.
+Um wie viel Uhr ist das Frühstück?||-|phr|À quelle heure est le petit-déjeuner ?|phrases|Um wie viel Uhr ist das Frühstück morgen?|À quelle heure est le petit-déjeuner demain ?
+Wie ist das WLAN-Passwort?||-|phr|Quel est le mot de passe du wifi ?|phrases|Entschuldigung, wie ist das WLAN-Passwort?|Pardon, quel est le mot de passe du wifi ?
+Wie spät ist es?||-|phr|Quelle heure est-il ?|phrases|Entschuldigung, wie spät ist es?|Pardon, quelle heure est-il ?
+Wann treffen wir uns?||-|phr|Quand se retrouve-t-on ?|phrases|Wann treffen wir uns morgen?|Quand se retrouve-t-on demain ?
+Hast du Zeit?||-|phr|Tu as le temps ?|phrases|Hast du heute Abend Zeit?|Tu as le temps ce soir ?
+Ich habe keine Zeit.||-|phr|Je n'ai pas le temps.|phrases|Heute habe ich keine Zeit, vielleicht morgen.|Aujourd'hui je n'ai pas le temps, peut-être demain.
+Hast du Lust, … ?||-|phr|Tu as envie de… ?|phrases|Hast du Lust, ins Kino zu gehen?|Tu as envie d'aller au cinéma ?
+Gern!||-|phr|Volontiers !|phrases|Möchtest du mitkommen? – Gern!|Tu veux venir ? – Volontiers !
+Leider nicht.||-|phr|Malheureusement non.|phrases|Kannst du morgen? – Leider nicht.|Tu peux demain ? – Malheureusement non.
+Ich bin müde.||-|phr|Je suis fatigué.|phrases|Ich bin müde, ich gehe schlafen.|Je suis fatigué, je vais me coucher.
+Ich habe Hunger.||-|phr|J'ai faim.|phrases|Ich habe Hunger. Essen wir etwas?|J'ai faim. On mange quelque chose ?
+Ich habe Durst.||-|phr|J'ai soif.|phrases|Ich habe Durst. Gibt es Wasser?|J'ai soif. Il y a de l'eau ?
+Mir ist kalt.||-|phr|J'ai froid.|phrases|Mir ist kalt. Kannst du das Fenster schließen?|J'ai froid. Tu peux fermer la fenêtre ?
+Mir ist schlecht.||-|phr|J'ai mal au cœur. Je me sens mal.|phrases|Mir ist schlecht, ich muss mich setzen.|Je me sens mal, il faut que je m'assoie.
+Ich brauche einen Arzt.||-|phr|J'ai besoin d'un médecin.|phrases|Bitte helfen Sie mir, ich brauche einen Arzt.|Aidez-moi, s'il vous plaît, j'ai besoin d'un médecin.
+Rufen Sie einen Krankenwagen!||-|phr|Appelez une ambulance !|phrases|Schnell, rufen Sie einen Krankenwagen!|Vite, appelez une ambulance !
+Hilfe!||-|phr|Au secours !|phrases|Hilfe! Mein Hund ist weg!|Au secours ! Mon chien a disparu !
+Wie war dein Tag?||-|phr|Comment s'est passée ta journée ?|phrases|Hallo! Wie war dein Tag?|Salut ! Comment s'est passée ta journée ?
+Was machst du beruflich?||-|phr|Que fais-tu dans la vie ?|phrases|Und du, was machst du beruflich?|Et toi, que fais-tu dans la vie ?
+Was machst du am Wochenende?||-|phr|Que fais-tu ce week-end ?|phrases|Was machst du am Wochenende? Hast du Pläne?|Que fais-tu ce week-end ? Tu as des projets ?
+Das gefällt mir.||-|phr|Ça me plaît.|phrases|Die Stadt ist schön, das gefällt mir.|La ville est belle, ça me plaît.
+Das gefällt mir nicht.||-|phr|Ça ne me plaît pas.|phrases|Der Film ist zu lang, das gefällt mir nicht.|Le film est trop long, ça ne me plaît pas.
+Ich finde das interessant.||-|phr|Je trouve ça intéressant.|phrases|Erzähl weiter, ich finde das interessant!|Continue, je trouve ça intéressant !
+Meiner Meinung nach …||-|phr|À mon avis…|phrases|Meiner Meinung nach ist das eine gute Idee.|À mon avis, c'est une bonne idée.
+Da hast du recht.||-|phr|Tu as raison.|phrases|Es ist zu spät. – Da hast du recht.|Il est trop tard. – Tu as raison.
+Das stimmt nicht.||-|phr|Ce n'est pas vrai.|phrases|Du bist immer zu spät! – Das stimmt nicht!|Tu es toujours en retard ! – Ce n'est pas vrai !
+Moment, bitte.||-|phr|Un instant, s'il vous plaît.|phrases|Moment, bitte, ich suche meinen Schlüssel.|Un instant, je cherche ma clé.
+Macht nichts, ich warte.||-|phr|Ce n'est rien, j'attends.|phrases|Es dauert noch zehn Minuten. – Macht nichts, ich warte.|Il faut encore dix minutes. – Ce n'est rien, j'attends.
+Pass auf!||-|phr|Attention ! Fais attention !|phrases|Pass auf, das Auto!|Attention, la voiture !
+Los geht's!||-|phr|C'est parti !|phrases|Alle sind da? Los geht's!|Tout le monde est là ? C'est parti !
+Prost!||-|phr|Santé ! (en trinquant)|phrases|Auf unsere Freundschaft – prost!|À notre amitié – santé !
+Guten Appetit!||-|phr|Bon appétit !|phrases|Das Essen ist fertig. Guten Appetit!|Le repas est prêt. Bon appétit !
+Gute Reise!||-|phr|Bon voyage !|phrases|Du fliegst morgen? Gute Reise!|Tu prends l'avion demain ? Bon voyage !
+Schlaf gut!||-|phr|Dors bien !|phrases|Gute Nacht und schlaf gut!|Bonne nuit et dors bien !

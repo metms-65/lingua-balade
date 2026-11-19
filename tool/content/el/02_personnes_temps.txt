@@ -1,0 +1,119 @@
+# mot|article|formes|nature|traductions (;)|situation|exemple|exemple FR|transcription|transcription exemple
+άνθρωπος|ο|άνθρωποι|n|être humain;personne|personnes|Είναι καλός άνθρωπος.|C'est quelqu'un de bien.|ánthropos|íne kalós ánthropos.
+άντρας|ο|άντρες|n|homme;mari|personnes|Ο άντρας φοράει καπέλο.|L'homme porte un chapeau.|ándras|o ándras forái kapélo.
+γυναίκα|η|γυναίκες|n|femme;épouse|personnes|Η γυναίκα διαβάζει.|La femme lit.|ginéka|i ginéka diavázi.
+παιδί|το|παιδιά|n|enfant|personnes|Το παιδί παίζει στον κήπο.|L'enfant joue dans le jardin.|pedí|to pedí pézi ston kípo.
+οικογένεια|η|οικογένειες|n|famille|personnes|Η οικογένειά μου μένει στη Λυών.|Ma famille habite à Lyon.|ikogénia|i ikogéniá mu méni sti lión.
+γονείς|οι|-|n|parents|personnes|Οι γονείς μου είναι σε διακοπές.|Mes parents sont en vacances.|gonís|i gonís mu íne se diakopés.
+πατέρας|ο|πατέρες|n|père|personnes|Ο πατέρας μου μαγειρεύει.|Mon père cuisine.|patéras|o patéras mu magirévi.
+μητέρα|η|μητέρες|n|mère|personnes|Η μητέρα μου είναι δασκάλα.|Ma mère est institutrice.|mitéra|i mitéra mu íne daskála.
+γιος|ο|γιοι|n|fils|personnes|Ο γιος μας είναι δέκα χρονών.|Notre fils a dix ans.|gios|o gios mas íne déka hronón.
+κόρη|η|κόρες|n|fille (enfant)|personnes|Η κόρη της σπουδάζει ιατρική.|Sa fille fait médecine.|kóri|i kóri tis spudázi iatrikí.
+αδερφός|ο|αδερφοί|n|frère|personnes|Έχω έναν αδερφό.|J'ai un frère.|aderfós|ého énan aderfó.
+αδερφή|η|αδερφές|n|sœur|personnes|Η αδερφή μου μένει στην Αθήνα.|Ma sœur habite à Athènes.|aderfí|i aderfí mu méni stin athína.
+παππούς|ο|παππούδες|n|grand-père|personnes|Ο παππούς λέει μια ιστορία.|Grand-père raconte une histoire.|papús|o papús léi mia istoría.
+γιαγιά|η|γιαγιάδες|n|grand-mère|personnes|Η γιαγιά φτιάχνει γλυκό.|Grand-mère fait un gâteau.|giagiá|i giagiá ftiáhni glikó.
+θείος|ο|θείοι|n|oncle|personnes|Ο θείος μου μένει στο χωριό.|Mon oncle habite au village.|thíos|o thíos mu méni sto horió.
+θεία|η|θείες|n|tante|personnes|Η θεία μου είναι πολύ αστεία.|Ma tante est très drôle.|thía|i thía mu íne polí astía.
+φίλος|ο|φίλοι|n|ami|personnes|Αυτός είναι ο φίλος μου ο Γιάννης.|C'est mon ami Yannis.|fílos|aftós íne o fílos mu o giánis.
+φίλη|η|φίλες|n|amie|personnes|Η φίλη μου λέγεται Μαρία.|Mon amie s'appelle Maria.|fíli|i fíli mu légete maría.
+γείτονας|ο|γείτονες|n|voisin|personnes|Ο γείτονάς μας είναι πολύ ευγενικός.|Notre voisin est très aimable.|gítonas|o gítonás mas íne polí evgenikós.
+μωρό|το|μωρά|n|bébé|personnes|Το μωρό κοιμάται.|Le bébé dort.|moró|to moró kimáte.
+αγόρι|το|αγόρια|n|garçon|personnes|Το αγόρι παίζει μπάλα.|Le garçon joue au ballon.|agóri|to agóri pézi bála.
+κορίτσι|το|κορίτσια|n|fille (jeune)|personnes|Το κορίτσι τραγουδάει.|La fille chante.|korítsi|to korítsi tragudái.
+κύριος|ο|κύριοι|n|monsieur|personnes|Καλημέρα, κύριε Νίκο!|Bonjour, monsieur Nikos !|kírios|kaliméra, kírie níko!
+κυρία|η|κυρίες|n|madame|personnes|Καλησπέρα, κυρία Ελένη.|Bonsoir, madame Hélène.|kiría|kalispéra, kiría eléni.
+όνομα|το|ονόματα|n|nom;prénom|personnes|Ποιο είναι το όνομά σας;|Quel est votre nom ?|ónoma|pio íne to ónomá sas?
+γενέθλια|τα|-|n|anniversaire|personnes|Χρόνια πολλά για τα γενέθλιά σου!|Joyeux anniversaire !|genéthlia|hrónia polá gia ta genéthliá su!
+γάμος|ο|γάμοι|n|mariage|personnes|Ο γάμος είναι τον Ιούνιο.|Le mariage est en juin.|gámos|o gámos íne ton iúnio.
+παντρεμένος||-|adj|marié|personnes|Είσαι παντρεμένος;|Tu es marié ?|pandreménos|íse pandreménos?
+επισκέπτομαι||επισκέφτηκα|v|rendre visite;visiter|personnes|Επισκέπτομαι τους γονείς μου.|Je rends visite à mes parents.|episképtome|episképtome tus gonís mu.
+συναντάω||συνάντησα|v|rencontrer;retrouver|personnes|Συναντιόμαστε στον σταθμό.|On se retrouve à la gare.|sinandáo|sinandiómaste ston stathmó.
+χώρα|η|χώρες|n|pays|personnes|Η Ελλάδα είναι όμορφη χώρα.|La Grèce est un beau pays.|hóra|i eláda íne ómorfi hóra.
+Ελλάδα|η|-|n|Grèce|personnes|Πάω στην Ελλάδα το καλοκαίρι.|Je vais en Grèce l'été.|eláda|páo stin eláda to kalokéri.
+Γαλλία|η|-|n|France|personnes|Είμαι από τη Γαλλία.|Je viens de France.|galía|íme apó ti galía.
+ελληνικά|τα|-|n|grec (langue)|personnes|Μαθαίνω ελληνικά.|J'apprends le grec.|eliniká|mathéno eliniká.
+γαλλικά|τα|-|n|français (langue)|personnes|Μιλάτε γαλλικά;|Parlez-vous français ?|galiká|miláte galiká?
+γλώσσα|η|γλώσσες|n|langue|personnes|Πόσες γλώσσες μιλάς;|Combien de langues parles-tu ?|glósa|póses glóses milás?
+χαρούμενος||-|adj|content;joyeux|sentiments|Είμαι χαρούμενος που είσαι εδώ.|Je suis content que tu sois là.|harúmenos|íme harúmenos pu íse edó.
+λυπημένος||-|adj|triste|sentiments|Γιατί είσαι λυπημένος;|Pourquoi es-tu triste ?|lipiménos|giatí íse lipiménos?
+κουρασμένος||-|adj|fatigué|sentiments|Είμαι πολύ κουρασμένος.|Je suis très fatigué.|kurasménos|íme polí kurasménos.
+ευγενικός||-|adj|aimable;poli|sentiments|Η πωλήτρια είναι ευγενική.|La vendeuse est aimable.|evgenikós|i polítria íne evgenikí.
+αστείος||-|adj|drôle|sentiments|Η ταινία είναι αστεία.|Le film est drôle.|astíos|i tenía íne astía.
+ήσυχος||-|adj|calme;tranquille|sentiments|Εδώ είναι πολύ ήσυχα.|C'est très calme ici.|ísihos|edó íne polí ísiha.
+φόβος|ο|φόβοι|n|peur|sentiments|Φοβάμαι τα σκυλιά.|J'ai peur des chiens.|fóvos|fováme ta skiliá.
+χαρά|η|χαρές|n|joie|sentiments|Με χαρά!|Avec plaisir !|hará|me hará!
+γελάω||γέλασα|v|rire|sentiments|Γελάμε πολύ μαζί.|Nous rions beaucoup ensemble.|geláo|geláme polí mazí.
+κλαίω||έκλαψα|v|pleurer|sentiments|Το μωρό κλαίει.|Le bébé pleure.|kléo|to moró kléi.
+ελπίζω||ήλπισα|v|espérer|sentiments|Ελπίζω να είσαι καλά.|J'espère que tu vas bien.|elpízo|elpízo na íse kalá.
+ενδιαφέρον||-|adj|intéressant|sentiments|Το βιβλίο είναι ενδιαφέρον.|Le livre est intéressant.|endiaféron|to vivlío íne endiaféron.
+βαρετός||-|adj|ennuyeux|sentiments|Η ταινία ήταν βαρετή.|Le film était ennuyeux.|varetós|i tenía ítan varetí.
+τέλειος||-|adj|parfait|sentiments|Τέλεια!|Parfait !|télios|télia!
+πρόβλημα|το|προβλήματα|n|problème|sentiments|Κανένα πρόβλημα!|Pas de problème !|próvlima|kanéna próvlima!
+ιδέα|η|ιδέες|n|idée|sentiments|Καλή ιδέα!|Bonne idée !|idéa|kalí idéa!
+λέξη|η|λέξεις|n|mot|communication|Δεν ξέρω αυτή τη λέξη.|Je ne connais pas ce mot.|léksi|den kséro aftí ti léksi.
+φράση|η|φράσεις|n|phrase|communication|Πες τη φράση ξανά.|Redis la phrase.|frási|pes ti frási ksaná.
+ερώτηση|η|ερωτήσεις|n|question|communication|Έχω μια ερώτηση.|J'ai une question.|erótisi|ého mia erótisi.
+απάντηση|η|απαντήσεις|n|réponse|communication|Ευχαριστώ για την απάντηση.|Merci pour la réponse.|apándisi|efharistó gia tin apándisi.
+μήνυμα|το|μηνύματα|n|message|communication|Πήρα το μήνυμά σου.|J'ai reçu ton message.|mínima|píra to mínimá su.
+κινητό|το|κινητά|n|téléphone portable|communication|Το κινητό μου δεν έχει μπαταρία.|Mon portable n'a plus de batterie.|kinitó|to kinitó mu den éhi bataría.
+τηλέφωνο|το|τηλέφωνα|n|téléphone|communication|Το τηλέφωνο χτυπάει.|Le téléphone sonne.|tiléfono|to tiléfono htipái.
+τηλεφωνώ||τηλεφώνησα|v|téléphoner|communication|Θα σου τηλεφωνήσω αύριο.|Je t'appellerai demain.|tilefonó|tha su tilefoníso ávrio.
+μαθαίνω||έμαθα|v|apprendre|communication|Μαθαίνω ελληνικά κάθε μέρα.|J'apprends le grec tous les jours.|mathéno|mathéno eliniká káthe méra.
+εξηγώ||εξήγησα|v|expliquer|communication|Μπορείς να μου το εξηγήσεις;|Peux-tu me l'expliquer ?|eksigó|borís na mu to eksigísis?
+επαναλαμβάνω||επανέλαβα|v|répéter|communication|Μπορείτε να το επαναλάβετε;|Pouvez-vous répéter ?|epanalamváno|boríte na to epanaláveti?
+σημαίνει||-|v|ça signifie|communication|Τι σημαίνει αυτή η λέξη;|Que signifie ce mot ?|siméni|ti siméni aftí i léksi?
+ώρα|η|ώρες|n|heure|temps|Τι ώρα είναι;|Quelle heure est-il ?|óra|ti óra íne?
+χρόνος|ο|χρόνια|n|temps;année|temps|Δεν έχω χρόνο.|Je n'ai pas le temps.|hrónos|den ého hróno.
+λεπτό|το|λεπτά|n|minute|temps|Περίμενε πέντε λεπτά.|Attends cinq minutes.|leptó|periméne pénde leptá.
+μέρα|η|μέρες|n|jour;journée|temps|Καλή μέρα!|Bonne journée !|méra|kalí méra!
+εβδομάδα|η|εβδομάδες|n|semaine|temps|Την επόμενη εβδομάδα έχω άδεια.|La semaine prochaine, je suis en congé.|evdomáda|tin epómeni evdomáda ého ádia.
+μήνας|ο|μήνες|n|mois|temps|Μένω έναν μήνα.|Je reste un mois.|mínas|méno énan mína.
+πρωί|το|πρωινά|n|matin|temps|Καλημέρα! Ξύπνησα νωρίς το πρωί.|Bonjour ! Je me suis levé tôt ce matin.|proí|kaliméra! ksípnisa norís to proí.
+μεσημέρι|το|μεσημέρια|n|midi|temps|Τρώμε το μεσημέρι.|Nous mangeons à midi.|mesiméri|tróme to mesiméri.
+απόγευμα|το|απογεύματα|n|après-midi|temps|Το απόγευμα πάμε για μπάνιο.|L'après-midi, nous allons nous baigner.|apógevma|to apógevma páme gia bánio.
+βράδυ|το|βράδια|n|soir|temps|Καλησπέρα! Τι κάνεις απόψε το βράδυ;|Bonsoir ! Que fais-tu ce soir ?|vrádi|kalispéra! ti kánis apópse to vrádi?
+νύχτα|η|νύχτες|n|nuit|temps|Καληνύχτα!|Bonne nuit !|níhta|kaliníhta!
+σήμερα||-|adv|aujourd'hui|temps|Σήμερα είναι Δευτέρα.|Aujourd'hui, c'est lundi.|símera|símera íne deftéra.
+αύριο||-|adv|demain|temps|Τα λέμε αύριο!|À demain !|ávrio|ta léme ávrio!
+χθες||-|adv|hier|temps|Χθες ήμουν στον κινηματογράφο.|Hier, j'étais au cinéma.|hthes|hthes ímun ston kinimatográfo.
+νωρίς||-|adv|tôt|temps|Ξυπνάω νωρίς.|Je me lève tôt.|norís|ksipnáo norís.
+αργά||-|adv|tard;lentement|temps|Είναι ήδη αργά.|Il est déjà tard.|argá|íne ídi argá.
+σε λίγο||-|adv|bientôt;dans un instant|temps|Έρχομαι σε λίγο.|J'arrive dans un instant.|se lígo|érhome se lígo.
+Δευτέρα|η|-|n|lundi|temps|Τη Δευτέρα δουλεύω.|Le lundi, je travaille.|deftéra|ti deftéra dulévo.
+Τρίτη|η|-|n|mardi|temps|Την Τρίτη έχω γυμναστική.|Le mardi, j'ai sport.|tríti|tin tríti ého gimnastikí.
+Τετάρτη|η|-|n|mercredi|temps|Την Τετάρτη πάω για ψώνια.|Mercredi, je fais les courses.|tetárti|tin tetárti páo gia psónia.
+Πέμπτη|η|-|n|jeudi|temps|Τα λέμε την Πέμπτη.|On se voit jeudi.|pémpti|ta léme tin pémpti.
+Παρασκευή|η|-|n|vendredi|temps|Την Παρασκευή βγαίνουμε.|Vendredi, nous sortons.|paraskeví|tin paraskeví vgénume.
+Σάββατο|το|-|n|samedi|temps|Το Σάββατο κοιμάμαι αργά.|Le samedi, je fais la grasse matinée.|sávato|to sávato kimáme argá.
+Κυριακή|η|-|n|dimanche|temps|Την Κυριακή πάμε στη θάλασσα.|Le dimanche, nous allons à la mer.|kiriakí|tin kiriakí páme sti thálasa.
+Σαββατοκύριακο|το|-|n|week-end|temps|Καλό Σαββατοκύριακο!|Bon week-end !|savatokíriako|kaló savatokíriako!
+άνοιξη|η|-|n|printemps|temps|Την άνοιξη ανθίζουν τα λουλούδια.|Au printemps, les fleurs éclosent.|ániksi|tin ániksi anthízun ta lulúdia.
+καλοκαίρι|το|-|n|été|temps|Το καλοκαίρι κάνει ζέστη.|L'été, il fait chaud.|kalokéri|to kalokéri káni zésti.
+φθινόπωρο|το|-|n|automne|temps|Το φθινόπωρο πέφτουν τα φύλλα.|En automne, les feuilles tombent.|fthinóporo|to fthinóporo péftun ta fíla.
+χειμώνας|ο|-|n|hiver|temps|Τον χειμώνα χιονίζει στα βουνά.|L'hiver, il neige en montagne.|himónas|ton himóna hionízi sta vuná.
+Χριστούγεννα|τα|-|n|Noël|temps|Καλά Χριστούγεννα!|Joyeux Noël !|hristúgena|kalá hristúgena!
+Πάσχα|το|-|n|Pâques|temps|Καλό Πάσχα!|Joyeuses Pâques !|páscha|kaló páscha!
+διακοπές|οι|-|n|vacances|temps|Πάμε διακοπές στην Κρήτη.|Nous partons en vacances en Crète.|diakopés|páme diakopés stin kríti.
+ραντεβού|το|-|n|rendez-vous|temps|Έχω ραντεβού με τον γιατρό.|J'ai rendez-vous chez le médecin.|randevú|ého randevú me ton giatró.
+ένα||-|num|un|nombres|Ένας καφές, παρακαλώ.|Un café, s'il vous plaît.|éna|énas kafés, parakaló.
+δύο||-|num|deux|nombres|Δύο μπίρες, παρακαλώ.|Deux bières, s'il vous plaît.|dío|dío bíres, parakaló.
+τρία||-|num|trois|nombres|Είμαστε τρία άτομα.|Nous sommes trois.|tría|ímaste tría átoma.
+τέσσερα||-|num|quatre|nombres|Το παιδί είναι τεσσάρων χρονών.|L'enfant a quatre ans.|tésera|to pedí íne tesáron hronón.
+πέντε||-|num|cinq|nombres|Κάνει πέντε ευρώ.|Ça fait cinq euros.|pénde|káni pénde evró.
+έξι||-|num|six|nombres|Ξυπνάω στις έξι.|Je me lève à six heures.|éksi|ksipnáo stis éksi.
+επτά||-|num|sept|nombres|Η εβδομάδα έχει επτά μέρες.|La semaine a sept jours.|eptá|i evdomáda éhi eptá méres.
+οκτώ||-|num|huit|nombres|Η ταινία αρχίζει στις οκτώ.|Le film commence à huit heures.|októ|i tenía arhízi stis októ.
+εννιά||-|num|neuf|nombres|Κοιμήθηκα εννιά ώρες.|J'ai dormi neuf heures.|eniá|kimíthika eniá óres.
+δέκα||-|num|dix|nombres|Είμαι εκεί σε δέκα λεπτά.|Je suis là dans dix minutes.|déka|íme ekí se déka leptá.
+είκοσι||-|num|vingt|nombres|Είναι είκοσι χρονών.|Elle a vingt ans.|íkosi|íne íkosi hronón.
+πενήντα||-|num|cinquante|nombres|Το εισιτήριο κάνει πενήντα ευρώ.|Le billet coûte cinquante euros.|penínda|to isitírio káni penínda evró.
+εκατό||-|num|cent|nombres|Είναι εκατό μέτρα.|C'est à cent mètres.|ekató|íne ekató métra.
+χίλια||-|num|mille|nombres|Χίλια ευχαριστώ!|Mille mercis !|hília|hília efharistó!
+πρώτος||-|adj|premier|nombres|Είναι η πρώτη μου μέρα εδώ.|C'est mon premier jour ici.|prótos|íne i próti mu méra edó.
+μισός||-|adj|demi;moitié|nombres|Είναι δύο και μισή.|Il est deux heures et demie.|misós|íne dío ke misí.
+κιλό|το|κιλά|n|kilo|nombres|Ένα κιλό ντομάτες, παρακαλώ.|Un kilo de tomates, s'il vous plaît.|kiló|éna kiló domátes, parakaló.
+λίτρο|το|λίτρα|n|litre|nombres|Πίνω δύο λίτρα νερό τη μέρα.|Je bois deux litres d'eau par jour.|lítro|píno dío lítra neró ti méra.
+κομμάτι|το|κομμάτια|n|morceau;part|nombres|Ένα κομμάτι γλυκό, παρακαλώ.|Une part de gâteau, s'il vous plaît.|komáti|éna komáti glikó, parakaló.
+αρκετά||-|adv|assez|nombres|Έφαγα αρκετά.|J'ai assez mangé.|arketá|éfaga arketá.
+κάθε||-|det|chaque|nombres|Περπατάω κάθε μέρα.|Je marche tous les jours.|káthe|perpatáo káthe méra.

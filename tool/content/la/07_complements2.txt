@@ -1,0 +1,132 @@
+# mot|genre (m, f, n)|formes|nature|traductions (;)|situation|exemple|exemple FR
+fio||fieri, factus sum|v|devenir;se faire;arriver|essentiel|Quid factum est?|Que s'est-il passé ?
+accido||accidere, accidi|v|arriver;se produire|essentiel|Quid accidit?|Que s'est-il passé ?
+pertineo||pertinere, pertinui|v|concerner;appartenir|essentiel|Hoc ad te pertinet.|Cela te concerne.
+porto||portare, portavi, portatum|v|porter|essentiel|Sarcinam porto.|Je porte le bagage.
+pulso||pulsare, pulsavi, pulsatum|v|frapper;battre|essentiel|Aliquis ianuam pulsat.|Quelqu'un frappe à la porte.
+sequor||sequi, secutus sum|v|suivre|essentiel|Sequere me!|Suis-moi !
+divido||dividere, divisi, divisum|v|partager;diviser|essentiel|Placentam dividimus.|Nous partageons le gâteau.
+aedifico||aedificare, aedificavi, aedificatum|v|construire|essentiel|Domum novam aedificant.|Ils construisent une nouvelle maison.
+frango||frangere, fregi, fractum|v|briser;casser|essentiel|Poculum fregi.|J'ai cassé un verre.
+subrideo||subridere, subrisi|v|sourire|sentiments|Subride!|Souris !
+osculor||osculari, osculatus sum|v|embrasser|personnes|Mater infantem osculatur.|La mère embrasse le bébé.
+cresco (grandir)||crescere, crevi|v|grandir|personnes|In vico crevi.|J'ai grandi dans un village.
+mittere salutem||-|v|saluter (par écrit)|communication|Matri tuae salutem mitto.|Je salue ta mère.
+anno priore||-|adv|l'an dernier|temps|Anno priore in Graeciam ivimus.|L'an dernier, nous sommes allés en Grèce.
+hoc anno||-|adv|cette année|temps|Hoc anno domi manemus.|Cette année, nous restons à la maison.
+hodie vesperi||-|adv|ce soir|temps|Quid hodie vesperi facis?|Que fais-tu ce soir ?
+nudius tertius||-|adv|avant-hier|temps|Nudius tertius pluebat.|Avant-hier, il pleuvait.
+perendie||-|adv|après-demain|temps|Perendie abeo.|Je pars après-demain.
+diu||-|adv|longtemps|temps|Diu te exspectavi.|Je t'ai attendu longtemps.
+dies (date)|m|diei|n|date;jour|temps|Quis dies hodie est?|Quel jour sommes-nous ?
+duro||durare, duravi, duratum|v|durer|temps|Quamdiu iter durat?|Combien de temps dure le voyage ?
+Ianuarius|m|Ianuarii|n|janvier|temps|Mense Ianuario frigus est.|En janvier, il fait froid.
+Februarius|m|Februarii|n|février|temps|Mense Februario ningit.|En février, il neige.
+Martius|m|Martii|n|mars|temps|Mense Martio ver venit.|En mars, le printemps arrive.
+Aprilis|m|Aprilis|n|avril|temps|Mense Aprili saepe pluit.|En avril, il pleut souvent.
+Maius|m|Maii|n|mai|temps|Mense Maio flores florent.|En mai, les fleurs éclosent.
+Iunius|m|Iunii|n|juin|temps|Mense Iunio aestas incipit.|En juin, l'été commence.
+Iulius|m|Iulii|n|juillet|temps|Mensis Iulius a Iulio Caesare nomen habet.|Le mois de juillet tient son nom de Jules César.
+Augustus|m|Augusti|n|août|temps|Mense Augusto calor magnus est.|En août, il fait très chaud.
+September|m|Septembris|n|septembre|temps|Mense Septembri scholae aperiuntur.|En septembre, les écoles ouvrent.
+October|m|Octobris|n|octobre|temps|Mense Octobri folia cadunt.|En octobre, les feuilles tombent.
+November|m|Novembris|n|novembre|temps|Mense Novembri olivas legimus.|En novembre, nous récoltons les olives.
+December|m|Decembris|n|décembre|temps|Mense Decembri Saturnalia celebrabantur.|En décembre, on célébrait les Saturnales.
+Saturnalia|n|Saturnalium|n|Saturnales (fête de décembre)|temps|Io, Saturnalia!|Joyeuses Saturnales !
+Natalis Christi|m|Natalis Christi|n|Noël|temps|Felicem Natalem Christi!|Joyeux Noël !
+Pascha|n|Paschatis|n|Pâques|temps|Felix Pascha!|Joyeuses Pâques !
+undecim||-|num|onze|nombres|Turma undecim lusores habet.|L'équipe a onze joueurs.
+duodecim||-|num|douze|nombres|Duodecim menses annus habet.|L'année a douze mois.
+triginta||-|num|trente|nombres|Laophorum triginta minutis venit.|Le bus arrive dans trente minutes.
+quinquaginta||-|num|cinquante|nombres|Tessera quinquaginta nummis constat.|Le billet coûte cinquante pièces.
+tertius||tertia, tertium|adj|troisième|nombres|In tertio tabulato habito.|J'habite au troisième étage.
+quadrans|m|quadrantis|n|quart|nombres|Quadrans horae.|Un quart d'heure.
+semel||-|adv|une fois|nombres|Semel in anno.|Une fois par an.
+bis||-|adv|deux fois|nombres|Bis Romam veni.|Je suis venu deux fois à Rome.
+saepius||-|adv|plus souvent|nombres|Saepius veni!|Viens plus souvent !
+passus|m|passus|n|pas (mesure : environ 1,5 m)|nombres|Mille passus abest.|C'est à mille pas.
+libra|f|librae|n|livre (poids);balance|nombres|Libram casei, quaeso.|Une livre de fromage, s'il te plaît.
+nonnulli||nonnullae, nonnulla|det|quelques;certains|nombres|Nonnullos dies maneo.|Je reste quelques jours.
+pauci||paucae, pauca|adj|peu nombreux;quelques|nombres|Pauci venerunt.|Peu de gens sont venus.
+multi||multae, multa|adj|nombreux;beaucoup de|nombres|Multi peregrinatores hic sunt.|Il y a beaucoup de touristes ici.
+nonne||-|adv|n'est-ce pas ? (attend oui)|essentiel|Nonne pulchrum est?|N'est-ce pas beau ?
+num||-|adv|est-ce que… ? (attend non)|essentiel|Num defessus es?|Tu n'es quand même pas fatigué ?
+-ne||-|adv|est-ce que… ? (particule)|essentiel|Venisne mecum?|Viens-tu avec moi ?
+invitatio|f|invitationis|n|invitation|loisirs|Gratias pro invitatione.|Merci pour l'invitation.
+convivium|n|convivii|n|banquet;repas entre amis|loisirs|Convivium iucundum erat.|Le repas entre amis était agréable.
+saltatio|f|saltationis|n|danse|loisirs|Saltatio Graeca pulchra est.|La danse grecque est belle.
+piscatus|m|piscatus|n|pêche|loisirs|Imusne piscatum?|On va à la pêche ?
+tabula lusoria|f|tabulae lusoriae|n|jeu de plateau|loisirs|Tabula lusoria ludimus.|Nous jouons à un jeu de plateau.
+tessera (dé)|f|tesserae|n|dé (à jouer)|loisirs|Alea iacta est.|Le sort en est jeté.
+iter pedestre|n|itineris pedestris|n|randonnée|loisirs|Iter pedestre tres horas durat.|La randonnée dure trois heures.
+tentorium|n|tentorii|n|tente|loisirs|In tentorio dormimus.|Nous dormons sous la tente.
+fabula (théâtre)|f|fabulae|n|pièce de théâtre|loisirs|Fabulam Plauti spectamus.|Nous regardons une pièce de Plaute.
+specto||spectare, spectavi, spectatum|v|regarder|loisirs|Ludos spectamus.|Nous regardons les jeux.
+gladiator|m|gladiatoris|n|gladiateur|sport|Gladiatores in arena pugnant.|Les gladiateurs combattent dans l'arène.
+circus|m|circi|n|cirque (courses de chars)|sport|Circus Maximus ingens erat.|Le Circus Maximus était immense.
+cursus|m|cursus|n|course;parcours|sport|Cursus hora decima incipit.|La course commence à la dixième heure.
+palaestra|f|palaestrae|n|palestre;salle de sport|sport|In palaestram eo.|Je vais à la salle de sport.
+fautor|m|fautoris|n|supporter;partisan|sport|Fautor ardens est.|C'est un supporter passionné.
+cursor|m|cursoris|n|coureur|sport|Cursor celerrimus est.|Le coureur est très rapide.
+medicina|f|medicinae|n|médecine;remède|sante|Medicinam studet.|Elle étudie la médecine.
+ustio solaris|f|ustionis solaris|n|coup de soleil|sante|Ustionem solarem habeo.|J'ai un coup de soleil.
+unguentum|n|unguenti|n|crème;onguent|sante|Unguentum adhibe.|Mets de la crème.
+culex|m|culicis|n|moustique|sante|Multi culices hodie sunt.|Il y a beaucoup de moustiques aujourd'hui.
+urgens||urgentis|adj|urgent|sante|Res urgens est!|C'est urgent !
+caecus||caeca, caecum|adj|aveugle|sante|Amor caecus est.|L'amour est aveugle.
+clima|n|climatis|n|climat|nature|Clima mite est.|Le climat est doux.
+procella|f|procellae|n|tempête;orage|nature|Hodie vesperi procella erit.|Ce soir, il y aura un orage.
+gradus|m|gradus|n|degré;pas;marche|nature|Triginta gradus sunt.|Il fait trente degrés.
+serenus||serena, serenum|adj|serein;clair (ciel)|nature|Caelum serenum est.|Le ciel est dégagé.
+nubilus||nubila, nubilum|adj|nuageux|nature|Hodie nubilum est.|Aujourd'hui, c'est nuageux.
+madidus||madida, madidum|adj|mouillé|nature|Calcei mei madidi sunt.|Mes chaussures sont mouillées.
+siccus||sicca, siccum|adj|sec|nature|Vestes siccae sunt.|Le linge est sec.
+vallis|f|vallis|n|vallée|nature|Vicus in valle est.|Le village est dans la vallée.
+collis|m|collis|n|colline|nature|Roma septem colles habet.|Rome a sept collines.
+planta|f|plantae|n|plante|nature|Planta aquam requirit.|La plante a besoin d'eau.
+rosa|f|rosae|n|rose|nature|Rosa pulchra est.|La rose est belle.
+mus|m|muris|n|souris|nature|Feles murem capit.|Le chat attrape une souris.
+porcus|m|porci|n|porc|nature|Porcus in stabulo est.|Le porc est dans l'étable.
+gallus|m|galli|n|coq|nature|Gallus mane canit.|Le coq chante le matin.
+apis|f|apis|n|abeille|nature|Apes mel faciunt.|Les abeilles font le miel.
+leo|m|leonis|n|lion|nature|Leo rex animalium est.|Le lion est le roi des animaux.
+delphinus|m|delphini|n|dauphin|nature|Delphinos e nave vidimus!|Nous avons vu des dauphins depuis le bateau !
+sinus|m|sinus|n|poche;pli;baie|vetements|Clavis in sinu meo est.|La clé est dans ma poche.
+stola|f|stolae|n|robe (de matrone)|vetements|Matrona stolam gerit.|La matrone porte une robe.
+novus (à la mode)||nova, novum|adj|à la mode;nouveau|vetements|Vestis novissima est.|Le vêtement est très à la mode.
+roseus||rosea, roseum|adj|rose (couleur)|vetements|Infans vestem roseam gerit.|Le bébé porte un vêtement rose.
+aurantius||aurantia, aurantium|adj|orange (couleur)|vetements|Pallium aurantium est.|Le manteau est orange.
+varius||varia, varium|adj|varié;multicolore|vetements|Flores varii sunt.|Les fleurs sont multicolores.
+angustus||angusta, angustum|adj|étroit|vetements|Bracae angustae sunt.|Le pantalon est serré.
+amplus||ampla, amplum|adj|ample;large|vetements|Tunica nimis ampla est.|La tunique est trop large.
+experientia|f|experientiae|n|expérience|travail|Multam experientiam habeo.|J'ai beaucoup d'expérience.
+pensum|n|pensi|n|tâche;devoir|travail|Pensum finivi.|J'ai fini ma tâche.
+colloquium|n|colloquii|n|entretien;conversation|travail|Cras colloquium habeo.|Demain, j'ai un entretien.
+consilium (plan)|n|consilii|n|plan;projet|travail|Quod est consilium hodie?|Quel est le programme aujourd'hui ?
+otium (retraite)|n|otii|n|retraite;repos|travail|Post duos annos in otium eo.|Dans deux ans, je pars à la retraite.
+tabula|f|tabulae|n|tableau;tablette|travail|Magister in tabula scribit.|Le maître écrit au tableau.
+imago (cadre)|f|imaginis|n|portrait|maison|Imago avi in pariete pendet.|Le portrait de grand-père est accroché au mur.
+tapete|n|tapetis|n|tapis|maison|Tapete novum est.|Le tapis est neuf.
+area|f|areae|n|cour|maison|Liberi in area ludunt.|Les enfants jouent dans la cour.
+stabulum|n|stabuli|n|étable;garage|maison|Autocinetum in stabulo est.|La voiture est au garage.
+torreo||torrere, torrui, tostum|v|griller;rôtir|cafe|Panem torreo.|Je fais griller du pain.
+polypus|m|polypi|n|poulpe|cafe|Polypus assus.|Du poulpe grillé.
+lolligo|f|lolliginis|n|calamar|cafe|Lolligines frictas, quaeso.|Des calamars frits, s'il te plaît.
+cerasum|n|cerasi|n|cerise|courses|Cerasa rubra sunt.|Les cerises sont rouges.
+nux|f|nucis|n|noix|courses|Nuces et ficus.|Des noix et des figues.
+conserva|f|conservae|n|boîte de conserve|courses|Conservam thunni, quaeso.|Une boîte de thon, s'il te plaît.
+pistrinum|n|pistrini|n|moulin;boulangerie|courses|Panem in pistrino emo.|J'achète le pain à la boulangerie.
+reliquum|n|reliqui|n|reste;monnaie|courses|Reliquum tibi habe.|Garde la monnaie.
+tributum|n|tributi|n|impôt;taxe|courses|Tributum solvendum est.|Il faut payer la taxe.
+mercatus|m|mercatus|n|marché;commerce|ville|Mercatus die Saturni est.|Le marché a lieu le samedi.
+basilica (forum)|f|basilicae|n|halle publique|ville|In basilica mercatores conveniunt.|Les marchands se réunissent dans la basilique.
+aquaeductus|m|aquaeductus|n|aqueduc|ville|Aquaeductus aquam in urbem fert.|L'aqueduc amène l'eau dans la ville.
+columna|f|columnae|n|colonne|ville|Columnae templi altae sunt.|Les colonnes du temple sont hautes.
+statua|f|statuae|n|statue|ville|Statua imperatoris in foro est.|La statue de l'empereur est sur le forum.
+moenia|n|moenium|n|remparts|ville|Moenia urbis vetera sunt.|Les remparts de la ville sont anciens.
+porta|f|portae|n|porte (de ville)|ville|Per portam in urbem intramus.|Nous entrons dans la ville par la porte.
+intro||intrare, intravi, intratum|v|entrer|ville|Intra, quaeso!|Entre, je t'en prie !
+navigo||navigare, navigavi, navigatum|v|naviguer|transports|In Graeciam navigamus.|Nous naviguons vers la Grèce.
+iter (itinéraire)|n|itineris|n|itinéraire;horaire|transports|Inspice iter.|Regarde l'itinéraire.
+lectica|f|lecticae|n|litière;chaise à porteurs|transports|Senator lectica vehitur.|Le sénateur se déplace en litière.
+semita|f|semitae|n|sentier;trottoir|transports|Semitam sequimur.|Nous suivons le sentier.
