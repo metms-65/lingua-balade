@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+import '../companion/llm_client.dart';
+import '../companion/llm_factory.dart';
 
 import '../core/error_log.dart';
 import '../core/languages.dart';
@@ -17,6 +21,9 @@ class SettingsScreen extends ConsumerStatefulWidget {
 class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   final _keyController = TextEditingController();
   bool _keySaved = false;
+
+  /// Vérification de la clé collée en cours.
+  bool _checking = false;
 
   @override
   void initState() {
@@ -36,6 +43,60 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   }
 
   void _set(AppSettings Function(AppSettings) change) => ref.read(settingsProvider.notifier).update(change);
+
+  void _snack(String message) {
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(message), duration: const Duration(seconds: 5)));
+  }
+
+  /// Page du fournisseur où l'on crée sa clé (il faut s'y connecter avec son propre compte).
+  static String _keyPage(String provider) =>
+      provider == 'gemini' ? 'https://aistudio.google.com/apikey' : 'https://platform.openai.com/api-keys';
+
+  Future<void> _openKeyPage(String provider) async {
+    final ok = await launchUrl(Uri.parse(_keyPage(provider)), mode: LaunchMode.externalApplication);
+    if (!ok) _snack('Impossible d\'ouvrir le navigateur. Allez sur ${_keyPage(provider)}');
+  }
+
+  /// Colle la clé copiée, l'enregistre, puis vérifie qu'elle fonctionne par un court appel.
+  Future<void> _pasteKey() async {
+    final s = ref.read(settingsProvider);
+    final store = ref.read(apiKeyStoreProvider);
+    final pasted = (await Clipboard.getData(Clipboard.kTextPlain))?.text?.trim() ?? '';
+    if (pasted.isEmpty) {
+      _snack('Le presse-papiers est vide : copiez d\'abord la clé sur la page ${s.providerName}.');
+      return;
+    }
+    // Pas de contrôle du préfixe : les fournisseurs changent parfois la forme des clés.
+    // C'est l'appel de test qui dit si la clé est bonne.
+    if (pasted.length < 20 || pasted.contains(RegExp(r'\s'))) {
+      _snack('Ce texte ne ressemble pas à une clé d\'API (${pasted.length} caractères). '
+          'Sur la page ${s.providerName}, touchez l\'icône de copie à côté de la clé, puis réessayez.');
+      return;
+    }
+    setState(() => _checking = true);
+    await store.write(s.provider, pasted);
+    // La clé ne reste pas dans le presse-papiers, où d'autres applications pourraient la lire.
+    await Clipboard.setData(const ClipboardData(text: ''));
+    try {
+      final client = await buildLlmClient(s, store);
+      await client.chat([const ChatMessage('user', 'Réponds seulement : OK')], maxTokens: 16);
+      _snack('Clé ${s.providerName} vérifiée et enregistrée. Le compagnon est prêt.');
+    } on ApiException catch (e) {
+      if (e.message.startsWith('Clé d\'API refusée')) {
+        await store.write(s.provider, null);
+        _snack('${s.providerName} refuse cette clé. Vérifiez que vous l\'avez copiée en entier.');
+      } else {
+        _snack('Clé enregistrée, mais le test n\'a pas abouti : ${e.message}');
+      }
+    } catch (e) {
+      _snack('Clé enregistrée, mais le test n\'a pas abouti : $e');
+    } finally {
+      if (mounted) setState(() => _checking = false);
+      await _refreshKey();
+    }
+  }
+
 
   @override
   Widget build(BuildContext context) {
@@ -141,12 +202,39 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             },
           ),
           const SizedBox(height: 12),
+          Text(
+            s.provider == 'gemini'
+                ? 'Créez une clé gratuite avec votre compte Google, copiez-la, puis revenez ici et collez-la.'
+                : 'Créez une clé avec votre compte OpenAI (un moyen de paiement est nécessaire), copiez-la, puis collez-la ici.',
+            style: text.bodySmall,
+          ),
+          const SizedBox(height: 8),
+          Row(children: [
+            Expanded(
+              child: OutlinedButton.icon(
+                onPressed: () => _openKeyPage(s.provider),
+                icon: const Icon(Icons.open_in_new),
+                label: const Text('Créer ma clé'),
+              ),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: FilledButton.icon(
+                onPressed: _checking ? null : _pasteKey,
+                icon: _checking
+                    ? const SizedBox(width: 18, height: 18, child: CircularProgressIndicator(strokeWidth: 2))
+                    : const Icon(Icons.content_paste),
+                label: Text(_checking ? 'Vérification…' : 'Coller ma clé'),
+              ),
+            ),
+          ]),
+          const SizedBox(height: 12),
           TextField(
             controller: _keyController,
             obscureText: true,
             autocorrect: false,
             decoration: InputDecoration(
-              labelText: 'Clé d\'API ${s.providerName}',
+              labelText: 'Ou saisissez la clé ${s.providerName}',
               helperText: _keySaved
                   ? 'Une clé est enregistrée (chiffrée).'
                   : s.provider == 'gemini'
